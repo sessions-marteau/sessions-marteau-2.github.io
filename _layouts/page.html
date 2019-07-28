@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			{% if page.image %}
+			<div class="page-image-box">
+				<div class="page-image" style="background-image: url({{"/img/" | prepend: site.baseurl | append : page.image}})"></div>
+			</div>
+			{% endif %}
+		</div>
+		<article class="col col-12">
+			<div class="page-content">
+				<div class="page-head">
+					<h1 class="page-title">{{ page.title | escape }}</h1>
+				</div>
+
+				<div class="page-body">
+					{{ content }}
+				</div>
+			</div>
+		</article> <!-- /.page -->
+	</div>
+	<br>
+	{% include sidebar.html %}
+</div>
+
