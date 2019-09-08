@@ -1,3 +1,50 @@
+<style>
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+</style>
+
 <header class="header">
   <div class="container">
     <div class="row">
@@ -7,20 +54,49 @@
             <a href="{{site.baseurl}}/" class="logo-text">Sessions Marteau</a>
           </div>
 
-          <nav class="nav-menu">
+          <!-- <nav class="nav-menu">
             <i class="menu-close ion ion-ios-close"></i>
-            <ul class="menu-list">
+            <ul class="menu-list"> -->
               <!-- <li class="menu-item"><a href="{{site.baseurl}}/" class="menu-link">Home</a></li> -->
-              {% for page in site.pages %}
+              <!-- {% for page in site.pages %}
                 {% unless page.name == 'tags.html' or page.name == '404.html' %}
                   {% if page.title %}
                   <li class="menu-item"><a href="{{ page.url | prepend: site.baseurl }}" class="menu-link">{{ page.title }}</a></li>
                   {% endif %}
                 {% endunless %}
-              {% endfor %}
+              {% endfor %} -->
               
+            <!-- </ul>
+          </nav> -->
+
+          <nav class="nav-menu">
+            <i class="menu-close ion ion-ios-close"></i>
+            <ul class="menu-list">
+              <li class="menu-item"><a href="/a-propos/" class="menu-link">À propos</a></li>
+              <div class="dropdown">
+                <li class="dropbtn"><a href="/evenement/" class="menu-link">Évènement</a></li>
+                <div class="dropdown-content">
+                  <a href="/future/">À venir</a>
+                  <a href="/session/">Passés</a>
+                  <a href="/partneriats/">Partneriat</a>
+                </div>
+              </div>
+              <div class="dropdown">
+                <li class="dropbtn"><a href="/musique/" class="menu-link">Musique</a></li></li>
+                <div class="dropdown-content">
+                  <a href="/podcast/">Podcasts</a>
+                  <a href="/playlist/">Playlists</a>
+                  <a href="/artistes/">Artistes</a>
+                  <a href="/commissaires/">Commissaires</a>
+                </div>
+              </div>
+              <li class="menu-item">
+              <li class="menu-item"><a href="/contact/" class="menu-link">Contact</a></li>
             </ul>
-          </nav>
+        </nav>
+
+
+          
           <div class="nav-buttons">
             <i class="menu-button d-hide ion ion-ios-menu"></i>
             <i class="search-button ion ion-ios-search"></i>
