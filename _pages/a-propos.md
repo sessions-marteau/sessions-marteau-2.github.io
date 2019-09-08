@@ -2,7 +2,7 @@
 layout: page
 title: À propos
 image: DSC2913.JPG
-permalink: /apropos/
+permalink: /a-propos/
 ---
 
 #### C'est part de Tokyo
