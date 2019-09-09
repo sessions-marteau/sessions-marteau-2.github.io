@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Événement
+title: Événements
 image: 2nd-SM_850204525888274432_o.jpg
-permalink: /evenement/
+permalink: /evenements/
 dropdown: true
 ---
 
