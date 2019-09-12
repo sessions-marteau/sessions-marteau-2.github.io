@@ -4,7 +4,7 @@ title: Musique
 permalink: /musique/
 ---
 
-### Podcasts
+### [Podcasts](#podcasts)
 
 Listen to our podcasts on 
 
@@ -34,7 +34,7 @@ Listen to our podcasts on
 
 <hr>
 
-### Playlists
+### [Playlists](#playlists)
 
 Check some of our playlists on 
 
@@ -59,7 +59,7 @@ Check some of our playlists on
 
 
 
-### Artistes
+### [Artistes](#artistes)
 
 These are some of the artists that have been played at the Listening Sessions Marteau:
 
@@ -102,7 +102,7 @@ These are some of the artists that have been played at the Listening Sessions Ma
 - Sayyd Abdul Al-Khabyyr
 
 
-### Commisaires
+### [Commissaires](#commissaires)
 
 #### Annete Zenith
 Aux tables tournantes cette fois-ci, le public pourra compter sur le travail de sélection de la commissaire invitée, musicienne et designer graphique, Anette Zénith. Éloge des étoiles, elle fait briller les astres par ses sons sensuels et envoûtants. Peur de rien, elle mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée. Flotter au-dessus des nuages et crier haut et fort la liberté pour éclairer le visage des âmes sensibles.
