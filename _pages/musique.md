@@ -4,7 +4,7 @@ title: Musique
 permalink: /musique/
 ---
 
-### Podcast
+### Podcasts
 
 <iframe src="https://embed.iono.fm/epi/723598?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/723598">Content hosted by iono.fm</a></iframe>
 
@@ -22,7 +22,8 @@ permalink: /musique/
 
 <hr>
 
-### YouTube
+### Playlists
+
 
 <div class="center-no-div">
         <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
@@ -30,3 +31,57 @@ permalink: /musique/
         </a>
 </div>
 
+### Artistes
+
+- Georgia
+- Pharoah Sanders
+- Oneohtrix Point Never
+- Laurel Halo
+- Aby Ngana Diop
+- Freeez
+- Hiromi Iwasaki
+- David Grubbs
+- Rexy
+- Les Rallizes Dénudés
+- Sangwan Lokum
+- Stefan Christoff et Osama Shalabi
+- Omar Khorshid
+- Cleoma Falcon
+- Labradford
+- cLOUDDEAD
+- Park Hye Jin
+- Cindy Lee
+- Paris Hilton
+
+- Lasse Thoresen
+- Åge Kvalbein
+- Liv Opdal Eggestad
+- Stig Nilsson
+- Oslo Philharmonic Orchestra
+- Marcello Viotti.
+
+- Jean Sibelius
+- Lahti Symphony
+- Osmo Vänskä. 
+
+- Karol Szymanowski
+- BBC Symphony Orchestra
+- Edward Gardner
+
+- Sadik Hakim
+- Sayyd Abdul Al-Khabyyr
+
+
+### Commisaires
+
+#### Annete Zenith
+Aux tables tournantes cette fois-ci, le public pourra compter sur le travail de sélection de la commissaire invitée, musicienne et designer graphique, Anette Zénith. Éloge des étoiles, elle fait briller les astres par ses sons sensuels et envoûtants. Peur de rien, elle mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée. Flotter au-dessus des nuages et crier haut et fort la liberté pour éclairer le visage des âmes sensibles.
+
+#### Hazy Montagne Mistique
+Cet artiste et musicien propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs. Dans le cocon céleste, un tourbillonnement de sons astraux se fait lancer dans les étoiles; beats bad a$$ U.K., old r'n'b, pitch down, pastoral psychedelia, sons ethnologiques, lo-fi, hi-fi, freak organique, smooth/bong jazz et poking musique.
+
+#### Jon Wild
+Jon Wild enseigne la composition et la théorie à l’Université McGill. Il est reconnu pour ses œuvres chorales et vocales, dont certaines ont été présentées à plusieurs reprises sur la scène internationale par le Hillier Ensemble, pour lequel il a été compositeur en résidence durant l’été 2002. Il est présentement « Assistant Professor » à l’École de musique Schulich de l’Université McGill.
+
+#### Felix-Antoine Hamel
+Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
