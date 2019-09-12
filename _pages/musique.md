@@ -6,13 +6,7 @@ permalink: /musique/
 
 ### Podcasts
 
-<iframe src="https://embed.iono.fm/epi/723598?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/723598">Content hosted by iono.fm</a></iframe>
-
-<iframe src="https://embed.iono.fm/epi/723591?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/723591">Content hosted by iono.fm</a></iframe>
-
-<iframe src="https://embed.iono.fm/epi/699906?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699906">Content hosted by iono.fm</a></iframe>
-
-<iframe src="https://embed.iono.fm/epi/699907?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699907">Content hosted by iono.fm</a></iframe>
+Listen to our podcasts on 
 
 <div class="center-no-div">
         <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
@@ -22,8 +16,27 @@ permalink: /musique/
 
 <hr>
 
+<iframe src="https://embed.iono.fm/epi/723598?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/723598">Content hosted by iono.fm</a></iframe>
+
+<hr>
+
+<iframe src="https://embed.iono.fm/epi/723591?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/723591">Content hosted by iono.fm</a></iframe>
+
+<hr>
+
+<iframe src="https://embed.iono.fm/epi/699906?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699906">Content hosted by iono.fm</a></iframe>
+
+<hr>
+
+<iframe src="https://embed.iono.fm/epi/699907?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699907">Content hosted by iono.fm</a></iframe>
+
+
+
+<hr>
+
 ### Playlists
 
+Check some of our playlists on 
 
 <div class="center-no-div">
         <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
@@ -31,7 +44,24 @@ permalink: /musique/
         </a>
 </div>
 
+<hr>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TjCkhONqzhA?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N7MTTcWZt4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I5AkNj62KLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zJdqm705TpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XRN6JiwIZKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 ### Artistes
+
+These are some of the artists that have been played at the Listening Sessions Marteau:
 
 - Georgia
 - Pharoah Sanders
