@@ -58,11 +58,11 @@ permalink: /musique/
 - Liv Opdal Eggestad
 - Stig Nilsson
 - Oslo Philharmonic Orchestra
-- Marcello Viotti.
+- Marcello Viotti
 
 - Jean Sibelius
 - Lahti Symphony
-- Osmo Vänskä. 
+- Osmo Vänskä
 
 - Karol Szymanowski
 - BBC Symphony Orchestra
