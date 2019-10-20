@@ -8,8 +8,8 @@ dropdown: true
 
 Some text is needed here to explain the three types of events: 
 
-- Sessions de ecoute a venir
-- Sessions de ecoute passe
+- Sessions d'écoute a venir
+- Sessions d'écoute passe
 - Sessions en partneriat
 
 
