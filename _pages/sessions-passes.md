@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sessions d'écoute passes
+title: Sessions passées
 image: 
 permalink: /sessions-passes/
 tag: 
