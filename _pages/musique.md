@@ -36,7 +36,7 @@ Listen to our podcasts on
 
 ### [Playlists](#playlists)
 
-Check some of our playlists on 
+Écoutez nos listes de lecture basé sur nos dernières sessions.
 
 <div class="center-no-div">
         <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
@@ -61,16 +61,16 @@ Check some of our playlists on
 
 ### [Artistes](#artistes)
 
-These are some of the artists that have been played at the Listening Sessions Marteau:
+Voici quelques uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
 
 - Georgia
-- Pharoah Sanders
-- Oneohtrix Point Never
-- Laurel Halo
-- Aby Ngana Diop
-- Freeez
-- Hiromi Iwasaki
-- David Grubbs
+- Pharoah Sanders http://www.pharoahsanders.com/
+- Oneohtrix Point Never http://www.pointnever.com/
+- Laurel Halo https://www.laurelhalo.com/
+- Aby Ngana Diop https://www.awesometapes.com/aby-ngana-diop-liital/
+- Freeez https://www.discogs.com/release/1401371
+- Hiromi Iwasaki http://www.hiroring.com/
+- David Grubbs https://www.dragcity.com/artists/david-grubbs
 - Rexy
 - Les Rallizes Dénudés
 - Sangwan Lokum
