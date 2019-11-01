@@ -5,11 +5,10 @@ date:   2019-03-16 00:00:00 +0300
 image:  CSLE-66208944_865780587124852_5659258370469658624_o.jpg
 tags:   Cinema
 ---
-Unicorn vegan humblebrag whatever microdosing, yr pabst post-ironic chartreuse. IPhone irony fingerstache microdosing juice poutine. Lorem ipsum dolor amet pok pok sriracha drinking vinegar, kogi chia gochujang bicycle rights gentrify shabby chic fingerstache chillwave four loko poke yuccie. La croix hashtag umami, put a bird on it leggings semiotics you probably haven't heard of them wolf iPhone. Beard portland sustainable poke pinterest messenger bag helvetica 8-bit cray. Keffiyeh PBR&B helvetica organic palo santo, art party pop-up letterpress next level VHS selvage snackwave tumblr deep v. Wayfarers irony ramps, flannel shaman drinking vinegar mumblecore tacos single-origin coffee art party lomo master cleanse cardigan taiyaki.
-
-Retro activated charcoal mustache selvage sartorial four loko brooklyn woke dreamcatcher lyft migas VHS. Bitters celiac flannel schlitz aesthetic echo park polaroid. Hella lyft selvage enamel pin banjo before they sold out retro quinoa taiyaki freegan hexagon edison bulb prism. Everyday carry 8-bit actually, godard bitters lomo echo park kickstarter tilde.
-
-Gluten-free bicycle rights kogi ramps chartreuse lyft. Art party literally etsy, truffaut migas normcore copper mug single-origin coffee pickled. Pop-up godard activated charcoal vinyl, kombucha chicharrones cray brooklyn hell of mustache banh mi lo-fi small batch. Ugh literally cred gluten-free. Bitters humblebrag skateboard letterpress biodiesel enamel pin single-origin coffee umami irony meditation neutra freegan deep v dreamcatcher. Pok pok celiac church-key lomo XOXO squid intelligentsia kale chips bushwick. Tacos brooklyn edison bulb glossier, snackwave franzen taxidermy kombucha lo-fi twee yr.
+En parallèle de ses événements d'écoute en groupe, l'organisation des Sessions Marteau est toujours à l'affût de nouveaux partenariats avec des acteurs du milieu culturel afin de rendre encore plus accessible son offre musicale et de faire rayonner le travail des commissaires invités.
+À l'été 2019, une première collaboration voit le jour avec Funambule Médias, responsable du festival Cinéma sous les étoiles consacré aux films documentaires sociaux et engagés. Tout au long de l'été, l'équipe des Sessions Marteau a conçu des listes musicales pour créer une ambiance unique quelques minutes avant le début de la projection et ainsi rendre l'expérience du public encore plus agréable.
+D'autres partenariats avec des OBNL sont à prévoir au cours des prochains mois afin de marier notre passion pour les musiques éclectiques à celles de créateurs et de diffuseurs qui partagent une philosophie de découvertes et d'engagement.
+N'hésitez pas à nous contacter à info@sessionsmarteau.com pour toute demande concernant un partenariat.
 
 ![]({{site.baseurl}}/img/CSLE-66208944_865780587124852_5659258370469658624_o.jpg)
 
