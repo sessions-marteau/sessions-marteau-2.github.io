@@ -56,24 +56,26 @@ permalink: /musique/
 
 Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
 
-<a href="http://paltoflats.com/release/georgia-all-kind-music/" target="_blank">- Georgia <br />
+<a href="http://paltoflats.com/release/georgia-all-kind-music/" target="_blank">- Georgia
 </a>  
-<a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders <br />
+<a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders
 </a>  
-<a href="http://www.pointnever.com/" target="_blank">- Oneohtrix Point Never <br />
+<a href="http://www.pointnever.com/" target="_blank">- Oneohtrix Point Never
 </a>  
-<a href="https://www.laurelhalo.com/" target="_blank">- Laurel Halo <br />
+<a href="https://www.laurelhalo.com/" target="_blank">- Laurel Halo 
 </a>  
-<a href="https://www.awesometapes.com/aby-ngana-diop-liital/" target="_blank">- Aby Ngana Diop <br />
+<a href="https://www.awesometapes.com/aby-ngana-diop-liital/" target="_blank">- Aby Ngana Diop
 </a>  
-<a href="https://www.discogs.com/release/1401371" target="_blank">- Freeez <br />
+<a href="https://www.discogs.com/release/1401371" target="_blank">- Freeez
 </a>  
-<a href="https://www.discogs.com/release/1401371" target="_blank">- Freeez <br />
+<a href="http://www.hiroring.com/" target="_blank">- Hiromi Iwasaki
+</a>
+<a href="https://www.dragcity.com/artists/david-grubbs" target="_blank">- David Grubbs
 </a>  
-- Hiromi Iwasaki http://www.hiroring.com/
-- David Grubbs https://www.dragcity.com/artists/david-grubbs
-- Rexy https://www.discogs.com/fr/Rexy-Running-Out-Of-Time/release/1865284
-- Les Rallizes Dénudés https://www.allmusic.com/artist/les-rallizes-d%C3%A9nud%C3%A9s-mn0001890518/biography
+<a href="ttps://www.discogs.com/fr/Rexy-Running-Out-Of-Time/release/1865284" target="_blank">- Rexy
+</a>  
+<a href="https://www.allmusic.com/artist/les-rallizes-d%C3%A9nud%C3%A9s-mn0001890518/biography" target="_blank">- Les Rallizes Dénudés
+</a>
 - Sangwan Lokum https://rateyourmusic.com/release/comp/various-artists/molam-thai-country-groove-from-isan/
 - Stefan Christoff et Osama Shalabi https://howlarts.net/rodina
 - Omar Khorshid https://www.discogs.com/artist/1068981-Omar-Khorshid
