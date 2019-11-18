@@ -74,14 +74,20 @@ permalink: /musique/
 
 Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
 
-<a href="http://paltoflats.com/release/georgia-all-kind-music/" target="_blank">- Georgia</a> <br />
+<a href="http://paltoflats.com/release/georgia-all-kind-music/" target="_blank">- Georgia <br />
 </a>  
-<a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders</a> <br />
+<a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders <br />
 </a>  
-- Oneohtrix Point Never http://www.pointnever.com/
-- Laurel Halo https://www.laurelhalo.com/
-- Aby Ngana Diop https://www.awesometapes.com/aby-ngana-diop-liital/
-- Freeez https://www.discogs.com/release/1401371
+<a href="http://www.pointnever.com/" target="_blank">- Oneohtrix Point Never <br />
+</a>  
+<a href="https://www.laurelhalo.com/" target="_blank">- Laurel Halo <br />
+</a>  
+<a href="https://www.awesometapes.com/aby-ngana-diop-liital/" target="_blank">- Aby Ngana Diop <br />
+</a>  
+<a href="https://www.discogs.com/release/1401371" target="_blank">- Freeez <br />
+</a>  
+<a href="https://www.discogs.com/release/1401371" target="_blank">- Freeez <br />
+</a>  
 - Hiromi Iwasaki http://www.hiroring.com/
 - David Grubbs https://www.dragcity.com/artists/david-grubbs
 - Rexy https://www.discogs.com/fr/Rexy-Running-Out-Of-Time/release/1865284
