@@ -40,11 +40,9 @@ permalink: /musique/
 
 ### [Playlists](#playlists)
 
-Écoutez nos listes de lecture des dernières sessions sur notre chaine <div class="center-no-div">
-        <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
+Écoutez nos listes de lecture des dernières sessions sur notre chaine <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
             <img src="{{site.baseurl}}/img/assets/yt_logo_mono_dark.png" width="100px">
         </a>
-</div>
 <hr>
 
 
@@ -76,12 +74,18 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 </a>
 <a href="https://howlarts.net/rodina" target="_blank">- Stefan Christoff et Osama Shalabi 
 </a>
-- Omar Khorshid https://www.discogs.com/artist/1068981-Omar-Khorshid
-- Cleoma Falcon https://musicrising.tulane.edu/discover/people/breaux-cleoma-falcon/
-- Labradford https://www.brainwashed.com/labradford/
-- cLOUDDEAD http://mushrecords.com/artist/cLOUDDEAD.php
-- Park Hye Jin https://www.residentadvisor.net/dj/parkhyejin
-- Cindy Lee http://cindyleeberryhill.com/
+<a href="https://www.discogs.com/artist/1068981-Omar-Khorshid" target="_blank">- Omar Khorshid
+</a>
+<a href="https://musicrising.tulane.edu/discover/people/breaux-cleoma-falcon/" target="_blank">- Cleoma Falcon
+</a>
+<a href="https://www.brainwashed.com/labradford/" target="_blank">- Labradford
+</a>
+<a href="http://mushrecords.com/artist/cLOUDDEAD.php" target="_blank">- cLOUDDEAD
+</a>
+<a href="https://www.residentadvisor.net/dj/parkhyejin/" target="_blank">- Park Hye Jin
+</a>
+<a href="http://cindyleeberryhill.com/" target="_blank">- Cindy Lee
+</a>
 - Paris Hilton
 
 - Lasse Thoresen http://www.lassethoresen.com/
