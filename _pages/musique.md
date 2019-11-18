@@ -68,24 +68,34 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 </a>  
 <a href="ttps://www.discogs.com/fr/Rexy-Running-Out-Of-Time/release/1865284" target="_blank">- Rexy
 </a>  
+
 <a href="https://www.allmusic.com/artist/les-rallizes-d%C3%A9nud%C3%A9s-mn0001890518/biography" target="_blank">- Les Rallizes Dénudés
 </a>
+
 <a href="https://rateyourmusic.com/release/comp/various-artists/molam-thai-country-groove-from-isan/" target="_blank">- Sangwan Lokum
 </a>
+
 <a href="https://howlarts.net/rodina" target="_blank">- Stefan Christoff et Osama Shalabi 
 </a>
+
 <a href="https://www.discogs.com/artist/1068981-Omar-Khorshid" target="_blank">- Omar Khorshid
 </a>
+
 <a href="https://musicrising.tulane.edu/discover/people/breaux-cleoma-falcon/" target="_blank">- Cleoma Falcon
 </a>
+
 <a href="https://www.brainwashed.com/labradford/" target="_blank">- Labradford
 </a>
+
 <a href="http://mushrecords.com/artist/cLOUDDEAD.php" target="_blank">- cLOUDDEAD
 </a>
+
 <a href="https://www.residentadvisor.net/dj/parkhyejin/" target="_blank">- Park Hye Jin
 </a>
+
 <a href="http://cindyleeberryhill.com/" target="_blank">- Cindy Lee
 </a>
+
 - Paris Hilton
 
 - Lasse Thoresen http://www.lassethoresen.com/
