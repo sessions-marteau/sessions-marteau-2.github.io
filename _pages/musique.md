@@ -140,13 +140,13 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 <a href="https://www.thecanadianencyclopedia.ca/en/article/al-hajj-sayyd-abdul-al-khabyyr-emc" target="_blank">- Sayyd Abdul Al-Khabyyr
 </a>
 <br>
-
+<hr>
 ### [Commissaires](#commissaires)
 
 #### Annete Zenith
 Aux tables tournantes cette fois-ci, le public pourra compter sur le travail de sélection de la commissaire invitée, musicienne et designer graphique, Anette Zénith. Éloge des étoiles, elle fait briller les astres par ses sons sensuels et envoûtants. Peur de rien, elle mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée. Flotter au-dessus des nuages et crier haut et fort la liberté pour éclairer le visage des âmes sensibles.
 
-#### Hazy Montagne Mistique
+#### Hazy Montagne Mystique
 Cet artiste et musicien propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs. Dans le cocon céleste, un tourbillonnement de sons astraux se fait lancer dans les étoiles; beats bad a$$ U.K., old r'n'b, pitch down, pastoral psychedelia, sons ethnologiques, lo-fi, hi-fi, freak organique, smooth/bong jazz et poking musique.
 
 #### Jon Wild
