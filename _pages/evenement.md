@@ -6,8 +6,6 @@ permalink: /evenements/
 dropdown: true
 ---
 
-Some text is needed here to explain the three types of events: 
-
 - Sessions d'écoute a venir
 - Sessions d'écoute passe
 - Sessions en partneriat
