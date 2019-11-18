@@ -41,9 +41,7 @@ permalink: /musique/
 
 ### [Playlists](#playlists)
 
-Écoutez nos listes de lecture des dernières sessions sur notre chaine <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA" target="_blank">Youtube <br />
-</a>   
-
+Écoutez nos listes de lecture des dernières sessions sur notre chaine 
 <div class="center-no-div">
         <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
             <img src="{{site.baseurl}}/img/assets/yt_logo_mono_dark.png" width="100px">
