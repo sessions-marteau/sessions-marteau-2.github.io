@@ -13,9 +13,13 @@ Ces sessions d’écoute ont pour but d’offrir au public un répertoire musica
 | PROJECTIONS CONCERNÉES PAR LEUR VENUE |
 
 CSE19 | Naila and the Uprising
+
 CSE19 | Avec un sourire, la révolution !
+
 CSE19 | Silas. No More Business as Usual
+
 CSE19 | Maxima
+
 CSE19 | Do You Trust This Computer?
 
 
