@@ -36,18 +36,16 @@ permalink: /musique/
 <iframe src="https://embed.iono.fm/epi/699907?quality=high" width="100%" height="135" frameborder="0"><a href="https://iono.fm/e/699907">Content hosted by iono.fm</a></iframe>
 
 
-
 <hr>
 
 ### [Playlists](#playlists)
 
-Écoutez nos listes de lecture des dernières sessions sur notre chaine 
-<div class="center-no-div">
+Écoutez nos listes de lecture des dernières sessions sur notre chaine <div class="center-no-div">
         <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
             <img src="{{site.baseurl}}/img/assets/yt_logo_mono_dark.png" width="100px">
         </a>
 </div>
-
+<hr>
 
 
 ### [Artistes](#artistes)
