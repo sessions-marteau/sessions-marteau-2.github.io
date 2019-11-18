@@ -6,7 +6,7 @@ permalink: /musique/
 
 ### [Podcasts](#podcasts)
 
-Listen to our podcasts on 
+Écoutez nos podcasts sur 
 
 <div class="center-no-div">
         <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
@@ -41,7 +41,7 @@ Listen to our podcasts on
 
 ### [Playlists](#playlists)
 
-Écoutez nos listes de lecture basé sur nos dernières sessions.
+Écoutez nos listes de lecture basées sur nos dernières sessions.
 
 <div class="center-no-div">
         <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
@@ -60,51 +60,59 @@ Listen to our podcasts on
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJdqm705TpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XRN6JiwIZKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA/playlists?view=50&flow=grid&shelf_id=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 
 
 
 
 ### [Artistes](#artistes)
 
-Voici quelques uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
+Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
 
 - Georgia
-- Pharoah Sanders http://www.pharoahsanders.com/
+- <a href="http://www.pharoahsanders.com/" Pharoah Sanders>
+</a>  
 - Oneohtrix Point Never http://www.pointnever.com/
 - Laurel Halo https://www.laurelhalo.com/
 - Aby Ngana Diop https://www.awesometapes.com/aby-ngana-diop-liital/
 - Freeez https://www.discogs.com/release/1401371
 - Hiromi Iwasaki http://www.hiroring.com/
 - David Grubbs https://www.dragcity.com/artists/david-grubbs
-- Rexy
-- Les Rallizes Dénudés
-- Sangwan Lokum
-- Stefan Christoff et Osama Shalabi
-- Omar Khorshid
-- Cleoma Falcon
-- Labradford
-- cLOUDDEAD
-- Park Hye Jin
-- Cindy Lee
+- Rexy https://www.discogs.com/fr/Rexy-Running-Out-Of-Time/release/1865284
+- Les Rallizes Dénudés https://www.allmusic.com/artist/les-rallizes-d%C3%A9nud%C3%A9s-mn0001890518/biography
+- Sangwan Lokum https://rateyourmusic.com/release/comp/various-artists/molam-thai-country-groove-from-isan/
+- Stefan Christoff et Osama Shalabi https://howlarts.net/rodina
+- Omar Khorshid https://www.discogs.com/artist/1068981-Omar-Khorshid
+- Cleoma Falcon https://musicrising.tulane.edu/discover/people/breaux-cleoma-falcon/
+- Labradford https://www.brainwashed.com/labradford/
+- cLOUDDEAD http://mushrecords.com/artist/cLOUDDEAD.php
+- Park Hye Jin https://www.residentadvisor.net/dj/parkhyejin
+- Cindy Lee http://cindyleeberryhill.com/
 - Paris Hilton
 
-- Lasse Thoresen
-- Åge Kvalbein
-- Liv Opdal Eggestad
-- Stig Nilsson
-- Oslo Philharmonic Orchestra
-- Marcello Viotti
+- Lasse Thoresen http://www.lassethoresen.com/
+- Åge Kvalbein https://www.discogs.com/artist/530202-Aage-Kvalbein
+- Liv Opdal Eggestad https://rateyourmusic.com/artist/liv_opdal_eggestad
+- Stig Nilsson https://rateyourmusic.com/artist/stig_nilsson_f1
+- Oslo Philharmonic Orchestra https://ofo.no/en/
+- Marcello Viotti https://rateyourmusic.com/artist/marcello_viotti
 
-- Jean Sibelius
-- Lahti Symphony
-- Osmo Vänskä
+- Jean Sibelius https://www.allmusic.com/artist/jean-sibelius-mn0000690353/biography
+- Lahti Symphony https://www.sinfonialahti.fi/orchestra/?lang=en
+- Osmo Vänskä https://www.hyperion-records.co.uk/a.asp?a=A93&name=vanska
 
-- Karol Szymanowski
-- BBC Symphony Orchestra
-- Edward Gardner
+- Karol Szymanowski https://polishmusic.usc.edu/research/composers/karol-szymanowski/
+- BBC Symphony Orchestra https://www.bbc.co.uk/symphonyorchestra
+- Edward Gardner https://www.askonasholt.com/artists/edward-gardner/
 
-- Sadik Hakim
-- Sayyd Abdul Al-Khabyyr
+- Sadik Hakim https://www.discogs.com/fr/artist/480264-Sadik-Hakim
+- Sayyd Abdul Al-Khabyyr https://www.thecanadianencyclopedia.ca/en/article/al-hajj-sayyd-abdul-al-khabyyr-emc
 
 
 ### [Commissaires](#commissaires)
@@ -120,3 +128,6 @@ Jon Wild enseigne la composition et la théorie à l’Université McGill. Il es
 
 #### Felix-Antoine Hamel
 Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
+
+#### Sam Shalabi
+Compositeur et improvisateur canado-égyptien, installé à Montréal. Ayant débuté dans le punk rock à la fin des années 70, son travail a évolué pour devenir une fusion de musique expérimentale et moderne qui incorpore la musique arabe traditionnelle; le shaabi, le noise, la musique classique, le texte, l'improvisation et le jazz. Il a publié 5 albums solo, 5 albums avec Shalabi Effect, un quatuor d'improvisation libre qui relie la musique psychédélique occidentale et le Maquam arabe (gammes) et 4 albums avec Land Of Kush (un orchestre expérimental de 30 membres, pour lequel il compose). Il est apparu sur plus de 60 albums et a fait des tournées en Europe, en Amérique du Nord et en Afrique du Nord.
