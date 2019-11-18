@@ -68,46 +68,43 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 </a>  
 <a href="ttps://www.discogs.com/fr/Rexy-Running-Out-Of-Time/release/1865284" target="_blank">- Rexy
 </a>  
-
 <a href="https://www.allmusic.com/artist/les-rallizes-d%C3%A9nud%C3%A9s-mn0001890518/biography" target="_blank">- Les Rallizes Dénudés
 </a>
-
 <a href="https://rateyourmusic.com/release/comp/various-artists/molam-thai-country-groove-from-isan/" target="_blank">- Sangwan Lokum
 </a>
-
 <a href="https://howlarts.net/rodina" target="_blank">- Stefan Christoff et Osama Shalabi 
 </a>
-
 <a href="https://www.discogs.com/artist/1068981-Omar-Khorshid" target="_blank">- Omar Khorshid
 </a>
-
 <a href="https://musicrising.tulane.edu/discover/people/breaux-cleoma-falcon/" target="_blank">- Cleoma Falcon
 </a>
-
 <a href="https://www.brainwashed.com/labradford/" target="_blank">- Labradford
 </a>
-
 <a href="http://mushrecords.com/artist/cLOUDDEAD.php" target="_blank">- cLOUDDEAD
 </a>
-
 <a href="https://www.residentadvisor.net/dj/parkhyejin/" target="_blank">- Park Hye Jin
 </a>
-
 <a href="http://cindyleeberryhill.com/" target="_blank">- Cindy Lee
 </a>
-
 - Paris Hilton
-
-- Lasse Thoresen http://www.lassethoresen.com/
-- Åge Kvalbein https://www.discogs.com/artist/530202-Aage-Kvalbein
-- Liv Opdal Eggestad https://rateyourmusic.com/artist/liv_opdal_eggestad
-- Stig Nilsson https://rateyourmusic.com/artist/stig_nilsson_f1
-- Oslo Philharmonic Orchestra https://ofo.no/en/
-- Marcello Viotti https://rateyourmusic.com/artist/marcello_viotti
-
-- Jean Sibelius https://www.allmusic.com/artist/jean-sibelius-mn0000690353/biography
-- Lahti Symphony https://www.sinfonialahti.fi/orchestra/?lang=en
-- Osmo Vänskä https://www.hyperion-records.co.uk/a.asp?a=A93&name=vanska
+<a href="http://www.lassethoresen.com/" target="_blank">- Lasse Thoresen
+</a>
+<a href="https://www.discogs.com/artist/530202-Aage-Kvalbein" target="_blank">- Åge Kvalbein
+</a>
+<a href="https://rateyourmusic.com/artist/liv_opdal_eggestad" target="_blank">- Liv Opdal Eggestad
+</a>
+<a href="https://rateyourmusic.com/artist/stig_nilsson_f1" target="_blank">- Stig Nilsson
+</a>
+<a href="https://ofo.no/en/" target="_blank">- Oslo Philharmonic Orchestra
+</a>
+<a href="https://rateyourmusic.com/artist/marcello_viotti" target="_blank">- Marcello Viotti
+</a>
+<a href="https://www.allmusic.com/artist/jean-sibelius-mn0000690353/biography" target="_blank">- Jean Sibelius
+</a>
+<a href="https://www.sinfonialahti.fi/orchestra/?lang=en" target="_blank">- Lahti Symphony
+</a>
+<a href="https://www.hyperion-records.co.uk/a.asp?a=A93&name=vanska" target="_blank">- Osmo Vänskä
+</a>
 
 - Karol Szymanowski https://polishmusic.usc.edu/research/composers/karol-szymanowski/
 - BBC Symphony Orchestra https://www.bbc.co.uk/symphonyorchestra
