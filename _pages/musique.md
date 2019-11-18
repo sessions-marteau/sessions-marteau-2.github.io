@@ -125,14 +125,21 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 <a href="https://www.hyperion-records.co.uk/a.asp?a=A93&name=vanska" target="_blank">- Osmo Vänskä
 </a>
 <br>
-
-- Karol Szymanowski https://polishmusic.usc.edu/research/composers/karol-szymanowski/
-- BBC Symphony Orchestra https://www.bbc.co.uk/symphonyorchestra
-- Edward Gardner https://www.askonasholt.com/artists/edward-gardner/
-
-- Sadik Hakim https://www.discogs.com/fr/artist/480264-Sadik-Hakim
-- Sayyd Abdul Al-Khabyyr https://www.thecanadianencyclopedia.ca/en/article/al-hajj-sayyd-abdul-al-khabyyr-emc
-
+<a href="https://polishmusic.usc.edu/research/composers/karol-szymanowski/" target="_blank">- Karol Szymanowski
+</a>
+<br>
+<a href="https://www.bbc.co.uk/symphonyorchestra" target="_blank">- BBC Symphony Orchestra
+</a>
+<br>
+<a href="https://www.askonasholt.com/artists/edward-gardner/" target="_blank">- Edward Gardner
+</a>
+<br>
+<a href="https://www.discogs.com/fr/artist/480264-Sadik-Hakim" target="_blank">- Sadik Hakim
+</a>
+<br>
+<a href="https://www.thecanadianencyclopedia.ca/en/article/al-hajj-sayyd-abdul-al-khabyyr-emc" target="_blank">- Sayyd Abdul Al-Khabyyr
+</a>
+<br>
 
 ### [Commissaires](#commissaires)
 
