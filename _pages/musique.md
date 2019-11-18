@@ -74,8 +74,10 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 </a>  
 <a href="https://www.allmusic.com/artist/les-rallizes-d%C3%A9nud%C3%A9s-mn0001890518/biography" target="_blank">- Les Rallizes Dénudés
 </a>
-- Sangwan Lokum https://rateyourmusic.com/release/comp/various-artists/molam-thai-country-groove-from-isan/
-- Stefan Christoff et Osama Shalabi https://howlarts.net/rodina
+<a href="https://rateyourmusic.com/release/comp/various-artists/molam-thai-country-groove-from-isan/" target="_blank">- Sangwan Lokum
+</a>
+<a href="https://howlarts.net/rodina" target="_blank">- Stefan Christoff et Osama Shalabi 
+</a>
 - Omar Khorshid https://www.discogs.com/artist/1068981-Omar-Khorshid
 - Cleoma Falcon https://musicrising.tulane.edu/discover/people/breaux-cleoma-falcon/
 - Labradford https://www.brainwashed.com/labradford/
