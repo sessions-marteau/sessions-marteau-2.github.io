@@ -51,17 +51,16 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TjCkhONqzhA?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="115" src="https://www.youtube.com/embed/TjCkhONqzhA?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N7MTTcWZt4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="115" src="https://www.youtube.com/embed/N7MTTcWZt4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I5AkNj62KLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="115" src="https://www.youtube.com/embed/I5AkNj62KLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zJdqm705TpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="115" src="https://www.youtube.com/embed/zJdqm705TpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XRN6JiwIZKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
-<iframe width="560" height="315" src="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA/playlists?view=50&flow=grid&shelf_id=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="115" src="https://www.youtube.com/embed/XRN6JiwIZKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
@@ -76,7 +75,7 @@ permalink: /musique/
 Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
 
 - Georgia
-- <a href="http://www.pharoahsanders.com/" Pharoah Sanders>
+<a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders</a> ?<br />
 </a>  
 - Oneohtrix Point Never http://www.pointnever.com/
 - Laurel Halo https://www.laurelhalo.com/
