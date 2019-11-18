@@ -6,9 +6,16 @@ permalink: /evenements/
 dropdown: true
 ---
 
-- Sessions d'écoute a venir
-- Sessions d'écoute passe
-- Sessions en partneriat
+
+<a href="https://sessionsmarteau.com/evenement-a-venir/" target="_blank">- Sessions d'écoute à venir
+</a>
+<br>
+<a href="https://sessionsmarteau.com/sessions-passes/" target="_blank">- Sessions d'écoute passées
+</a>
+<br>
+<a href="https://sessionsmarteau.com/partenariats/" target="_blank">- Sessions en partenariat
+</a>
+<br>
 
 
 ![]({{site.baseurl}}/img/2nd-SM-65241038_856968518006059_6133726693308760064_o.jpg)
