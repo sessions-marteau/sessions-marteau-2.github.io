@@ -74,8 +74,9 @@ permalink: /musique/
 
 Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
 
-- Georgia
-<a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders</a> ?<br />
+<a href="http://paltoflats.com/release/georgia-all-kind-music/" target="_blank">- Georgia</a> <br />
+</a>  
+<a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders</a> <br />
 </a>  
 - Oneohtrix Point Never http://www.pointnever.com/
 - Laurel Halo https://www.laurelhalo.com/
