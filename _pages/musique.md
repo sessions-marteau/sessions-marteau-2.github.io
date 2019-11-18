@@ -41,32 +41,14 @@ permalink: /musique/
 
 ### [Playlists](#playlists)
 
-Écoutez nos listes de lecture basées sur nos dernières sessions.
+Écoutez nos listes de lecture des dernières sessions sur notre chaine <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA" target="_blank">Youtube <br />
+</a>   
 
 <div class="center-no-div">
         <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
             <img src="{{site.baseurl}}/img/assets/yt_logo_mono_dark.png" width="100px">
         </a>
 </div>
-
-<hr>
-
-<iframe width="560" height="115" src="https://www.youtube.com/embed/TjCkhONqzhA?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
-<iframe width="560" height="115" src="https://www.youtube.com/embed/N7MTTcWZt4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
-<iframe width="560" height="115" src="https://www.youtube.com/embed/I5AkNj62KLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
-<iframe width="560" height="115" src="https://www.youtube.com/embed/zJdqm705TpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<hr>
-<iframe width="560" height="115" src="https://www.youtube.com/embed/XRN6JiwIZKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
-
 
 
 
