@@ -22,9 +22,8 @@ Programme et durée sujet à changement sans préavis
 
 Durée 120 minutes
 
-Réservation requise sur Eventbrite, places limités.
-https://www.eventbrite.ca/e/sessions-decoutelistening-sessions-marteau-3-sam-shalabi-tickets-76809103095?fbclid=IwAR3zodre6bkDAszi7jh7n071LywtaHmqB0D7UPfwJ7pjjO8kwkRchyjGPzo
+Réservation requise sur <a href="https://www.eventbrite.ca/e/sessions-decoutelistening-sessions-marteau-3-sam-shalabi-tickets-76809103095?fbclid=IwAR3zodre6bkDAszi7jh7n071LywtaHmqB0D7UPfwJ7pjjO8kwkRchyjGPzo" target="_blank">Eventbrite
+</a>, places limités.
 
-
-Évènement Facebook:
-https://www.facebook.com/events/2463061277300783/
+Évènement <a href="https://www.facebook.com/events/2463061277300783/" target="_blank">Facebook
+</a>
