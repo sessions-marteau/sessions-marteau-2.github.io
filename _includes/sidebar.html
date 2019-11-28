@@ -55,12 +55,22 @@
       </li>
       {% else %} {% endif %}
 
+       {% if site.twitter %}
+      <li class="social-profiles-item">
+        <a href="{{ site.twitter }}" class="social-profiles-link"><i class="ion ion-logo-twitter"></i></a>
+      </li>
+      {% else %} {% endif %}
+
       {% if site.instagram %}
       <li class="social-profiles-item">
         <a href="{{ site.instagram }}" class="social-profiles-link"><i class="ion ion-logo-instagram"></i></a>
       </li>
       {% else %} {% endif %}
-     
+
+      {% if site.pinterest %}
+      <li class="social-profiles-item">
+        <a href="{{ site.pinterest }}" class="social-profiles-link"><i class="ion ion-logo-pinterest"></i></a>
+      </li>
       {% else %} {% endif %}
     </ul>
   </div>
