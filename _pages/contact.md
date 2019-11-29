@@ -9,11 +9,11 @@ image: DSC2963.jpg
 </a> pour la Session d'écoute de Sam Shalabi.
 <br>
 
-Donnez-nous votre avis dans<a href="https://docs.google.com/forms/d/e/1FAIpQLSfyrPyKtBmTGzf7nJ98gjlHnXa4moSguP8rfO07iK-Pnl8fhw/viewform" target="_blank"> la boite à suggestions
+Donnez-nous votre avis sur nos sessions dans<a href="https://docs.google.com/forms/d/e/1FAIpQLSfyrPyKtBmTGzf7nJ98gjlHnXa4moSguP8rfO07iK-Pnl8fhw/viewform" target="_blank"> la boite à suggestions.
 </a>
 <br>
 
-Vous pouvez nous contacter via [notre e-mail](mailto:info@sessionsmarteau.com)
+Vous pouvez nous contacter via [notre courriel](mailto:info@sessionsmarteau.com)
 
 
 
