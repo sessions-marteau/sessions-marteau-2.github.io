@@ -9,7 +9,7 @@ image: DSC2963.jpg
 </a> Session d'écoute Sam Shalabi.
 <br>
 
-Donnez-nous votre avis dans<a href="https://docs.google.com/forms/d/e/1FAIpQLSfyrPyKtBmTGzf7nJ98gjlHnXa4moSguP8rfO07iK-Pnl8fhw/viewform" target="_blank">la boite à suggestions
+Donnez-nous votre avis dans<a href="https://docs.google.com/forms/d/e/1FAIpQLSfyrPyKtBmTGzf7nJ98gjlHnXa4moSguP8rfO07iK-Pnl8fhw/viewform" target="_blank"> la boite à suggestions
 </a>
 <br>
 
