@@ -6,7 +6,7 @@ permalink: /musique/
 
 ### [Podcasts](#podcasts)
 
-Écoutez nos podcasts de nos dernières sessions sur 
+Écoutez nos podcasts de nos dernières sessions sur: 
 
 <div class="center-no-div">
         <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
