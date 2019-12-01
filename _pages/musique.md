@@ -17,8 +17,16 @@ permalink: /musique/
           <img src="{{site.baseurl}}/img/assets/FR_Apple_Podcasts_Listen_Badge_RGB.svg">
         </a>
         
-        <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fuser-205324481&color=orange_white&size=32" style="width: 40px; height: 40px;"></iframe>
+        <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fsplouf&color=black_white&size=40" style="width: 40px; height: 40px;"></iframe>
+        
+        
+        
+            <a href="https://www.mixcloud.com/sessionsmarteau/">
+         <img src="{{site.baseurl}}/img/WhiteOnBlack.png" width="100px">
+      </a>
 
+<a href="https://www.mixcloud.com/sessionsmarteau/" target="_blank">- Mixcloud
+</a>  
            
 </div>
 
