@@ -20,13 +20,9 @@ permalink: /musique/
         <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fsplouf&color=black_white&size=40" style="width: 40px; height: 40px;"></iframe>
         
         
-        
             <a href="https://www.mixcloud.com/sessionsmarteau/">
-         <img src="{{site.baseurl}}/img/WhiteOnBlack.png" width="100px">
+         <img src="{{site.baseurl}}/img/WhiteOnBlack.png" width="40px">
       </a>
-
-<a href="https://www.mixcloud.com/sessionsmarteau/" target="_blank">- Mixcloud
-</a>  
            
 </div>
 
