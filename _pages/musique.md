@@ -19,7 +19,7 @@ permalink: /musique/
         
      
          <a href="https://soundcloud.com/user-205324481">
-         <img src="{{site.baseurl}}/img/soundcloud-icon" width="60px">
+         <img src="{{site.baseurl}}/img/soundcloud-icon.jpg" width="60px">
       </a>
         
         
