@@ -6,7 +6,7 @@ permalink: /musique/
 
 ### [Podcasts](#podcasts)
 
-Écoutez nos podcasts sur 
+Écoutez nos podcasts de nos dernières sessions sur 
 
 <div class="center-no-div">
         <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
@@ -48,7 +48,7 @@ permalink: /musique/
 
 ### [Playlists](#playlists)
 
-Écoutez nos listes de lecture des dernières sessions sur notre chaine <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
+Écoutez nos listes de lecture d'évènements passés sur notre chaine <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
             <img src="{{site.baseurl}}/img/assets/yt_logo_mono_dark.png" width="100px">
         </a>
 <hr>
