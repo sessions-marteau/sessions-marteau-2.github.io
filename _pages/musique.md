@@ -16,7 +16,8 @@ permalink: /musique/
 <a href="https://podcasts.apple.com/ca/podcast/sessions-d%C3%A9coute-marteau/id1468357088?mt=2&app=podcast&at=10l6Xd">
           <img src="{{site.baseurl}}/img/assets/FR_Apple_Podcasts_Listen_Badge_RGB.svg">
         </a>
-        <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fuser-205324481&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
+        
+        <iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fuser-205324481&color=orange_white&size=32" style="width: 40px; height: 40px;"></iframe>
 
            
 </div>
