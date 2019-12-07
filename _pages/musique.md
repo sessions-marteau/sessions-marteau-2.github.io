@@ -57,6 +57,44 @@ permalink: /musique/
 
 Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
 
+<a href="https://www.francemusique.fr/personne/thomas-tallis" target="_blank">- Thomas Tallis
+</a>  
+<a href="https://www.discogs.com/fr/artist/359259-Silvio-Mix">- Silvio Mix
+</a>  
+<a href="http://www.openculture.com/2016/04/hear-marcel-duchamps-radically-conceptual-musical-compositions-1912-1915.html">- Marcel Duchamp
+</a>  
+<a href="https://www.francemusique.fr/personne/igor-stravinsky">- Igor Stravinsky
+</a>  
+<a href="https://www.francemusique.fr/personne/edgard-varese">- Edgard Varèse
+</a>  
+<a href="http://www.karlheinzstockhausen.org/karlheinz_stockhausen_short_biography_english.htm">- Karlheinz Stockhausen
+</a>  
+<a href="https://www.britannica.com/biography/Blind-Willie-Johnson">- Blind Willie Johnston
+</a> 
+<a href="https://folkways.si.edu/doc-watson-and-clarence-ashley/original-folkways-recordings-1960-1962/american-folk-old-time/music/album/smithsonian">- Clarence Ashley
+</a> 
+<a href="https://folkways.si.edu/kiowa-peyote-meeting/american-indian/music/album/smithsonian">- Kiowa Peyote
+</a> 
+<a href="https://sublimefrequencies.bandcamp.com/album/staring-into-the-sun-ethiopian-tribal-music">- Dirashe Tribe
+</a> 
+<a href="https://raretunes.org/pipe-major-forsyth/">- Pipe Major Forsyth
+</a> 
+<a href="https://dust-digital.com/shop/music-of-morocco-recorded-by-paul-bowles-1959">- Sadiq ben Mohammed Laghzaoui Morsan and ensemble
+</a> 
+<a href="https://www.npr.org/2011/01/04/10862796/miles-davis-kind-of-blue">- Miles Davis
+</a> 
+<a href="https://rateyourmusic.com/release/album/john-coltrane/om-1/">- John Coltrane
+</a> 
+<a href="https://sundazed.com/fifty-foot-hose-bad-trips-lp.asp">- Fifty Foot Hose
+</a> 
+<a href="https://www.history-of-rock.com/chiffons.htm">- The Chiffons
+</a> 
+<a href="https://rapidcityjournal.com/blackhillstogo/arts-music/on-the-record-jim-backus-joined-by-wife-in-laughing/article_fb06a613-a330-5b87-9519-e16075783b80.html">- Jim Backus and Friend
+</a> 
+<a href="http://www.45cat.com/record/nc439216us">- The Invaders
+</a> 
+<a href="https://www.shugarecords.com/products/42569">- The Melody Mates
+</a> 
 <a href="http://paltoflats.com/release/georgia-all-kind-music/" target="_blank">- Georgia
 </a>  
 <a href="http://www.pharoahsanders.com" target="_blank">- Pharoah Sanders
