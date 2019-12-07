@@ -10,7 +10,7 @@ En parallèle de ses événements d'écoute en groupe, l'organisation des Sessio
 D'autres partenariats avec des partenaires sont à prévoir au cours des prochains mois afin de marier notre passion pour les musiques éclectiques à celles de créateurs et de diffuseurs qui partagent une philosophie de découvertes et d'engagement.
 <br>
 <br>
-N'hésitez pas à nous contacter à<a href="mailto:info@sessionsmarteau.com">info@sessionsmarteau.com</a> pour toute demande concernant un partenariat.
+N'hésitez pas à nous contacter à <a href="mailto:info@sessionsmarteau.com">info@sessionsmarteau.com</a> pour toute demande concernant un partenariat.
 
 
 
