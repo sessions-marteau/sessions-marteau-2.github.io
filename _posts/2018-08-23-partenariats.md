@@ -9,6 +9,8 @@ En parallèle de ses événements d'écoute en groupe, l'organisation des Sessio
 À l'été 2019, une première collaboration voit le jour avec Funambule Médias, responsable du festival Cinéma sous les étoiles consacré aux films documentaires sociaux et engagés. Tout au long de l'été, l'équipe des Sessions Marteau a conçu des listes musicales pour créer une ambiance unique quelques minutes avant le début de la projection et ainsi rendre l'expérience du public encore plus agréable.
 D'autres partenariats avec des partenaires sont à prévoir au cours des prochains mois afin de marier notre passion pour les musiques éclectiques à celles de créateurs et de diffuseurs qui partagent une philosophie de découvertes et d'engagement.
 <br>
-N'hésitez pas à nous contacter à [mailto:info@sessionsmarteau.com] pour toute demande concernant un partenariat.
+<br>
+N'hésitez pas à nous contacter à<a href="mailto:info@sessionsmarteau.com">info@sessionsmarteau.com</a> pour toute demande concernant un partenariat.
+
 
 
