@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Événement a venir
-image:
+image: _DSC4099.JPG
 permalink: /evenement-a-venir/
 dropdown: true
 ---
