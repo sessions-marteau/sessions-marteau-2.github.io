@@ -81,6 +81,7 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 <br>
 <a href="https://sublimefrequencies.bandcamp.com/album/staring-into-the-sun-ethiopian-tribal-music">- Dirashe Tribe
 </a> 
+<br>
 <a href="https://raretunes.org/pipe-major-forsyth/">- Pipe Major Forsyth
 </a>
 <br>
