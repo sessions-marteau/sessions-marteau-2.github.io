@@ -206,14 +206,14 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 #### Annete Zenith
 Aux tables tournantes cette fois-ci, le public pourra compter sur le travail de sélection de la commissaire invitée, musicienne et designer graphique, Anette Zénith. Éloge des étoiles, elle fait briller les astres par ses sons sensuels et envoûtants. Peur de rien, elle mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée. Flotter au-dessus des nuages et crier haut et fort la liberté pour éclairer le visage des âmes sensibles.
 
+#### Felix-Antoine Hamel
+Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
+
 #### Hazy Montagne Mystique
 Cet artiste et musicien propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs. Dans le cocon céleste, un tourbillonnement de sons astraux se fait lancer dans les étoiles; beats bad a$$ U.K., old r'n'b, pitch down, pastoral psychedelia, sons ethnologiques, lo-fi, hi-fi, freak organique, smooth/bong jazz et poking musique.
 
 #### Jon Wild
 Jon Wild enseigne la composition et la théorie à l’Université McGill. Il est reconnu pour ses œuvres chorales et vocales, dont certaines ont été présentées à plusieurs reprises sur la scène internationale par le Hillier Ensemble, pour lequel il a été compositeur en résidence durant l’été 2002. Il est présentement « Assistant Professor » à l’École de musique Schulich de l’Université McGill.
-
-#### Felix-Antoine Hamel
-Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
 
 #### Sam Shalabi
 Compositeur et improvisateur canado-égyptien, installé à Montréal. Ayant débuté dans le punk rock à la fin des années 70, son travail a évolué pour devenir une fusion de musique expérimentale et moderne qui incorpore la musique arabe traditionnelle; le shaabi, le noise, la musique classique, le texte, l'improvisation et le jazz. Il a publié 5 albums solo, 5 albums avec Shalabi Effect, un quatuor d'improvisation libre qui relie la musique psychédélique occidentale et le Maquam arabe (gammes) et 4 albums avec Land Of Kush (un orchestre expérimental de 30 membres, pour lequel il compose). Il est apparu sur plus de 60 albums et a fait des tournées en Europe, en Amérique du Nord et en Afrique du Nord.
