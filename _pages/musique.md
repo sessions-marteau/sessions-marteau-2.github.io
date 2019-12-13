@@ -9,23 +9,23 @@ permalink: /musique/
 Écoutez nos podcasts de nos dernières sessions sur: 
 
 <div class="center-no-div">
-        <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
-            <img src="{{site.baseurl}}/img/assets/spotify-podcast-badge-wht-blk-165x40.svg">
-        </a>
+   <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
+   <img src="{{site.baseurl}}/img/assets/spotify-podcast-badge-wht-blk-165x40.svg">
+</a>
         
 <a href="https://podcasts.apple.com/ca/podcast/sessions-d%C3%A9coute-marteau/id1468357088?mt=2&app=podcast&at=10l6Xd">
-          <img src="{{site.baseurl}}/img/assets/FR_Apple_Podcasts_Listen_Badge_RGB.svg">
-        </a>
+   <img src="{{site.baseurl}}/img/assets/FR_Apple_Podcasts_Listen_Badge_RGB.svg">
+</a>
         
      
-         <a href="https://soundcloud.com/user-205324481">
-         <img src="{{site.baseurl}}/img/soundcloud-icon5.png" width="60px">
-      </a>
+<a href="https://soundcloud.com/user-205324481">
+   <img src="{{site.baseurl}}/img/soundcloud-icon5.png" width="60px">
+</a>
         
         
-            <a href="https://www.mixcloud.com/sessionsmarteau/">
-         <img src="{{site.baseurl}}/img/mixcloud-icon-black.png" width="60px">
-      </a>
+<a href="https://www.mixcloud.com/sessionsmarteau/">
+   <img src="{{site.baseurl}}/img/mixcloud-icon-black.png" width="60px">
+</a>
            
 </div>
 
