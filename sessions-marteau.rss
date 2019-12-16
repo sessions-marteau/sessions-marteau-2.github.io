@@ -77,6 +77,20 @@
    <itunes:duration>1:05:28</itunes:duration>
    <pubDate>Thu, 20 Jun 2019 23:00:00 GMT</pubDate>
 </item>
+
+<item>
+   <title>Session #3 Sam Shalabi</title>
+   <description>Dans cette session d'écoute, le compositeur et improvisateur canado-égyptien Sam Shalabi présentera “la musique psychédélique avant la psychedelia”, il sagit de la musique qui émerge à partir de la conscience et qui a influencé la musique psychédélique.</description>
+   <itunes:summary>Dans cette session d'écoute, le compositeur et improvisateur canado-égyptien Sam Shalabi présentera “la musique psychédélique avant la psychedelia”, il sagit de la musique qui émerge à partir de la conscience et qui a influencé la musique psychédélique..</itunes:summary>
+   <itunes:subtitle>Dans cette session d'écoute, le compositeur et improvisateur canado-égyptien Sam Shalabi présentera “la musique psychédélique avant la psychedelia”, il sagit de la musique qui émerge à partir de la conscience et qui a influencé la musique psychédélique..</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://sessionsmarteau.com/uploads/session-003/podcast/Sessions-Marteau-003-Sam-Shalabi.mp3" type="audio/mpeg" length="1" />
+   <guid>https://sessionsmarteau.com/uploads/session-001/podcast/Sessions-Marteau-001B-Felix-Antoine-mix.mp3</guid>
+   <itunes:duration>1:05:28</itunes:duration>
+   <pubDate>Thu, 20 Jun 2019 23:00:00 GMT</pubDate>
+</item>
+
+
 <!--END REPEAT--> 
 
 </channel>
