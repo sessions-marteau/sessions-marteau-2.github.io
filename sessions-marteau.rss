@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>https://sessionsmarteau.com</link>
+<language>fr-ca</language>
+<copyright>&#xA9;2019</copyright>
+<webMaster>info@sessionsmarteau.com (Sessions d'écoute Marteau)</webMaster>
+<managingEditor>info@sessionsmarteau.com (Sessions d'écoute Marteau)</managingEditor>
+<image>
+   <url>https://sessionsmarteau.com/images/marteau_1792_px.jpg</url>
+   <title>Sessions d'écoute Marteau</title>
+   <link>https://sessionsmarteau.com</link>
+</image>
+<itunes:owner>
+   <itunes:name>Sessions d'écoute Marteau</itunes:name>
+   <itunes:email>info@sessionsmarteau.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Music">
+</itunes:category>
+<itunes:keywords>music, listening, experimental, classic, jazz, avant-garde</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://sessionsmarteau.com/assets/img/marteau_1792_px.jpg" />
+<atom:link href="https://sessionsmarteau.com/sessions-marteau.rss" rel="self" type="application/rss+xml" />
+<pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
+<title>Sessions d'écoute Marteau</title>
+<itunes:author>Sessions d'écoute Marteau</itunes:author>
+<description>Inspirées par les meikyoku kissaten au Japon, Les sessions Marteau réhabilitent l'écoute de la musique dans un espace où le public peut ralentir et s’immerger dans l’univers de pièces musicales sélectionnées avec soin par des commissaires invités.</description>
+<itunes:summary>Inspirées par les meikyoku kissaten au Japon, Les sessions Marteau réhabilitent l'écoute de la musique dans un espace où le public peut ralentir et s’immerger dans l’univers de pièces musicales sélectionnées avec soin par des commissaires invités.</itunes:summary>
+<itunes:subtitle>Inspirées par les meikyoku kissaten au Japon, Les sessions Marteau réhabilitent l'écoute de la musique dans un espace où le public peut ralentir et s’immerger dans l’univers de pièces musicales sélectionnées avec soin par des commissaires invités.</itunes:subtitle>
+<lastBuildDate>Wed, 17 Apr 2019 23:00:00 GMT</lastBuildDate>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+   <title>Session #1A Jon Wild</title>
+   <description>Jon Wild présente de la musique classique scandinave et polonaise (Thoresen, Sibelius et Szymanowski).</description>
+   <itunes:summary>Jon Wild présente de la musique classique scandinave et polonaise (Thoresen, Sibelius et Szymanowski).</itunes:summary>
+   <itunes:subtitle>Jon Wild présente de la musique classique scandinave et polonaise (Thoresen, Sibelius et Szymanowski).</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://sessionsmarteau.com/uploads/session-001/podcast/Sessions-Marteau-001A-Jon-Wild-mix.mp3" type="audio/mpeg" length="1" />
+   <guid>https://sessionsmarteau.com/uploads/session-001/podcast/Sessions-Marteau-001A-Jon-Wild-mix.mp3</guid>
+   <itunes:duration>0:19:58</itunes:duration>
+   <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
+</item>
+
+<item>
+   <title>Session #1B Felix-Antoine Hamel</title>
+   <description>Félix-Antoine Martel présente du jazz néo-québécois (Sadik Hakim et Abdul Al-Khabyyr).</description>
+   <itunes:summary>Félix-Antoine Martel présente du jazz néo-québécois (Sadik Hakim et Abdul Al-Khabyyr).</itunes:summary>
+   <itunes:subtitle>Félix-Antoine Martel présente du jazz néo-québécois (Sadik Hakim et Abdul Al-Khabyyr).</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://sessionsmarteau.com/uploads/session-001/podcast/Sessions-Marteau-001B-Felix-Antoine-mix.mp3" type="audio/mpeg" length="1" />
+   <guid>https://sessionsmarteau.com/uploads/session-001/podcast/Sessions-Marteau-001B-Felix-Antoine-mix.mp3</guid>
+   <itunes:duration>0:16:16</itunes:duration>
+   <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
+</item>
+
+<item>
+   <title>Session #2A Anette Zenith</title>
+   <description>Anette Zenith mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée.</description>
+   <itunes:summary>Anette Zenith mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée.</itunes:summary>
+   <itunes:subtitle>Anette Zenith mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://sessionsmarteau.com/uploads/session-002/podcast/Sessions-Marteau-002A-Anette-Zenith.mp3" type="audio/mpeg" length="1" />
+   <guid>https://sessionsmarteau.com/uploads/session-002/podcast/Sessions-Marteau-002A-Anette-Zenith.mp3</guid>
+   <itunes:duration>0:54:44</itunes:duration>
+   <pubDate>Thu, 20 Jun 2019 23:00:00 GMT</pubDate>
+</item>
+
+<item>
+   <title>Session #2B Hazy Montagne Mystique</title>
+   <description>Hazy Montagne Mystique propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs.</description>
+   <itunes:summary>Hazy Montagne Mystique propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs.</itunes:summary>
+   <itunes:subtitle>Hazy Montagne Mystique propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://sessionsmarteau.com/uploads/session-002/podcast/Sessions-Marteau-001B-Felix-Antoine-mix.mp3" type="audio/mpeg" length="1" />
+   <guid>https://sessionsmarteau.com/uploads/session-001/podcast/Sessions-Marteau-001B-Felix-Antoine-mix.mp3</guid>
+   <itunes:duration>1:05:28</itunes:duration>
+   <pubDate>Thu, 20 Jun 2019 23:00:00 GMT</pubDate>
+</item>
+<!--END REPEAT--> 
+
+</channel>
+</rss>
