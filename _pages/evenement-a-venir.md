@@ -1,7 +1,13 @@
 ---
 layout: post
 title: Événement a venir
-image: _DSC4099.JPG
+image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
+
+
+
+<div class="col col-12">
+    {% include sidebar.html %}
+</div>
