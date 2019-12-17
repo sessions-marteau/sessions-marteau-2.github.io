@@ -7,4 +7,6 @@ dropdown: true
 ---
 
 
-Nous vous préparons une prochaine session d'écoute. Entre-temps restez dès nôtres. ⬇ We are currently preparing the next listening session for you. In the meantime, stay with us. ⬇
+Nous vous préparons une prochaine session d'écoute. Entre-temps restez dès nôtres. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ 
+</a> We are currently preparing the next listening session for you. In the meantime, stay with us. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ 
+</a>
