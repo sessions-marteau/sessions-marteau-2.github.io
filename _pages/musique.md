@@ -21,7 +21,7 @@ permalink: /musique/
 <a href="https://soundcloud.com/user-205324481">
    <img src="{{site.baseurl}}/img/soundcloud-icon5.png" width="60px">
 </a>
-<br>          
+         
 <a href="https://www.mixcloud.com/sessionsmarteau/">
    <img src="{{site.baseurl}}/img/mixcloud-icon-black.png" width="60px">
 </a>
