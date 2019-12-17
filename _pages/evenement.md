@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Événements
-image: 2nd-SM_850204525888274432_o.jpg
+image: session3_DSC4099-web.jpg
 permalink: /evenements/
 dropdown: true
 ---
