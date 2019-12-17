@@ -6,8 +6,3 @@ permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-
-
-<div class="col col-12">
-    {% include sidebar.html %}
-</div>
