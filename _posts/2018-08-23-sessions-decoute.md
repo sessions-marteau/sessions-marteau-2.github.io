@@ -2,7 +2,7 @@
 layout: post
 title:  Sessions d'écoute 
 date:   2019-04-16 00:00:00 +0300
-image:  2nd-SM-64839625_856968068006104_5207589121312161792_o.jpg
+image:  session1_DSC2953-web.jpg
 tags:   Musique
 ---
 Ces sessions d’écoute ont pour but d’offrir au public un répertoire musical rare ou méconnu, rendu accessible grâce collections de partenaires.
