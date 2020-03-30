@@ -6,7 +6,7 @@ permalink: /musique/
 
 ### [Podcasts](#podcasts)
 
-Écoutez nos podcasts de nos dernières sessions sur: 
+Écoutez nos podcasts et nos listes de lecture d'évènements passés sur: 
 
 <div class="center-no-div">
    <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
@@ -45,13 +45,6 @@ permalink: /musique/
 <iframe src="https://embed.iono.fm/epi/699907?quality=high" width="30%" height="135" frameborder="0"><a href="https://iono.fm/e/699907">Content hosted by iono.fm</a></iframe>
 
 
-<hr>
-
-### [Playlists](#playlists)
-
-Écoutez nos listes de lecture d'évènements passés sur notre chaine <a href="https://www.youtube.com/channel/UCZ7GBitv_YHK0unwcTaEIVA">
-            <img src="{{site.baseurl}}/img/assets/yt_logo_mono_dark.png" width="100px">
-        </a>
 <hr>
 
 
