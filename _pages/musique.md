@@ -19,7 +19,7 @@ permalink: /musique/
         
          
 <a href="https://www.mixcloud.com/sessionsmarteau/">
-   <img src="{{site.baseurl}}/img/mixcloud-og-image-162.png" width="60px">
+   <img src="{{site.baseurl}}/img/mixcloud-og-image-162.png">
 </a>
            
 </div>
