@@ -201,7 +201,7 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 <hr>
 ### [Commissaires](#commissaires)
 
-#### Ralp Elawani
+#### Ralph Elawani
 Ralph Elawani est journaliste, écrivain et directeur littéraire. Il est l’auteur d’une biographie du romancier et cinéaste Emmanuel Cocke (C’est complet au royaume des morts) et d’un essai sur la contre-culture au Québec (Les marges détachables). Autrefois membre des groupes Shortpants Romance et Les Marinellis, il anime depuis quelques années les soirées DJ « Chemises à poils et cravaches à fleurs ».
 
 #### Felix-Antoine Hamel
