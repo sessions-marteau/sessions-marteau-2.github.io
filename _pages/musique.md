@@ -6,7 +6,7 @@ permalink: /musique/
 
 ### [Podcasts](#podcasts)
 
-Écoutez nos podcasts et nos listes de lecture d'évènements passés sur: 
+Écoutez nos podcasts et nos listes de lecture d'évènements sur: 
 
 <div class="center-no-div">
    <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
@@ -25,9 +25,7 @@ permalink: /musique/
 </div>
 
 <hr>
-
-
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-do-you-trust-this-computer%2F" frameborder="0" ></iframe>
+La prescription musicale de Ralph Elawani sera disponible ici ce soir dès 20h. 
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-do-you-trust-this-computer%2F" frameborder="0" ></iframe>
 
