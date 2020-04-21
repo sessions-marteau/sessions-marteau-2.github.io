@@ -27,25 +27,27 @@ permalink: /musique/
 <hr>
 
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-do-you-trust-this-computer%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-do-you-trust-this-computer%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-m%C3%A1xima%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-do-you-trust-this-computer%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-no-more-business-as-usual%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-m%C3%A1xima%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-avec-un-sourire-la-r%C3%A9volution%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-no-more-business-as-usual%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fpodcast-marteau-sous-les-%C3%A9toiles-3-juillet-naila-and-the-uprising%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-sous-les-%C3%A9toiles-avec-un-sourire-la-r%C3%A9volution%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-d%C3%A9coute-marteau-3-sam-shalabi%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fpodcast-marteau-sous-les-%C3%A9toiles-3-juillet-naila-and-the-uprising%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-2b-hazy-montagne-mystique%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsession-d%C3%A9coute-marteau-3-sam-shalabi%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-2a-anette-zenith%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-2b-hazy-montagne-mystique%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-1b-f%C3%A9lix-antoine-hamel%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-2a-anette-zenith%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-1a-jon-wild%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-1b-f%C3%A9lix-antoine-hamel%2F" frameborder="0" ></iframe>
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fsessions-d%C3%A9coute-marteau-1a-jon-wild%2F" frameborder="0" ></iframe>
 
 
 <hr>
