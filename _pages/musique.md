@@ -25,7 +25,6 @@ permalink: /musique/
 </div>
 
 <hr>
-Voici la prescription musicale de Ralph Elawani. (Disponible sous peu sur nos plateformes de Podcasts.)
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Fralph-elawani-liste-de-lecture%2F" frameborder="0" ></iframe>
 
