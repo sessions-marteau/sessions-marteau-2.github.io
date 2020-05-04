@@ -163,6 +163,18 @@
    <pubDate>Thu, 23 Apr 2020 23:00:00 GMT</pubDate>
 </item>
 
+<item>
+   <title>Sébastien Fournier - prescription musicale virtuelle #2</title>
+   <description>En ces temps de confinements Sébastien Fournier guitariste du groupe Avec le soleil sortant de sa bouche, vous propose sa liste musicale space, kraut rock, ambient, minimal techno, neo-psychedelia et dark-punk. </description>
+   <itunes:summary>En ces temps de confinements Sébastien Fournier guitariste du groupe Avec le soleil sortant de sa bouche, vous propose sa liste musicale space, kraut rock, ambient, minimal techno, neo-psychedelia et dark-punk.</itunes:summary>
+   <itunes:subtitle>En ces temps de confinements Sébastien Fournier guitariste du groupe Avec le soleil sortant de sa bouche, vous propose sa liste musicale space, kraut rock, ambient, minimal techno, neo-psychedelia et dark-punk.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/002-Sebastien-Fournier.mp3" type="audio/mpeg" length="1" />
+   <guid>https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/002-Sebastien-Fournier.mp3</guid>
+   <itunes:duration>0:57:35</itunes:duration>
+   <pubDate>Fri, 8 May 2020 19:00:00 GMT</pubDate>
+</item>
+
 <!--END REPEAT--> 
 
 </channel>
