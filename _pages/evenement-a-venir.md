@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Événement a venir
-image: 2nd-SM_850204525888274432_o.jpg
+image: 5-Sebastien_Fournier.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
 
 
+<h2 style="text-align: center;">
 Zoom avec Sébastien Fournier + sa prescription musicale
-
+</h2>
 
 Soyez des nôtres sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom 
 </a> et <a href="https://www.facebook.com/sessionsmarteau/"> Facebook live 
@@ -19,11 +20,19 @@ Ce vendredi 8 mai 20h nous recevons virtuellement Sébastien Fournier qui discut
 Ex-membre du groupe d'avant-rock Panoticon Eyelids et du quatuor kraut-funk Avec le Soleil Sortant de sa Bouche (regroupant des membres de Pas Chic Chic, Set Fire to Flames et Fly Pam Am) se produisent en Europe ainsi qu'au festival légendaire All Tomorrow's Party. Depuis 2019 Fournier se concentre principalement sur l'enregistrement et le mixage de groupes de la scène rock expérimentale montréalaise.
 
 
+8 mai 2020, 20h
+
+Durée 75 minutes
+
+<!-- Sur Facebook: https://www.facebook.com/sessionsmarteau/ -->
 
 
 
 
 
+
+<hr>
+---
 
 Nous vous préparons d'autres sessions d'écoute. Entre-temps restez dès nôtres. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ 
 </a> We are currently preparing the next listening sessions for you. In the meantime, stay with us. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ 
