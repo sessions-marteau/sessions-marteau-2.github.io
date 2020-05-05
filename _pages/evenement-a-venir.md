@@ -13,7 +13,7 @@ Zoom avec Sébastien Fournier + sa prescription musicale
 
 Soyez des nôtres sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom 
 </a> et <a href="https://www.facebook.com/sessionsmarteau/"> Facebook live 
-</a> pour discuter avec Sébastien Fournier, ingénieur de son et ex membre: Avec le Soleil Sortant de sa Bouche
+</a> pour discuter avec Sébastien Fournier, ingénieur de son et ex membre: Avec le Soleil Sortant de sa Bouche.
 
 Ce vendredi 8 mai 20h nous recevons virtuellement Sébastien Fournier qui discutera avec nous de sa liste musicale aux saveurs space rock, kraut, ambient, minimal techno, neo-psychedelia et dark-punk. À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de podcasts.
 
@@ -23,8 +23,6 @@ Ex-membre du groupe d'avant-rock Panoticon Eyelids et du quatuor kraut-funk Avec
 8 mai 2020, 20h
 
 Durée 75 minutes
-
-<!-- Sur Facebook: https://www.facebook.com/sessionsmarteau/ -->
 
 
 
