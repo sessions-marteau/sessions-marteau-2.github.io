@@ -26,6 +26,8 @@ permalink: /musique/
 
 <hr>
 
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fsessionsmarteau%2Fs%C3%A9bastien-fournier-prescription-musicale%2F" frameborder="0" allow="autoplay"></iframe>
+
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fralph-elawani-liste-de-lecture%2F" frameborder="0" ></iframe>
 
 
@@ -202,6 +204,10 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 <br>
 <hr>
 ### [Commissaires](#commissaires)
+
+
+#### Sébastien Fournier
+Sébastien Fournier est ex-membre du groupe d'avant-rock Panoticon Eyelids et du quatuor kraut-funk Avec le Soleil Sortant de sa Bouche (regroupant des membres de Pas Chic Chic, Set Fire to Flames et Fly Pam Am), se produit en Europe ainsi qu'au festival légendaire All Tomorrow's Party. Depuis 2019 Fournier se concentre principalement sur l'enregistrement et le mixage de groupes de la scène rock expérimentale montréalaise.
 
 #### Ralph Elawani
 Ralph Elawani est journaliste, écrivain et directeur littéraire. Il est l’auteur d’une biographie du romancier et cinéaste Emmanuel Cocke (C’est complet au royaume des morts) et d’un essai sur la contre-culture au Québec (Les marges détachables). Autrefois membre des groupes Shortpants Romance et Les Marinellis, il anime depuis quelques années les soirées DJ « Chemises à poils et cravaches à fleurs ».
