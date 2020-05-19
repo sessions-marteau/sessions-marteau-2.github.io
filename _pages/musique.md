@@ -26,7 +26,7 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&autoplay=1&feed=%2Fsessionsmarteau%2Fs%C3%A9bastien-fournier-prescription-musicale%2F" frameborder="0" allow="autoplay"></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fs%C3%A9bastien-fournier-prescription-musicale%2F" frameborder="0" allow="autoplay"></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fralph-elawani-liste-de-lecture%2F" frameborder="0" ></iframe>
 
