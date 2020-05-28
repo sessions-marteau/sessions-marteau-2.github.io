@@ -9,7 +9,7 @@ dropdown: true
 
 Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice montréalaise Véro Marengère discutera avec nous de sa sélection musicale sur le thème de l’haptique sonore chez les compositrices médiévales aux compositrices actuelles.
 
-À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de podcasts. 
+À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a>  
 
 
 Artiste émergente, le travail de Marengère s’articule autour de la prise de risque, poussant toujours l’improvisation vers l’avant-garde. Elle est présentement membre du duo ​Die Päonie et ​22marbles ​ et elle est commissaire sonore à l’émission ​Radio Atelier CIBL 101,5. Son travail est aujourd’hui orienté vers le noise, le feedback, le no-input, l’acousmatique et le circuit-bending. www.veroveromarengere.com
