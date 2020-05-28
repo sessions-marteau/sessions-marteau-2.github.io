@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Événement a venir
-image: Vero_Marengere.jpg
+image: Vero_ Marengere.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
