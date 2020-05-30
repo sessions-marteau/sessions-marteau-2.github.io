@@ -20,7 +20,7 @@ This is a streaming test.
   new Twitch.Embed("twitch-embed", {
     width: 1080,
     height: 480,
-    channel: "desertheartsrecords",
+    channel: "eighthradio",
     // only needed if your site is also embedded on embed.example.com and othersite.example.com 
     // parent: ["embed.example.com", "othersite.example.com"]
   });
