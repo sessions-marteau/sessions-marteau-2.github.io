@@ -1,28 +1,4 @@
 <aside class="sidebar">
-  <!--   
-    {% if page.id %}
-    <div class="widget widget-recent">
-      <h3 class="widget-title">Recent Posts</h3>
-      {% for post in site.posts limit:4 %}
-      <div class="recent-posts">
-        {% if post.image %}
-        <div class="recent-header">
-          <a class="recent-image" href="{{ root_url }}{{ post.url | prepend: site.baseurl }}" style="background-image: url({{"/img/" | prepend: site.baseurl | append: post.image}})"></a>
-        </div>
-        {% else %}
-        {% endif %}
-        <div class="recent-content">
-          <h6 class="recent-title"><a href="{{ root_url }}{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h6>
-          <div class="recent-date">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{post.date | date: "%B %-d, %Y"}}</time>
-          </div>
-        </div>
-      </div>
-      {% endfor %}
-    </div>
-    {% else %}
-    {% endif %}
-   -->
     <div class="widget widget-social">
       <h3 class="widget-title">Suivez-nous | Follow Us</h3>
       <div class="newsletter-subtitle">Inscrivez-vous à notre liste d'envoi pour recevoir de l'information sur nos prochaines sessions, évènements et podcasts.</div><br>
@@ -76,8 +52,6 @@
       </ul>
     </div>
   
-  
-  
     {% if site.instafeed == true %}
     <div class="widget widget-instagram">
       <h3 class="widget-title">Instagram</h3>
@@ -87,21 +61,6 @@
       </div>
     </div>
     {% endif %}
-  
-    
-    <!-- <div class="widget widget-tags">
-      <h3 class="widget-title">Tag Cloud</h3>
-      {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{%
-      endcapture %} {% assign tag_words = site_tags | split:',' | sort %}
-      <ul class="tag-list list-reset">
-      {% for item in (0..site.tags.size) %}{% unless forloop.last %}
-        {% capture this_word %}{{ tag_words[item] | strip_newlines }}{% endcapture %}
-          <li class="tag-item"><a href="{{ site.baseurl }}/tags#{{ this_word | cgi_escape }}" class="tag">{{ this_word }}</a></li>
-        {% endunless %}
-      {% endfor %}
-      </ul>
-    </div> -->
-    
   
     </aside> <!-- /.sidebar -->
   
