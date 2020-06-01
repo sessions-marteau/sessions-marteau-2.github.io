@@ -18,7 +18,7 @@ This is a streaming test #2 no twitch comment section and smaller for mobile
     scrolling="no"
     playsinline="true"
     muted="false"
-    getVolume(1.0):Float
+    getVolume="1.0"
     allowfullscreen="true">
 </iframe>
 <center>
