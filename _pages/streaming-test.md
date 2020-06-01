@@ -6,7 +6,7 @@ permalink: /streaming-test/
 tag: 
 ---
 
-This is a streaming test #2 no twitch comment section and smaller for mobile 
+This is a streaming test #2 no twitch comment panel but FB comment section and smaller video size for mobile devices. 
 
   
   <center>
