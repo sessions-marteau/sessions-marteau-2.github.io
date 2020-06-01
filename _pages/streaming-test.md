@@ -22,6 +22,6 @@ This is a streaming test #2 no twitch comment section and smaller for mobile
 <center>
 
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v7.0&appId=238569848365&autoLogAppEvents=1"></script>
+<div class="fb-comments" data-href="https://sessionsmarteau.com/streaming-test/" data-numposts="10" data-width=""></div>
 
+<div class="fb-post" data-href="https://www.facebook.com/sessionsmarteau/photos/a.849875078715403/1127260587643516/?type=3" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/sessionsmarteau/photos/a.849875078715403/1127260587643516/?type=3" class="fb-xfbml-parse-ignore"><p>Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice...</p>Publié par <a href="https://www.facebook.com/sessionsmarteau/">Les sessions d&#039;écoute Marteau</a> sur&nbsp;<a href="https://developers.facebook.com/sessionsmarteau/photos/a.849875078715403/1127260587643516/?type=3">Jeudi 28 mai 2020</a></blockquote></div>
