@@ -29,7 +29,7 @@ This is a streaming test.
 <center>
   
   
-  test #2
+  test #2 no comment section and smaller for mobile 
   
   <iframe
     src="https://player.twitch.tv/?channel=eighthradio&parent=streamernews.example.com&muted=false"
@@ -40,3 +40,10 @@ This is a streaming test.
     playsinline="true"
     allowfullscreen="true">
 </iframe>
+
+FB comments test
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v7.0&appId=238569848365&autoLogAppEvents=1"></script>
+
+<div class="fb-comments" data-href="https://sessionsmarteau.com/streaming-test/" data-numposts="99" data-width=""></div>
+
