@@ -12,8 +12,8 @@ This is a streaming test #2 no twitch comment section and smaller for mobile
   <center>
   <iframe
     src="https://player.twitch.tv/?channel=eighthradio&parent=streamernews.example.com&muted=false"
-    height="180"
-    width="360"
+    height="270"
+    width="540"
     frameborder="0"
     scrolling="no"
     playsinline="true"
