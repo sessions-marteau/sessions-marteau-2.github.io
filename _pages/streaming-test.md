@@ -32,7 +32,7 @@ This is a streaming test.
   test #2
   
   <iframe
-    src="https://clips.twitch.tv/embed?clip= channel: "eighthradio" &parent=streamernews.example.com"
+    src="https://player.twitch.tv/?channel=dallas&parent=streamernews.example.com&muted=true"
     height="720"
     width="1080"
     frameborder="0"
