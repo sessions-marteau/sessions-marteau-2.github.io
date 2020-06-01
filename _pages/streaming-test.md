@@ -33,9 +33,10 @@ This is a streaming test.
   
   <iframe
     src="https://player.twitch.tv/?channel=eighthradio&parent=streamernews.example.com&muted=false"
-    height="720"
-    width="1080"
+    height="360"
+    width="720"
     frameborder="0"
     scrolling="no"
+    playsinline="true"
     allowfullscreen="true">
 </iframe>
