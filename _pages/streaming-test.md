@@ -28,7 +28,7 @@ This is a streaming test.
 
 <center>
   
-  
+  <center>
   test #2 no comment section and smaller for mobile 
   
   <iframe
@@ -40,7 +40,7 @@ This is a streaming test.
     playsinline="true"
     allowfullscreen="true">
 </iframe>
-
+<center>
 
 
 <div class="fb-comments" data-href="https://sessionsmarteau.com/streaming-test/" data-numposts="99" data-width=""></div>
