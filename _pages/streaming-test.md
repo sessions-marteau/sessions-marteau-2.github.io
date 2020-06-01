@@ -29,4 +29,8 @@ This is a streaming test.
 <center>
   
   
+  <a href="https://www.facebook.com/sessionsmarteau/photos/a.849875078715403/1127260587643516/?type=3"> Commentaires ici.</a>  
+  
+  
+  
   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsessionsmarteau%2Fphotos%2Fa.849875078715403%2F1127260587643516%2F%3Ftype%3D3&width=250" width="250" height="366" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
