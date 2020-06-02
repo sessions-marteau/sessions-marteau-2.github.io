@@ -175,6 +175,20 @@
    <pubDate>Fri, 8 May 2020 19:00:00 GMT</pubDate>
 </item>
 
+
+<item>
+   <title>Véro Marengère - prescription musicale virtuelle #3</title>
+   <description>Le thème de cette troisième session virtuelle en confinement est “l’haptique sonore chez les compositrices médiévales aux compositrices actuelles”, ce qui signifie une musique composée par des femmes et qui présente des attributs relatifs à l’intimité, voire au sens du toucher.</description>
+   <itunes:summary>Le thème de cette troisième session virtuelle en confinement est “l’haptique sonore chez les compositrices médiévales aux compositrices actuelles”, ce qui signifie une musique composée par des femmes et qui présente des attributs relatifs à l’intimité, voire au sens du toucher.</itunes:summary>
+   <itunes:subtitle>Le thème de cette troisième session virtuelle en confinement est “l’haptique sonore chez les compositrices médiévales aux compositrices actuelles”, ce qui signifie une musique composée par des femmes et qui présente des attributs relatifs à l’intimité, voire au sens du toucher.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="c" type="audio/mpeg" length="1" />
+   <guid>https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/003-Vero-Marengere.mp3</guid>
+   <itunes:duration>1:52:17</itunes:duration>
+   <pubDate>Wed, 3 Jun 2020 22:00:00 GMT</pubDate>
+</item>
+
+
 <!--END REPEAT--> 
 
 </channel>
