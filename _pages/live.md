@@ -1,11 +1,32 @@
 ---
-layout: post
-title: Live
+layout: page
+title: En direct! 
 image: 
 permalink: /live/
-dropdown: true
+tag: 
 ---
-[Twtich live feed here]
+
+  <center>
+  <iframe
+    src="https://player.twitch.tv/?channel=eighthradio&parent=streamernews.example.com&muted=false"
+    height="270"
+    width="540"
+    frameborder="0"
+    scrolling="no"
+    playsinline="true"
+    muted="false"
+    getVolume="1.0"
+    allowfullscreen="true">
+</iframe>
+<center>
+
+
+<div class="fb-comments" data-href="https://sessionsmarteau.com/streaming-test/" data-numposts="10" data-width="" data-mobile=""></div>
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v7.0&appId=238569848365&autoLogAppEvents=1"></script>
+
+
 
 Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice montréalaise Véro Marengère discutera avec nous de sa sélection musicale sur le thème de l’haptique sonore chez les compositrices médiévales aux compositrices actuelles.
 
@@ -42,7 +63,3 @@ Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accep
 <input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_donate_SM.gif" border="0" name="submit" title="Aider un organisme OBNL non subventionné!" alt="Bouton Faire un don avec PayPal" />
 <img alt="" border="0" src="https://www.paypal.com/fr_CA/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-Nous vous préparons d'autres sessions d'écoute. Entre-temps restez dès nôtres. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ 
-</a> We are currently preparing the next listening sessions for you. In the meantime, stay with us. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ 
-</a>
