@@ -11,7 +11,7 @@ tag: live, en direct
 <hr>
   <center>
   <iframe
-    src="https://player.twitch.tv/?channel=[HERE]&parent=streamernews.example.com&muted=false"
+    src="https://player.twitch.tv/?channel=sessionsmarteau&parent=streamernews.example.com&muted=false"
     height="270"
     width="540"
     frameborder="0"
