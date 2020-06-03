@@ -5,7 +5,9 @@ image:
 permalink: /live/
 tag: live, en direct
 ---
+<center>
 3 juin 2020 19h - Durée 180 minutes
+<center>
 <hr>
   <center>
   <iframe
