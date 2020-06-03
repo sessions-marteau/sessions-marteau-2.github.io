@@ -48,8 +48,7 @@ Durée 180 minutes
 
 Discussion en direct à laquelle vous pouvez interagir </a> sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires.
 
-
-
+</a> sur <a href="https://sessionsmarteau.com/uploads/session-006/program/Sessions-Marteau-006-Programme.pdf"> Programme disponible en pdf </a>
 
 
 
