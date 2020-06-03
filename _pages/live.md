@@ -29,18 +29,14 @@ tag: live, en direct
 
 
 
-
-Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice montréalaise Véro Marengère discutera avec nous de sa sélection musicale sur le thème de l’haptique sonore chez les compositrices médiévales aux compositrices actuelles.
-<hr>
-À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
-<hr>
-3 juin 2020 19h 
-<hr>
-Durée 180 minutes
+Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice montréalaise Véro Marengère discute avec nous de sa sélection musicale sur le thème de l’haptique sonore chez les compositrices médiévales aux compositrices actuelles.
 <hr>
 
 Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires en dessous de la video.
-
+À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
+<hr>
+3 juin 2020 19h - Durée 180 minutes
+<hr>
 
 <a href="https://sessionsmarteau.com/uploads/session-006/program/Sessions-Marteau-006-Programme.pdf" download>Télécharger le programme</a>
 
