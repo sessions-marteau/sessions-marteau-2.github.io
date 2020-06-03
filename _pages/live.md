@@ -5,7 +5,8 @@ image:
 permalink: /live/
 tag: live, en direct
 ---
-
+3 juin 2020 19h - Durée 180 minutes
+<hr>
   <center>
   <iframe
     src="https://player.twitch.tv/?channel=eighthradio&parent=streamernews.example.com&muted=false"
@@ -34,8 +35,7 @@ Pour notre troisième session virtuelle en mode confinement, la compositrice, ar
 
 Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires en dessous de la vidéo.
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
-<hr>
-3 juin 2020 19h - Durée 180 minutes
+
 <hr>
 
 <a href="https://sessionsmarteau.com/uploads/session-006/program/Sessions-Marteau-006-Programme.pdf" download>Télécharger le programme</a>
