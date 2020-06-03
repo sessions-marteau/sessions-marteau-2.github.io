@@ -21,7 +21,7 @@ Artiste émergente, le travail de Marengère s’articule autour de la prise d
 
 Durée 180 minutes
 
-Discussion en direct à laquelle vous pouvez interagir sur <a href="https://www.facebook.com/sessionsmarteau/"> Facebook </a> et <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom. </a>
+Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/live"> notre page en direct </a> et <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom. </a>
 
 
 
