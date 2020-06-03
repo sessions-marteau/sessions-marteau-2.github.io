@@ -5,10 +5,13 @@ image:
 permalink: /live/
 tag: live, en direct
 ---
-
+<center>
+3 juin 2020 19h - Durée 180 minutes
+<center>
+<hr>
   <center>
   <iframe
-    src="https://player.twitch.tv/?channel=eighthradio&parent=streamernews.example.com&muted=false"
+    src="https://player.twitch.tv/?channel=[HERE]&parent=streamernews.example.com&muted=false"
     height="270"
     width="540"
     frameborder="0"
@@ -29,26 +32,15 @@ tag: live, en direct
 
 
 
+Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice montréalaise Véro Marengère discute avec nous de sa sélection musicale sur le thème de l’haptique sonore chez les compositrices médiévales aux compositrices actuelles.
+<hr>
 
-Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice montréalaise Véro Marengère discutera avec nous de sa sélection musicale sur le thème de l’haptique sonore chez les compositrices médiévales aux compositrices actuelles.
+Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires en dessous de la vidéo.
+À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
 
-À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a>  
+<hr>
 
-
-Artiste émergente, le travail de Marengère s’articule autour de la prise de risque, poussant toujours l’improvisation vers l’avant-garde. Elle est présentement membre du duo ​Die Päonie et ​22marbles ​ et elle est commissaire sonore à l’émission ​Radio Atelier CIBL 101,5. Son travail est aujourd’hui orienté vers le noise, le feedback, le no-input, l’acousmatique et le circuit-bending. www.veroveromarengere.com
-
-
-
-
-3 juin 2020 19h 
-
-Durée 180 minutes
-
-[Programme disponible en pdf]({{ site.baseurl }}/uploads/session-006/program/Sessions-Marteau-006-Programme.pdf)
-
-Discussion en direct à laquelle vous pouvez interagir </a> sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires.
-
-
+<a href="https://sessionsmarteau.com/uploads/session-006/program/Sessions-Marteau-006-Programme.pdf" download>Télécharger le programme</a>
 
 
 
@@ -57,8 +49,10 @@ Discussion en direct à laquelle vous pouvez interagir </a> sur <a href="https:/
 
 
 <hr>
----
-Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accepte les dons pour couvrir nos frais et payer un cachet aux commissaires invités. Merci de votre soutien! As a non-profit organization, Les Sessions d'écoute Marteau accepts donations to cover our basic costs and pay a fee to the guest commissioners. Thanks for your support!  
+<h8>
+Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accepte les dons pour couvrir nos frais et payer un cachet aux commissaires invités. Merci de votre soutien! As a non-profit organization, Les Sessions d'écoute Marteau accepts donations to cover our basic costs and pay a fee to the guest commissioners. Thanks for your support! 
+</h8>
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
 <input type="hidden" name="hosted_button_id" value="ZMNY6HYBJTQLL" />
