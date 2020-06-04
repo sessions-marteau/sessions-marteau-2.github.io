@@ -3,7 +3,7 @@ layout: sessions
 title: Sessions d'écoute passes
 image: 
 permalink: /sessions/
-tag: session
+tag: sessions
 ---
 
 <div class="container">
