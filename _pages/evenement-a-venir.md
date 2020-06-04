@@ -14,7 +14,7 @@ Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.li
 </a>
 <br>
   
-We are currently preparing the next listening sessions for you. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> In the meantime, stay with us. Listen our
+We are currently preparing the next listening sessions for you. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> In the meantime, stay with us by catching up our
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> lasts listening sessions.
 </a>
 
