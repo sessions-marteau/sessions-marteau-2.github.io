@@ -9,13 +9,13 @@ dropdown: true
 
 
 
-Nous vous préparons d'autres sessions d'écoute. Entre-temps restez dès nôtres. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ Consultez nos <br>
-<a href="https://sessionsmarteau.com/sessions-passes/" target="_blank">- sessions d'écoute passées
+Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ Entre-temps restez dès nôtres et consultez nos
+<a href="https://sessionsmarteau.com/sessions-passes/" target="_blank">- dernières sessions d'écoute.
 </a>
 <br>
   
-</a> We are currently preparing the next listening sessions for you. In the meantime, stay with us. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ Listen our <br>
-<a href="https://sessionsmarteau.com/sessions-passes/" target="_blank">- lasts listening sessions
+We are currently preparing the next listening sessions for you. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇ In the meantime, stay with us. Listen our
+<a href="https://sessionsmarteau.com/sessions-passes/" target="_blank">- lasts listening sessions.
 </a>
 </a>
 
