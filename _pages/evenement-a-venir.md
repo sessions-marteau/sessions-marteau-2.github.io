@@ -12,12 +12,10 @@ Jeudi 2 juillet 19h, nous recevons virtuellement Émilie Fortin qui discuter
 Émilie Fortin est une musicienne interdisciplinaire et enseignante passionnée qui désire repousser les limites techniques de la trompette et renouveler l’expérience de concert traditionnelle. Cherchant constamment à enrichir le répertoire de son instrument, elle a participé à la création de plus d’une trentaine d’œuvres internationalement. Ses collaborations incluent souvent des éléments physiques, en lien avec ses diverses formations en mime corporel, danse et théâtre. Depuis 2018, elle est également la directrice artistique du collectif de solistes Bakarlari, qui se dédie à la musique contemporaine et de création. <a href="https://emilie-fortin.tumblr.com/" target="_blank"> https://emilie-fortin.tumblr.com/
 </a>  
   
-  
-  
-
+<br>
 Durée 120 minutes
-
-
+<br>
+<br>
 
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> dernières sessions d'écoute.
