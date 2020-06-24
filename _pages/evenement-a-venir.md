@@ -6,12 +6,12 @@ permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-Pendant le confinement nous vous proposons de découvrir des prescriptions musicales soigneusement préparées par nos invités. Pour ce faire suivez notre  <a href="https://www.facebook.com/sessionsmarteau/" target="_blank"> page Facebook
-</a>, regarder la diffusion en direct en direct ici ou joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
+Pendant le confinement nous vous proposons de découvrir des prescriptions musicales soigneusement préparées par nos invités. Pour ce faire, suivez notre  <a href="https://www.facebook.com/sessionsmarteau/" target="_blank"> page Facebook
+</a>, regardez la diffusion en direct ici ou joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
 </a>  pour poser vos questions. 
 
 
-Jeudi 2 juillet 19h, nous recevons virtuellement Émilie Fortin qui discutera avec nous de sa sélection musicale sur thème de cette session est « la musique contemporaine chez les cuivres », ce qui signifie la musique écrite après 1950 pour la trompette, le trombone, le cor français et le tuba, tant solo qu’en ensemble. À noter que la liste de lecture sera disponible dès le lendemain sur nos <a href="https://sessionsmarteau.com/musique/#podcasts" target="_blank"> plateformes de podcasts.
+Jeudi 2 juillet 19h, nous recevons virtuellement Émilie Fortin qui discutera avec nous de sa sélection musicale sur thème de « la musique contemporaine chez les cuivres », ce qui signifie la musique écrite après 1950 pour la trompette, le trombone, le cor français et le tuba, tant en solo qu’en ensemble. À noter que la liste de lecture sera disponible dès le lendemain sur nos <a href="https://sessionsmarteau.com/musique/#podcasts" target="_blank"> plateformes de podcasts.
 </a> 
 
 Émilie Fortin est une musicienne interdisciplinaire et enseignante passionnée qui désire repousser les limites techniques de la trompette et renouveler l’expérience de concert traditionnelle. Cherchant constamment à enrichir le répertoire de son instrument, elle a participé à la création de plus d’une trentaine d’œuvres internationalement. Ses collaborations incluent souvent des éléments physiques, en lien avec ses diverses formations en mime corporel, danse et théâtre. Depuis 2018, elle est également la directrice artistique du collectif de solistes Bakarlari, qui se dédie à la musique contemporaine et de création. <a href="https://emilie-fortin.tumblr.com/" target="_blank"> https://emilie-fortin.tumblr.com/
