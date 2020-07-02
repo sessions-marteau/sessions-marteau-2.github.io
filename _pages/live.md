@@ -23,7 +23,7 @@ tag: live, en direct
 </iframe>
 <center>
 
-<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-colorscheme="light" data-numposts="10" data-width=""></div>
+<div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="light" data-numposts="10" data-width=""></div>
 
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v7.0&appId=238569848365&autoLogAppEvents=1" nonce="kfFAwLDN"></script>
@@ -35,12 +35,13 @@ tag: live, en direct
 Pour notre quatrième session virtuelle en mode confinement, nous recevons Émilie Fortin qui discutera avec nous de sa sélection musicale sur thème de « la musique contemporaine chez les cuivres », ce qui signifie la musique écrite après 1950 pour la trompette, le trombone, le cor français et le tuba, tant en solo qu’en ensemble.
 <hr>
 
-Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires en dessous de la vidéo.
-À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
+<a href="https://sessionsmarteau.com/uploads/session-007/program/Sessions-Marteau-007-Programme.pdf" download>Télécharger le programme</a>
 
 <hr>
 
-<a href="https://sessionsmarteau.com/uploads/session-007/program/Sessions-Marteau-007-Programme.pdf" download>Télécharger le programme</a>
+Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires en dessous de la vidéo.
+À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
+
 
 
 
