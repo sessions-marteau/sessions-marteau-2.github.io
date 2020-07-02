@@ -7,7 +7,7 @@ dropdown: true
 ---
 
 Pendant le confinement nous vous proposons de découvrir des prescriptions musicales soigneusement préparées par nos invités. Pour ce faire, suivez notre  <a href="https://www.facebook.com/sessionsmarteau/" target="_blank"> page Facebook
-</a>, regardez la diffusion en direct ici ou joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
+</a>, regardez la diffusion en direct sur notre Facebook ou joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
 </a>  pour poser vos questions. 
 
 
@@ -20,6 +20,11 @@ Jeudi 2 juillet 19h, nous recevons virtuellement Émilie Fortin qui discuter
 <br>
 Durée 120 minutes
 <br>
+<hr>
+
+<a href="https://sessionsmarteau.com/uploads/session-007/program/Sessions-Marteau-007-Programme.pdf" download>Télécharger le programme</a>
+
+<hr>
 <br>
 
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
