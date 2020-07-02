@@ -23,7 +23,7 @@ tag: live, en direct
 </iframe>
 <center>
 
-<div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="0" data-width=""></div>
+<div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
 
 
 <div id="fb-root"></div>
