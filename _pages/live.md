@@ -10,7 +10,7 @@ tag: live, en direct
 <center>
 <hr>
   <center>
-  <iframe
+<!--   <iframe
     src="https://player.twitch.tv/?channel=sessionsmarteau&parent=streamernews.example.com&muted=false"
     height="270"
     width="540"
@@ -20,7 +20,8 @@ tag: live, en direct
     muted="false"
     getVolume="1.0"
     allowfullscreen="true">
-</iframe>
+</iframe> -->
+    <h3><a href="https://www.facebook.com/sessionsmarteau/">Watch the live stream in our Facebook page</a></h3>
 <center>
 
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
