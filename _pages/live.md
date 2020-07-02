@@ -6,7 +6,7 @@ permalink: /live/
 tag: live, en direct
 ---
 <center>
-3 juin 2020 19h - Durée 180 minutes
+2 juillet 2020 19h - Durée 120 minutes
 <center>
 <hr>
   <center>
@@ -23,16 +23,16 @@ tag: live, en direct
 </iframe>
 <center>
 
-
-<div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-numposts="10" data-width=""></div>
+<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-colorscheme="light" data-numposts="10" data-width=""></div>
 
 <div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v7.0&appId=238569848365&autoLogAppEvents=1"></script>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v7.0&appId=238569848365&autoLogAppEvents=1" nonce="kfFAwLDN"></script>
 
 
 
 
-Pour notre troisième session virtuelle en mode confinement, la compositrice, artiste sonore et improvisatrice montréalaise Véro Marengère discute avec nous de sa sélection musicale sur le thème de l’haptique sonore chez les compositrices médiévales aux compositrices actuelles.
+
+Pour notre quatrième session virtuelle en mode confinement, nous recevons Émilie Fortin qui discutera avec nous de sa sélection musicale sur thème de « la musique contemporaine chez les cuivres », ce qui signifie la musique écrite après 1950 pour la trompette, le trombone, le cor français et le tuba, tant en solo qu’en ensemble.
 <hr>
 
 Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou dans la boite de commentaires en dessous de la vidéo.
@@ -40,7 +40,7 @@ Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sess
 
 <hr>
 
-<a href="https://sessionsmarteau.com/uploads/session-006/program/Sessions-Marteau-006-Programme.pdf" download>Télécharger le programme</a>
+<a href="https://sessionsmarteau.com/uploads/session-007/program/Sessions-Marteau-007-Programme.pdf" download>Télécharger le programme</a>
 
 
 
