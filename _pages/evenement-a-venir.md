@@ -6,11 +6,6 @@ permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-Pendant le confinement nous vous proposons de découvrir des prescriptions musicales soigneusement préparées par nos invités. Pour ce faire, suivez notre  <a href="https://www.facebook.com/sessionsmarteau/" target="_blank"> page Facebook
-</a>, regardez la diffusion en direct sur notre Facebook ou joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
-</a>  pour poser vos questions. 
-
-
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> dernières sessions d'écoute.
 </a>
