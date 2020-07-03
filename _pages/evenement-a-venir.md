@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Événement a venir
-image: Emilie_Fortin.jpg
+image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
@@ -10,22 +10,6 @@ Pendant le confinement nous vous proposons de découvrir des prescriptions music
 </a>, regardez la diffusion en direct sur notre Facebook ou joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
 </a>  pour poser vos questions. 
 
-
-Jeudi 2 juillet 19h, nous recevons virtuellement Émilie Fortin qui discutera avec nous de sa sélection musicale sur thème de « la musique contemporaine chez les cuivres », ce qui signifie la musique écrite après 1950 pour la trompette, le trombone, le cor français et le tuba, tant en solo qu’en ensemble. À noter que la liste de lecture sera disponible dès le lendemain sur nos <a href="https://sessionsmarteau.com/musique/#podcasts" target="_blank"> plateformes de podcasts.
-</a> 
-
-Émilie Fortin est une musicienne interdisciplinaire et enseignante passionnée qui désire repousser les limites techniques de la trompette et renouveler l’expérience de concert traditionnel. Cherchant constamment à enrichir le répertoire de son instrument, elle a participé à la création de plus d’une trentaine d’œuvres internationalement. Ses collaborations incluent souvent des éléments physiques, en lien avec ses diverses formations en mime corporel, danse et théâtre. Depuis 2018, elle est également la directrice artistique du collectif de solistes Bakarlari, qui se dédie à la musique contemporaine et de création. <a href="https://emilie-fortin.tumblr.com/" target="_blank"> https://emilie-fortin.tumblr.com/
-</a>  
-  
-<br>
-Durée 120 minutes
-<br>
-<hr>
-
-<a href="https://sessionsmarteau.com/uploads/session-007/program/Sessions-Marteau-007-Programme.pdf" download>Télécharger le programme</a>
-
-<hr>
-<br>
 
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> dernières sessions d'écoute.
