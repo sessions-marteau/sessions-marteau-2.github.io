@@ -209,6 +209,9 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 <hr>
 ### [Commissaires](#commissaires)
 
+#### Émilie Fortin 
+Émilie Fortin est une musicienne interdisciplinaire et enseignante passionnée qui désire repousser les limites techniques de la trompette et renouveler l’expérience de concert traditionnel. Cherchant constamment à enrichir le répertoire de son instrument, elle a participé à la création de plus d’une trentaine d’œuvres internationalement. Ses collaborations incluent souvent des éléments physiques, en lien avec ses diverses formations en mime corporel, danse et théâtre. Depuis 2018, elle est également la directrice artistique du collectif de solistes Bakarlari, qui se dédie à la musique contemporaine et de création.
+
 #### Véro Marengère 
 Artiste émergente, le travail de Marengère s’articule autour de la prise de risque, poussant toujours l’improvisation vers l’avant-garde. Elle est présentement membre du duo ​Die Päonie et ​22marbles ​ et elle est commissaire sonore à l’émission ​Radio Atelier CIBL 101,5. Son travail est aujourd’hui orienté vers le noise, le feedback, le no-input, l’acousmatique et le circuit-bending.
 
