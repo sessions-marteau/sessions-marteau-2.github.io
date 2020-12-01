@@ -11,7 +11,7 @@ tag: live, en direct
 <hr>
   <center>
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsessionsmarteau%2Fvideos%2F291403405560275%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-    <h3><a href="https://www.facebook.com/sessionsmarteau/">Watch the live stream in our Facebook page</a></h3>
+    <h2><a href="https://www.facebook.com/sessionsmarteau/">Regarder le fil en direct sur FAcebook / Watch the live stream in our Facebook page</a></h2>
 <center>
 
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
