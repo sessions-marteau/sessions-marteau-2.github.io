@@ -19,7 +19,7 @@ tag: live, en direct
 
 
 
-Pour notre conquième session virtuelle en mode confinement, nous recevons virtuellement Matías Reyes aka dedosmuertos, qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». 
+Pour notre cinquième session virtuelle en mode confinement, nous recevons Matías Reyes aka dedosmuertos, qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». 
 <hr>
 
 <a href="https://sessionsmarteau.com/uploads/session-008/program/Sessions-Marteau-008-Programme.pdf" download>Télécharger le programme / download the program</a>
