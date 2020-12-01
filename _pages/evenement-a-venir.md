@@ -20,6 +20,9 @@ Commissaire invité
 Matías Reyes | dedosmuertos
 À la fois DJ, designer sonore et musicien, Matías Reyes poursuit une inlassable de quête pour comprendre les interactions et le sens entre les chansons et les rythmes. Croyant que «tout se danse», il explore le futur en remontant les racines du passé, cherchant dans les traces du ​groove mondial une façon d’abattre les frontières des genres et des styles. Chilien d’origine et maintenant établi à Paris, Matías Reyes profite de la pandémie pour repenser les façons de socialiser, de célébrer et de partager des énergies.
 
+<p style="text-align:center;"><img src="/img/dedosmuertos.gif">
+<p style="text-align:center">Matías Reyes aka dedosmuertos</p>
+
 <br>
 ---
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
