@@ -3,57 +3,32 @@ layout: default
 ---
 <div class="container">
 	<div class="row">
-		{% if site.posts.size > 0 %}
-		{%- for post in paginator.posts -%}
-		<!-- {% if forloop.index <= 1 %} -->
 		<div class="col col-12">
 			<article class="article-first">
 				<div class="article-image-first" style="background-image: url({{"/img/DSC2944.JPG" | prepend: site.baseurl }})">
 					<div class="col col-12" style="text-align: center; margin-left: 50px">
-							<img src="{{ site.baseurl }}/img/assets/marteau-white.svg" width="366px"></div>
-				</div>
-
-				<!-- <div class="article-image-first" style="background-image: url({{"/img/" | prepend: site.baseurl | append : post.image}})">
-					<div class="col col-12" style="text-align: center; margin-left: 50px">
-						<img src="{{ site.baseurl }}/img/assets/marteau-white.svg" width="366px">
+							<img src="{{ site.baseurl }}/img/assets/marteau-white.svg" width="366px">
 					</div>
-					<div class="article-content-first">
-						<div class="article-tag">
-						{% if post.tags.size >= 1 %}
-							{% for tag in post.tags %}
-							<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
-							{% endfor %}
-						{% else %} {% endif %}
-						</div>
-						<h2 class="article-title"><a href="{{ post.url | prepend: site.baseurl }}"></a></h2>
-						<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
-						<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">Read More</a> -->
-					<!-- </div> -->
 				</div>
-			</article> <!-- /.article-first -->
+			</article>
 		</div>
-		<!-- {% endif %} -->
 
-		{% endfor %}
-	{% endif %}
-
-	<center>
-	<div class="col col-8" style="text-align: center">
-		<h3 class="article-title">ÉCOUTEZ LA MUSIQUE AUTREMENT</h2>
-		<h6 class="article-excerpt">Les sessions d'écoute Marteau réhabilitent l'écoute de la musique dans un espace où le public peut ralentir et s’immerger dans pièces musicales sélectionnées avec soin par des commissaires invités.</h3>
-	</div>
-</center>
+		<center>
+			<div class="col col-8" style="text-align: center">
+				<h3 class="article-title">ÉCOUTEZ LA MUSIQUE AUTREMENT</h2>
+				<h6 class="article-excerpt">Les sessions d'écoute Marteau réhabilitent l'écoute de la musique dans un espace où le public peut ralentir et s’immerger dans pièces musicales sélectionnées avec soin par des commissaires invités.</h3>
+			</div>
+		</center>
 	
-</div>
+	</div>
 </div>
 
 <div class="container">
 	<div class="row">
 		<div class="col col-12 col-t-12">
 			<div class="row">
-			{%- for post in paginator.posts offset: 1 -%}
-				{% unless post.tags contains "session" %}	
-					{% for tag in post.tags %}
+				{%- for post in paginator.posts offset: 0 -%}
+					{% unless post.tags contains "session" %}	
 						<article class="article col col-12 col-t-6">
 							<div class="article-box">
 								<div class="article-head">
@@ -65,13 +40,13 @@ layout: default
 								</div>
 								<div class="article-content">
 									<div class="article-info">
-										<!-- <div class="article-date">
+										<div class="article-date">
 											<span class="date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
-										</div> -->
+										</div>
 										<div class="article-tag">
 										{% if post.tags.size >= 1 %}
 											{% for tag in post.tags %}
-												<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
+											<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
 											{% endfor %}
 										{% else %} {% endif %}
 										</div>
@@ -82,15 +57,14 @@ layout: default
 									<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 135 }}{% else %}{{ post.content | strip_html | truncate: 135 }}{% endif %}</p>
 								</div>
 							</div>
-						</article> <!-- /.article -->
-					{% endfor %}
-				{% endunless %}
-			{% endfor %}
+						</article> 
+					{% endunless %}
+				{% endfor %}
 			</div>
-			
-			{% include pagination.html %}  
-		
+			{% include pagination.html %}
 		</div>
+
+
 		<div class="col col-12 col-t-12">
 			{% include sidebar.html %}
 		</div>
