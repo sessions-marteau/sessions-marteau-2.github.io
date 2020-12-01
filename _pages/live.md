@@ -6,7 +6,7 @@ permalink: /live/
 tag: live, en direct
 ---
 <center>
-2 juillet 2020 19h - Durée 120 minutes
+4 décembre 2020 18h - Durée 120 minutes
 <center>
 <hr>
   <center>
@@ -17,15 +17,12 @@ tag: live, en direct
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
 
 
-<div id="fb-root"></div>
-<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v7.0&appId=572378123701879&autoLogAppEvents=1" nonce="USFXnozM"></script>
 
 
-
-Pour notre quatrième session virtuelle en mode confinement, nous recevons Émilie Fortin qui discutera avec nous de sa sélection musicale sur thème de « la musique contemporaine chez les cuivres », ce qui signifie la musique écrite après 1950 pour la trompette, le trombone, le cor français et le tuba, tant en solo qu’en ensemble.
+Pour notre conquième session virtuelle en mode confinement, nous recevons virtuellement Matías Reyes aka dedosmuertos, qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». 
 <hr>
 
-<a href="https://sessionsmarteau.com/uploads/session-007/program/Sessions-Marteau-007-Programme.pdf" download>Télécharger le programme</a>
+<a href="https://sessionsmarteau.com/uploads/session-008/program/Sessions-Marteau-008-Programme.pdf" download>Télécharger le programme / download the program</a>
 
 <hr>
 
