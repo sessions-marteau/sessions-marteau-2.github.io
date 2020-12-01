@@ -26,7 +26,7 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2F%C3%A9milie-fortin-prescription-musicale%2F" frameborder="0" allow="autoplay"></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2F%C3%A9milie-fortin-prescription-musicale%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fv%C3%A9ro-mareng%C3%A8re-prescription-musicale%2F" frameborder="0" allow="autoplay"></iframe>
 
@@ -209,23 +209,26 @@ Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Mar
 <hr>
 ### [Commissaires](#commissaires)
 
+#### Ralph Elawani
+Ralph Elawani est journaliste, écrivain et directeur littéraire. Il est l’auteur d’une biographie du romancier et cinéaste Emmanuel Cocke (C’est complet au royaume des morts) et d’un essai sur la contre-culture au Québec (Les marges détachables). Autrefois membre des groupes Shortpants Romance et Les Marinellis, il anime depuis quelques années les soirées DJ « Chemises à poils et cravaches à fleurs ».
+
 #### Émilie Fortin 
 Émilie Fortin est une musicienne interdisciplinaire et enseignante passionnée qui désire repousser les limites techniques de la trompette et renouveler l’expérience de concert traditionnel. Cherchant constamment à enrichir le répertoire de son instrument, elle a participé à la création de plus d’une trentaine d’œuvres internationalement. Ses collaborations incluent souvent des éléments physiques, en lien avec ses diverses formations en mime corporel, danse et théâtre. Depuis 2018, elle est également la directrice artistique du collectif de solistes Bakarlari, qui se dédie à la musique contemporaine et de création.
 
-#### Véro Marengère 
-Artiste émergente, le travail de Marengère s’articule autour de la prise de risque, poussant toujours l’improvisation vers l’avant-garde. Elle est présentement membre du duo ​Die Päonie et ​22marbles ​ et elle est commissaire sonore à l’émission ​Radio Atelier CIBL 101,5. Son travail est aujourd’hui orienté vers le noise, le feedback, le no-input, l’acousmatique et le circuit-bending.
-
 #### Sébastien Fournier
 Sébastien Fournier est ex-membre du groupe d'avant-rock Panoticon Eyelids et du quatuor kraut-funk Avec le Soleil Sortant de sa Bouche (regroupant des membres de Pas Chic Chic, Set Fire to Flames et Fly Pam Am), se produit en Europe ainsi qu'au festival légendaire All Tomorrow's Party. Depuis 2019 Fournier se concentre principalement sur l'enregistrement et le mixage de groupes de la scène rock expérimentale montréalaise.
-
-#### Ralph Elawani
-Ralph Elawani est journaliste, écrivain et directeur littéraire. Il est l’auteur d’une biographie du romancier et cinéaste Emmanuel Cocke (C’est complet au royaume des morts) et d’un essai sur la contre-culture au Québec (Les marges détachables). Autrefois membre des groupes Shortpants Romance et Les Marinellis, il anime depuis quelques années les soirées DJ « Chemises à poils et cravaches à fleurs ».
 
 #### Felix-Antoine Hamel
 Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
 
 #### Hazy Montagne Mystique
 Cet artiste et musicien propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs. Dans le cocon céleste, un tourbillonnement de sons astraux se fait lancer dans les étoiles; beats bad a$$ U.K., old r'n'b, pitch down, pastoral psychedelia, sons ethnologiques, lo-fi, hi-fi, freak organique, smooth/bong jazz et poking musique.
+
+#### Véro Marengère 
+Artiste émergente, le travail de Marengère s’articule autour de la prise de risque, poussant toujours l’improvisation vers l’avant-garde. Elle est présentement membre du duo ​Die Päonie et ​22marbles ​ et elle est commissaire sonore à l’émission ​Radio Atelier CIBL 101,5. Son travail est aujourd’hui orienté vers le noise, le feedback, le no-input, l’acousmatique et le circuit-bending.
+
+#### Matías Reyes | dedosmuertos
+À la fois DJ, designer sonore et musicien, Matías Reyes poursuit une inlassable de quête pour comprendre les interactions et le sens entre les chansons et les rythmes. Croyant que « tout se danse », il explore le futur en remontant les racines du passé, cherchant dans les traces du groove mondial une façon d’abattre les frontières des genres et des styles. Chilien d’origine et maintenant établi à Paris, Matías Reyes profite de la pandémie pour repenser les façons de socialiser, de célébrer et de partager des énergies.
 
 #### Sam Shalabi
 Compositeur et improvisateur canado-égyptien, installé à Montréal. Ayant débuté dans le punk rock à la fin des années 70, son travail a évolué pour devenir une fusion de musique expérimentale et moderne qui incorpore la musique arabe traditionnelle; le shaabi, le noise, la musique classique, le texte, l'improvisation et le jazz. Il a publié 5 albums solo, 5 albums avec Shalabi Effect, un quatuor d'improvisation libre qui relie la musique psychédélique occidentale et le Maquam arabe (gammes) et 4 albums avec Land Of Kush (un orchestre expérimental de 30 membres, pour lequel il compose). Il est apparu sur plus de 60 albums et a fait des tournées en Europe, en Amérique du Nord et en Afrique du Nord.
