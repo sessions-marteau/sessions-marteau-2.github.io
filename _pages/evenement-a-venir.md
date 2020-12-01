@@ -8,6 +8,10 @@ dropdown: true
 
 Ce vendredi 4 décembre à 18h, nous recevons virtuellement ​Matías Reyes aka dedosmuertos, ​qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». Ce sera l’occasion d’explorer avec les auditeurs quelques caractéristiques du ​groove, ​comment la notion de ​groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire. Tout au long de sa session, le commissaire invite le public à questionner comment le ​groove en contexte de pandémie peut rejoindre des sensibilités inédites et pourquoi son impact n’a pas fini de nous surprendre.
 
+Pour ce faire aller sur notre <a href="https://www.facebook.com/sessionsmarteau" target="_blank"> page Facebook.
+</a> pour le fil en direct et joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
+</a> pour poser vos questions.
+
 À noter que cette session se déroulera en espagnol et que la liste de lecture sera disponible dès le lendemain sur nos <a href="https://sessionsmarteau.com/musique/" target="_blank"> plateformes de podcasts.
 </a>
 <br>
