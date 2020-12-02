@@ -11,8 +11,8 @@ tag: live, en direct
 <hr>
   <center>
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsessionsmarteau%2Fvideos%2F291403405560275%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-    Discussion en direct à laquelle vous pouvez interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> ou <h6><a href="https://www.facebook.com/sessionsmarteau/"> regarder le fil en direct sur Facebook / Watch the live stream in our Facebook page</a></h6>
-<center> 
+    <h6><a href="https://www.facebook.com/sessionsmarteau/"> Regarder le fil en direct sur Facebook / Watch the live stream in our Facebook page</a></h6>
+<center> vous pouvez également interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> pour poser vos questions!  
 
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
 
