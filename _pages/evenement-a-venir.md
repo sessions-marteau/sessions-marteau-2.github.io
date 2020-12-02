@@ -9,8 +9,8 @@ dropdown: true
 Ce vendredi 4 décembre à 18h, nous recevons virtuellement ​Matías Reyes aka dedosmuertos, ​qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». Ce sera l’occasion d’explorer avec les auditeurs quelques caractéristiques du ​groove, ​comment la notion de ​groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire. Tout au long de sa session, le commissaire invite le public à questionner comment le ​groove en contexte de pandémie peut rejoindre des sensibilités inédites et pourquoi son impact n’a pas fini de nous surprendre.
 
 Pour ce faire aller sur notre <a href="https://www.facebook.com/sessionsmarteau" target="_blank"> page Facebook.
-</a> pour le fil en direct et joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
-</a> pour poser vos questions.
+</a> pour le fil en direct ou joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
+</a> pour poser vos questions!
 
 À noter que cette session se déroulera en espagnol et que la liste de lecture sera disponible dès le lendemain sur nos <a href="https://sessionsmarteau.com/musique/" target="_blank"> plateformes de podcasts.
 </a>
@@ -19,8 +19,9 @@ Pour ce faire aller sur notre <a href="https://www.facebook.com/sessionsmarteau"
 Commissaire invité
 Matías Reyes | dedosmuertos
 À la fois DJ, designer sonore et musicien, Matías Reyes poursuit une inlassable de quête pour comprendre les interactions et le sens entre les chansons et les rythmes. Croyant que «tout se danse», il explore le futur en remontant les racines du passé, cherchant dans les traces du ​groove mondial une façon d’abattre les frontières des genres et des styles. Chilien d’origine et maintenant établi à Paris, Matías Reyes profite de la pandémie pour repenser les façons de socialiser, de célébrer et de partager des énergies.
-
+<center>
 [Télécharger le programme ici / Download the program here]({{ site.baseurl }}/uploads/session-008/program/Sessions-Marteau-008-Programme.pdf)
+<center>
 
 <p style="text-align:center;"><img src="/img/dedosmuertos.gif">
 <p style="text-align:center">Matías Reyes aka dedosmuertos</p>
