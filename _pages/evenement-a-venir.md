@@ -19,9 +19,9 @@ Pour ce faire aller sur notre <a href="https://www.facebook.com/sessionsmarteau"
 Commissaire invité
 Matías Reyes | dedosmuertos
 À la fois DJ, designer sonore et musicien, Matías Reyes poursuit une inlassable de quête pour comprendre les interactions et le sens entre les chansons et les rythmes. Croyant que «tout se danse», il explore le futur en remontant les racines du passé, cherchant dans les traces du ​groove mondial une façon d’abattre les frontières des genres et des styles. Chilien d’origine et maintenant établi à Paris, Matías Reyes profite de la pandémie pour repenser les façons de socialiser, de célébrer et de partager des énergies.
-<center>
+
 [Télécharger le programme ici / Download the program here]({{ site.baseurl }}/uploads/session-008/program/Sessions-Marteau-008-Programme.pdf)
-<center>
+
 
 <p style="text-align:center;"><img src="/img/dedosmuertos.gif">
 <p style="text-align:center">Matías Reyes aka dedosmuertos</p>
