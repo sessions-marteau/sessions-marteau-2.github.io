@@ -11,8 +11,8 @@ tag: live, en direct
 <hr>
   <center>
     
-    <h6><a href="https://www.facebook.com/sessionsmarteau/"> Regarder le fil en direct sur Facebook / Watch the live stream on our Facebook page</a></h6>
-<center> Vous pouvez également interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> pour poser vos questions!  
+    <h6><a href="https://www.facebook.com/sessionsmarteau/"> Regarder le fil en direct sur Facebook (MONO) / Watch the live stream on our Facebook page</a></h6>
+<center> Vous pouvez également interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom (STEREO) </a> et poser vos questions!  
 
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
 
