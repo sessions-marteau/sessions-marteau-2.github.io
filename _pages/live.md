@@ -10,7 +10,7 @@ tag: live, en direct
 <center>
 <hr>
   <center>
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsessionsmarteau%2Fvideos%2F291403405560275%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fgabriel.vigliensoni%2Fvideos%2F10158154577153533%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
     <h6><a href="https://www.facebook.com/sessionsmarteau/"> Regarder le fil en direct sur Facebook / Watch the live stream on our Facebook page</a></h6>
 <center> Vous pouvez également interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom </a> pour poser vos questions!  
 
