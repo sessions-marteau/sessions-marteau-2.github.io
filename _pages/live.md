@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bientôt en direct! 
+title: En direct! 
 image: 
 permalink: /live/
 tag: live, en direct
