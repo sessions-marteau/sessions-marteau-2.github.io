@@ -3,21 +3,25 @@
 - [iTunes Connect](https://podcastsconnect.apple.com)
 - [iono.fm](https:iono.fm)
 - [Spotify](https://podcasters.spotify.com)
-
+- [RSS Feed validator](https://castfeedvalidator.com)
+  
+  
 * * *
 
 Table of Contents
 -----------------
-*   [Features](#features)
-*   [Demo](#demo)
-*   [Deployment](#deployment)
-*   [Posts](#posts)
-*   [Disqus Comments](#DisqusComments)
-*   [Instagram](#instagram)
-*   [Google Analytics](#GoogleAnalytics)
-*   [Update favicon](#UpdateFavicon)
-*   [Credits](#Credits)
-*   [Support](#Support)
+- [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Deployment](#deployment)
+  - [Posts](#posts)
+  - [Disqus Comments](#disqus-comments)
+  - [Instagram](#instagram)
+  - [Google Analytics](#google-analytics)
+  - [Update favicon](#update-favicon)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Support](#support)
 
 * * *
 
