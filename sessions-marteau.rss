@@ -15,7 +15,7 @@
    <itunes:name>Sessions d'écoute Marteau</itunes:name>
    <itunes:email>info@sessionsmarteau.com</itunes:email>
 </itunes:owner>
-<itunes:category text="Music Interviews">
+<itunes:category text="Music">
 </itunes:category>
 <itunes:keywords>music, listening, experimental, classic, jazz, avant-garde</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
@@ -98,7 +98,7 @@
    <itunesu:category itunesu:code="102107" />
    <enclosure url="https://vigliensoni.com/sessions-marteau/sur-les-etoiles-2019/podcast/Marteau-sous-les-etoiles-20190703-Naila.mp3" type="audio/mpeg" length="1" />
    <guid>https://vigliensoni.com/sessions-marteau/sur-les-etoiles-2019/podcast/Marteau-sous-les-etoiles-20190703-Naila.mp3</guid>
-   <itunes:duration>0:19:5</itunes:duration>
+   <itunes:duration>0:19:05</itunes:duration>
    <pubDate>Mon, 30 Mar 2020 19:18:00 GMT</pubDate>
 </item>
 
@@ -197,11 +197,11 @@
    <enclosure url="https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/004-Emilie-Fortin.mp3" type="audio/mpeg" length="1" />
    <guid>https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/004-Emilie-Fortin.mp3</guid>
    <itunes:duration>1:30:44</itunes:duration>
-   <pubDate>Wed, 2 Jul 2020 22:00:00 GMT</pubDate>
+   <pubDate>Thu, 2 Jul 2020 22:00:00 GMT</pubDate>
 </item>
 
 <item>
-   <title>Matías Reyes | dedosmuertos - prescription musicale</title>
+   <title>Matías Reyes a.k.a. dedosmuertos - prescription musicale</title>
    <description>Le thème de cette session est sur le thème de « pandemic grooves ». Comment la notion de groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire.</description>
    <itunes:summary>Le thème de cette session est sur le thème de « pandemic grooves ». Comment la notion de groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire.</itunes:summary>
    <itunes:subtitle>Le thème de cette session est sur le thème de « pandemic grooves ». Comment la notion de groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire.</itunes:subtitle>
