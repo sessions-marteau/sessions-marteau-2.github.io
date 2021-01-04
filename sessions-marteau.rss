@@ -7,7 +7,7 @@
 <webMaster>info@sessionsmarteau.com (Sessions d'écoute Marteau)</webMaster>
 <managingEditor>info@sessionsmarteau.com (Sessions d'écoute Marteau)</managingEditor>
 <image>
-   <url>https://sessionsmarteau.com/images/marteau_1792_px.jpg</url>
+   <url>https://sessionsmarteau.com/img/assets/marteau_1792_px.jpg</url>
    <title>Sessions d'écoute Marteau</title>
    <link>https://sessionsmarteau.com</link>
 </image>
@@ -19,7 +19,7 @@
 </itunes:category>
 <itunes:keywords>music, listening, experimental, classic, jazz, avant-garde</itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://sessionsmarteau.com/assets/img/marteau_1792_px.jpg" />
+<itunes:image href="https://sessionsmarteau.com/img/assets/marteau_1792_px.jpg" />
 <atom:link href="https://sessionsmarteau.com/sessions-marteau.rss" rel="self" type="application/rss+xml" />
 <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
 <title>Sessions d'écoute Marteau</title>
@@ -98,7 +98,7 @@
    <itunesu:category itunesu:code="102107" />
    <enclosure url="https://vigliensoni.com/sessions-marteau/sur-les-etoiles-2019/podcast/Marteau-sous-les-etoiles-20190703-Naila.mp3" type="audio/mpeg" length="1" />
    <guid>https://vigliensoni.com/sessions-marteau/sur-les-etoiles-2019/podcast/Marteau-sous-les-etoiles-20190703-Naila.mp3</guid>
-   <itunes:duration>0:19:5</itunes:duration>
+   <itunes:duration>0:19:05</itunes:duration>
    <pubDate>Mon, 30 Mar 2020 19:18:00 GMT</pubDate>
 </item>
 
@@ -197,7 +197,19 @@
    <enclosure url="https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/004-Emilie-Fortin.mp3" type="audio/mpeg" length="1" />
    <guid>https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/004-Emilie-Fortin.mp3</guid>
    <itunes:duration>1:30:44</itunes:duration>
-   <pubDate>Wed, 2 Jul 2020 22:00:00 GMT</pubDate>
+   <pubDate>Thu, 2 Jul 2020 22:00:00 GMT</pubDate>
+</item>
+
+<item>
+   <title>Matías Reyes a.k.a. dedosmuertos - prescription musicale</title>
+   <description>Le thème de cette session est sur le thème de « pandemic grooves ». Comment la notion de groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire.</description>
+   <itunes:summary>Le thème de cette session est sur le thème de « pandemic grooves ». Comment la notion de groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire.</itunes:summary>
+   <itunes:subtitle>Le thème de cette session est sur le thème de « pandemic grooves ». Comment la notion de groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/005-Matias-Reyes.mp3" type="audio/mpeg" length="1" />
+   <guid>https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/005-Matias-Reyes.mp3</guid>
+   <itunes:duration>1:45:17</itunes:duration>
+   <pubDate>Fri, 4 Dec 2020 23:00:00 GMT</pubDate>
 </item>
 
 
