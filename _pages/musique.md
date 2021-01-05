@@ -10,8 +10,7 @@ permalink: /musique/
         
 <a href="https://podcasts.apple.com/ca/podcast/sessions-d%C3%A9coute-marteau/id1468357088?mt=2&app=podcast&at=10l6Xd">
    <img src="{{site.baseurl}}/img/assets/FR_Apple_Podcasts_Listen_Badge_RGB.svg">
-</a> 
-<hr>         
+</a>    
 <a href="https://www.mixcloud.com/sessionsmarteau/">
    <img src="{{site.baseurl}}/img/mixcloud-og-image-162.png">
 </a>
