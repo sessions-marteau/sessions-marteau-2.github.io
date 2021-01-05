@@ -7,11 +7,6 @@ permalink: /musique/
 ### [Podcasts](#podcasts)
 
 Écoutez nos podcasts et nos listes de lecture d'évènements sur: 
-
-<div class="center-no-div">
-   <a href="https://open.spotify.com/show/5s9gyhSxPMB0c1bxfOZXIY">
-   <img src="{{site.baseurl}}/img/assets/spotify-podcast-badge-wht-blk-165x40.svg">
-</a>
         
 <a href="https://podcasts.apple.com/ca/podcast/sessions-d%C3%A9coute-marteau/id1468357088?mt=2&app=podcast&at=10l6Xd">
    <img src="{{site.baseurl}}/img/assets/FR_Apple_Podcasts_Listen_Badge_RGB.svg">
@@ -26,7 +21,7 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Fmat%C3%ACas-reyes-aka-dedosmuertos-prescription-musicale%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fmat%C3%ACas-reyes-aka-dedosmuertos-prescription-musicale%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2F%C3%A9milie-fortin-prescription-musicale%2F" frameborder="0" ></iframe>
 
