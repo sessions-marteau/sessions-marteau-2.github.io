@@ -55,7 +55,7 @@ permalink: /musique/
 
 ### [Artistes](#artistes)
 
-Voici quelques-uns des artistes qui ont joué pendant les Sessions d'écoute Marteau:
+Voici quelques-uns des artistes, ensembles et orchestres qui ont joué pendant les Sessions d'écoute Marteau:
 
 <a href="https://www.francemusique.fr/personne/thomas-tallis" target="_blank">- Thomas Tallis
 </a>  
