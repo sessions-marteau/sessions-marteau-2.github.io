@@ -6,7 +6,7 @@ permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-Ce vendredi 4 décembre à 18h, nous recevons virtuellement ​Matías Reyes aka dedosmuertos, ​qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». Ce sera l’occasion d’explorer avec les auditeurs quelques caractéristiques du ​groove, ​comment la notion de ​groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire. Tout au long de sa session, le commissaire invite le public à questionner comment le ​groove en contexte de pandémie peut rejoindre des sensibilités inédites et pourquoi son impact n’a pas fini de nous surprendre.
+<!-- Ce vendredi 4 décembre à 18h, nous recevons virtuellement ​Matías Reyes aka dedosmuertos, ​qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». Ce sera l’occasion d’explorer avec les auditeurs quelques caractéristiques du ​groove, ​comment la notion de ​groove traverse plusieurs genres, et comment elle prend un sens particulier à travers une analyse du contexte et de l’histoire. Tout au long de sa session, le commissaire invite le public à questionner comment le ​groove en contexte de pandémie peut rejoindre des sensibilités inédites et pourquoi son impact n’a pas fini de nous surprendre.
 
 Pour ce faire joignez-nous sur <a href="https://sessionsmarteau.com/session-virtuelle" target="_blank"> Zoom
 </a> et poser vos questions si vous le voulez.
@@ -23,10 +23,10 @@ Matías Reyes | dedosmuertos
 
 
 <p style="text-align:center;"><img src="/img/dedosmuertos.gif">
-<p style="text-align:center">Matías Reyes aka dedosmuertos</p>
+<p style="text-align:center">Matías Reyes aka dedosmuertos</p> -->
 
 <br>
----
+
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> dernières sessions d'écoute.
 </a>
@@ -37,7 +37,7 @@ We are currently preparing the next listening sessions for you. <a href="https:/
 </a>
 
 
----
+
 Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accepte les dons pour couvrir nos frais et payer un cachet aux commissaires invités. Merci de votre soutien! As a non-profit organization, Les Sessions d'écoute Marteau accepts donations to cover our basic costs and pay a fee to the guest commissioners. Thanks for your support!  
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
