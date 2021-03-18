@@ -37,6 +37,7 @@ Pour notre sixième session virtuelle en mode confinement, en collaboration avec
 
 
 <hr>
+<DIV align="justify">
 <h8>
 Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accepte les dons pour couvrir nos frais et payer un cachet aux commissaires invités. Merci de votre soutien! As a non-profit organization, Les Sessions d'écoute Marteau accepts donations to cover our basic costs and pay a fee to the guest commissioners. Thanks for your support! 
 </h8>
@@ -47,3 +48,4 @@ Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accep
 <input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_donate_SM.gif" border="0" name="submit" title="Aider un organisme OBNL non subventionné!" alt="Bouton Faire un don avec PayPal" />
 <img alt="" border="0" src="https://www.paypal.com/fr_CA/i/scr/pixel.gif" width="1" height="1" />
 </form>
+<DIV>
