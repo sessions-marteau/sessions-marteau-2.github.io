@@ -36,7 +36,7 @@ Matías Reyes | dedosmuertos
   <center>
   
   
-<align="left">
+<DIV align="left">
 <hr>
 Pour notre sixième session virtuelle en mode confinement, en collaboration avec le Centre de musique canadienne, nous recevons Roxanne Turcotte et Mario Gauthier, qui discuteront de l'oeuvre de Marcelle Deschênes. 
 <hr>
@@ -44,13 +44,12 @@ Pour notre sixième session virtuelle en mode confinement, en collaboration avec
 <a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-009-Programme.pdf" download>Télécharger le programme / download the program</a>
 
 <hr>
+</DIV>
 
 
 
-<align="justify">
-
+<DIV align="justify">
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
-
 
 
 
@@ -73,6 +72,6 @@ Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accep
 <input type="image" src="https://www.paypalobjects.com/fr_CA/i/btn/btn_donate_SM.gif" border="0" name="submit" title="Aider un organisme OBNL non subventionné!" alt="Bouton Faire un don avec PayPal" />
 <img alt="" border="0" src="https://www.paypal.com/fr_CA/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
+</DIV>
 
 
