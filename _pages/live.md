@@ -6,23 +6,23 @@ permalink: /live/
 tag: live, en direct
 ---
 <center>
-4 décembre 2020 18h - Durée 120 minutes
+29 mars 2020 19h - Durée 60 minutes
 <center>
 <hr>
   <center>
     
-    <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Le fil en direct sur Facebook nous laisse tomber joignez-nous sur ZOOM / Forget Facebook join us on ZOOM</a></h6>
-<center> Vous pouvez également interagir sur <a href="https://sessionsmarteau.com/session-virtuelle"> Zoom (STEREO) </a> et poser vos questions!  
+    <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM / Join us on ZOOM</a></h6>
+<center> Vous pouvez également interagir et poser vos questions <a href="https://sessionsmarteau.com/session-virtuelle"> sur Zoom (en STEREO) </a> !  
 
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
 
 
 
 <hr>
-Pour notre cinquième session virtuelle en mode confinement, nous recevons Matías Reyes aka dedosmuertos, qui discutera avec nous de sa liste musicale sur le thème de « pandemic grooves ». 
+Pour notre sixième session virtuelle en mode confinement, en collaboration avec le Centre de musique canadienne, nous recevons Roxanne Turcotte et Mario Gauthier, qui discuteront de l'oeuvre de Marcelle Deschênes. 
 <hr>
 
-<a href="https://sessionsmarteau.com/uploads/session-008/program/Sessions-Marteau-008-Programme.pdf" download>Télécharger le programme / download the program</a>
+<a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-009-Programme.pdf" download>Télécharger le programme / download the program</a>
 
 <hr>
 
