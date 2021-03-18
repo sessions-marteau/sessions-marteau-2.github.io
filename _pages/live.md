@@ -17,18 +17,20 @@ tag: live, en direct
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
 
 
-
+<DIV align="justify">
 <hr>
 Pour notre sixième session virtuelle en mode confinement, en collaboration avec le Centre de musique canadienne, nous recevons Roxanne Turcotte et Mario Gauthier, qui discuteront de l'oeuvre de Marcelle Deschênes. 
 <hr>
+<DIV>
 
+<DIV align="center">
 <a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-009-Programme.pdf" download>Télécharger le programme / download the program</a>
 
 <hr>
 
 
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
-
+<DIV>
 
 
 
