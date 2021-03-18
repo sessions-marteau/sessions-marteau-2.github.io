@@ -33,7 +33,7 @@ Matías Reyes | dedosmuertos
 29 mars 2020 19h - Durée 60 minutes
 <center>
 <hr>
-  <center>
+  <left>
     
 
 <hr>
