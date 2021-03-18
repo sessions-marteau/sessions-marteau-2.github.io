@@ -12,7 +12,7 @@ tag: live, en direct
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
-<center> N’hésitez pas interagir et poser vos questions. </a> !  
+<center> N’hésitez pas interagir et poser vos questions.
 
 <div class="fb-comments" data-href="https://sessionsmarteau.com/live/" data-colorscheme="dark" data-numposts="1" data-width=""></div>
 
