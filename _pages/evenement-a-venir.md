@@ -40,7 +40,8 @@ Les Sessions d'écoute Marteau et le <a href="https://qc.cmccanada.org/" > Centr
 <br>
 <br>
 
-Née en 1939 à Price, Marcelle Deschênes a fondé en 1980, le tout premier programme de composition électroacoustique de la faculté de musique de l’Université de Montréal. Par son implication dans le milieu et l’originalité de sa démarche, elle a aussi su se démarquer, notamment par ses méga-spectacles multimédia…tous créés à une époque où le terme n’était même pas encore utilisé !
+Née en 1939 à Price, <a href="http://1443.sydneyplus.com/final/Portal/Composer-Showcase.aspx?component=AAIL&record=007afb47-8c9b-4f20-9d4c-4641ff9471d0&lang=fr-CA" > Marcelle Deschênes </a> a fondé en 1980, le tout premier programme de composition électroacoustique de la faculté de musique de l’Université de Montréal. Par son implication dans le milieu et l’originalité de sa démarche, elle a aussi su se démarquer, notamment par ses méga-spectacles multimédia…tous créés à une époque où le terme n’était même pas encore utilisé !
+
 
 <br>
 <br>
@@ -50,7 +51,7 @@ Elle a fortement marqué toute une génération de compositeurs et compositrices
 <br>
 <br>
 
-Roxanne Turcotte, Gilles Gobeil, Robert Normandeau, Michel Smith, Stéphane Roy, Michel Tétreault et Mario Rodrigue (décédé) ont fait partie de ses étudiant.e.s.  Ses connaissances, sa sagesse et sa perspicacité à repérer les élèves doués en ont fait un professeur remarquable et recherché.  Sa pratique artistique, très aboutie, lui a valu de nombreux prix et une reconnaissance mondiale.
+<a href="http://1443.sydneyplus.com/final/Portal/Composer-Showcase.aspx?component=AAIL&record=007afb47-8c9b-4f20-9d4c-4641ff9471d0&lang=fr-CA" > Roxanne Turcotte </a>, Gilles Gobeil, Robert Normandeau, Michel Smith, Stéphane Roy, Michel Tétreault et Mario Rodrigue (décédé) ont fait partie de ses étudiant.e.s.  Ses connaissances, sa sagesse et sa perspicacité à repérer les élèves doués en ont fait un professeur remarquable et recherché.  Sa pratique artistique, très aboutie, lui a valu de nombreux prix et une reconnaissance mondiale.
 
 <br>
 <br>
