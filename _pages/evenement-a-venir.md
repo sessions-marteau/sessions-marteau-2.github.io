@@ -33,7 +33,7 @@ Matías Reyes | dedosmuertos
 29 mars 2020 19h - Durée 60 minutes
 <center>
 <hr>
-<DIV align="justify">
+<DIV align="left">
   
 Les Sessions d'écoute Marteau et le <a href="https://qc.cmccanada.org/" > Centre de musique canadienne au Québec </a> présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
 
