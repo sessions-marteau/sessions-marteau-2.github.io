@@ -35,7 +35,7 @@ Matías Reyes | dedosmuertos
 <hr>
   <center>
   
-Les Sessions d'écoute Marteau et le Centre de musique canadienne au Québec présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
+Les Sessions d'écoute Marteau et le <a href="https://qc.cmccanada.org/" > Centre de musique canadienne au Québec </a> présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
 
 Née en 1939 à Price, Marcelle Deschênes a fondé en 1980, le tout premier programme de composition électroacoustique de la faculté de musique de l’Université de Montréal. Par son implication dans le milieu et l’originalité de sa démarche, elle a aussi su se démarquer, notamment par ses méga-spectacles multimédia…tous créés à une époque où le terme n’était même pas encore utilisé !
 
@@ -47,9 +47,7 @@ Par cette session virtuelle en mode confinement, nous recevons la compositrice R
 
 Les sessions d'écoute Marteau réhabilitent l'écoute de la musique dans un espace où le public peut se détendre et s’immerger dans pièces musicales sélectionnées avec soin par des commissaires invités. Bienvenue à toutes et à tous !
  
-La session sera présentée sur Zoom.  Page Facebook de l'événement. 
-
-<a href="https://www.facebook.com/events/140024488034651/" > Page Facebook de l'événement </a>
+La session sera présentée sur Zoom. <a href="https://www.facebook.com/events/140024488034651/" > Page Facebook de l'événement </a>
 
 
 Pour notre sixième session virtuelle en mode confinement, en collaboration avec le Centre de musique canadienne, nous recevons Roxanne Turcotte et Mario Gauthier, qui discuteront de l'oeuvre de Marcelle Deschênes. 
