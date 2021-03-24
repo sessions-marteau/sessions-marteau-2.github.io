@@ -51,7 +51,7 @@ Elle a fortement marqué toute une génération de compositeurs et compositrices
 <br>
 <br>
 
-<a href="http://1443.sydneyplus.com/final/Portal/Composer-Showcase.aspx?component=AAIL&record=5f6ed516-0771-4e67-9d4f-69d25c790340" > Roxanne Turcotte</a>, Gilles Gobeil, Robert Normandeau, Michel Smith, Stéphane Roy, Michel Tétreault et Mario Rodrigue (décédé) ont fait partie de ses étudiant.e.s.  Ses connaissances, sa sagesse et sa perspicacité à repérer les élèves doués en ont fait un professeur remarquable et recherché.  Sa pratique artistique, très aboutie, lui a valu de nombreux prix et une reconnaissance mondiale.
+<a href="http://1443.sydneyplus.com/final/Portal/Composer-Showcase.aspx?component=AAIL&record=5f6ed516-0771-4e67-9d4f-69d25c790340&lang=fr-CA" > Roxanne Turcotte</a>, Gilles Gobeil, Robert Normandeau, Michel Smith, Stéphane Roy, Michel Tétreault et Mario Rodrigue (décédé) ont fait partie de ses étudiant.e.s.  Ses connaissances, sa sagesse et sa perspicacité à repérer les élèves doués en ont fait un professeur remarquable et recherché.  Sa pratique artistique, très aboutie, lui a valu de nombreux prix et une reconnaissance mondiale.
 
 <br>
 <br>
