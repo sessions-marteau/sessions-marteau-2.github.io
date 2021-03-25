@@ -35,7 +35,7 @@ Matías Reyes | dedosmuertos
 <hr>
 <DIV align="left">
   
-Les Sessions d'écoute Marteau et le <a href="https://qc.cmccanada.org/" > Centre de musique canadienne au Québec </a> présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
+Les Sessions d'écoute Marteau et le <a href="https://www.cmcquebec.ca" > Centre de musique canadienne au Québec </a> présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
 
 <br>
 <br>
