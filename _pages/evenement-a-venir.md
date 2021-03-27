@@ -56,7 +56,7 @@ Elle a fortement marqué toute une génération de compositeurs et compositrices
 <br>
 <br>
 
-Par cette session virtuelle en mode confinement, nous recevons la compositrice Roxanne Turcotte et le chercheur indépendant Mario Gauthier, qui discuteront de l'œuvre de Marcelle Deschênes. Une discussion ouverte au grand public suivra l’heure d’écoute.
+Par cette session virtuelle en mode confinement, nous recevons la compositrice Roxanne Turcotte et le chercheur indépendant <a href="https://soundcloud.com/mario-gauthier-295" > Mario Gauthier</a>, qui discuteront de l'œuvre de Marcelle Deschênes. Une discussion ouverte au grand public suivra l’heure d’écoute.
 
 <br>
 <br>
