@@ -11,5 +11,5 @@ Gabriel Vigliensoni, musicien et conférencier au département de la musique à 
 
 Aujourd'hui nous consommons la musique de manière très différente qu'à cette époque puisque la musique remplit un espace d'arrière-plan plutôt que d'avant plan. Comme réponse nous voudrions créer un espace qui réhabilite l'écoute de la musique afin que le public puisse l'apprécier à sa juste valeur à l'aide d'un excellent système de son, d'un commissariat d'une sélection de musique recherché, et d'un espace silencieux où les Montréalais pourraient ralentir et s'immerger complètement dans l'univers d'albums de grande qualité le temps d'un café ou d'un après-midi.
 
-De retour à Montréal Simon et Gabriel joint de Bernard Adams musicien et comptable se sont rencontrés pour fonder l’OBNL: Sessions d’écoute Marteau. Ils organisent avec Hugues Bélanger des évènements avec commissaires invités pour apprécier des oeuvres méconnu du grand public en attendant de fonder un café inspiré des _meikyoku kissaten_.
+De retour à Montréal Simon et Gabriel joint de Bernard Adams musicien et comptable se sont rencontrés pour fonder l’OBNL: Sessions d’écoute Marteau. Ils organisent avec Hugues Bélanger et Véro Marengère des évènements avec commissaires invités pour apprécier des oeuvres méconnu du grand public en attendant de fonder un café inspiré des _meikyoku kissaten_.
 
