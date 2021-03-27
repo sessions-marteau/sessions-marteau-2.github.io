@@ -200,6 +200,135 @@ Voici quelques-uns des artistes, ensembles et orchestres qui ont joué pendant l
 <a href="https://www.thecanadianencyclopedia.ca/en/article/al-hajj-sayyd-abdul-al-khabyyr-emc" target="_blank">- Sayyd Abdul Al-Khabyyr
 </a>
 <br>
+Föllakzoid
+<br>
+Kee Avil
+<br>
+Tamayugé
+<br>
+Persons Unknown
+<br>
+Élément Kuuda
+<br>
+OOIOO
+<br>
+Yoo Doo Right
+<br>
+No Negative
+<br>
+Nuage Flou
+<br>
+Sharakan Early Music Ensemble
+<br>
+Sequentia & Barbara Thornton
+<br>
+Elisabetta Guglielmin
+<br>
+Cappella Strumentale del Duomo di Novara & Gruppo Vocale Musica Laudantes
+<br>
+Lisa Erbes
+<br>
+Christine Jobson & Gregory Thompson
+<br>
+Kronos Quartet
+<br>
+Takemitsu & Nishimura
+<br>
+Andrea Parker & Daz Quayle
+<br>
+Alvin Lucier & la Brandeis University Chamber Chorus
+<br>
+Delia Derbyshire
+<br>
+Danielle Darrieux
+<br>
+Magali Noël
+<br>
+Kylie Minogue
+<br>
+Björk
+<br>
+Eartheater
+<br>
+Jenny Hval
+<br>
+Puce Mary
+<br>
+Holly Herndon
+<br>
+Félicia Atkinson
+<br>
+Yan Maresz
+<br>
+Mauricio Kagel
+<br>
+Liza Lim
+<br>
+Helmut Oehring
+<br>
+George Lewis
+<br>
+Christian Wolff
+<br>
+Madeleine Isaksson
+<br>
+Luigi Nono
+<br>
+Vito Zuraj
+<br>
+Ellen Arkbro
+<br>
+Dick Hyman
+<br>
+Jean Jacques Perrey
+<br>
+Pierre Henry and Michel Colombier
+<br>
+Add N to X
+<br>
+The Psychedelic Schafferson Jetplane
+<br>
+Nemesio Ñanco
+<br>
+Los Indios Tabajaras
+<br>
+Zé Roberto
+<br>
+Can
+<br>
+20th Century Steel Band
+<br>
+Joubert Singers
+<br>
+Patrick Cowley
+<br>
+Eumir Deodato
+<br>
+Chicha Libre
+<br>
+Los Destellos
+<br>
+Penahi
+<br>
+Elias Rahbani
+<br>
+The Dave Pike Set
+<br>
+Señor Coconut
+<br>
+Zazou/Bikaye/Cy1
+<br>
+Ata Kak
+<br>
+Tulio Enrique León
+<br>
+Polibio Mayorga
+<br>
+Ihsan Al Munzer
+<br>
+Marcelle Deschênes
+<br>
+
 <hr>
 ### [Commissaires](#commissaires)
 
@@ -211,6 +340,9 @@ Émilie Fortin est une musicienne interdisciplinaire et enseignante passionné
 
 #### Sébastien Fournier
 Sébastien Fournier est ex-membre du groupe d'avant-rock Panoticon Eyelids et du quatuor kraut-funk Avec le Soleil Sortant de sa Bouche (regroupant des membres de Pas Chic Chic, Set Fire to Flames et Fly Pam Am), se produit en Europe ainsi qu'au festival légendaire All Tomorrow's Party. Depuis 2019 Fournier se concentre principalement sur l'enregistrement et le mixage de groupes de la scène rock expérimentale montréalaise.
+
+#### Mario Gauthier
+Chercheur indépendant et artiste audio, Mario Gauthier été réalisateur à l’ex-chaîne culturelle de Radio-Canada de 1986 à 2003 (Prix Opus/Événement médiatique de l’année : Conseil québécois de la musique / émission L’espace du son). Il a aussi été membre du quatuor d’improvisation électroacoustique Theresa Transistor (2005-2016), chargé de projet à la Phonothèque québécoise (2004-2012) et professeur à l’école Vincent D’Indy (2012- 2019). Depuis 2012, en sus de faire de l’optimisation numérique, il collabore régulièrement avec le département d’art cinématographique de l’U. de M. Il enseigne présentement la baladodiffusion à L’UQAM .
 
 #### Felix-Antoine Hamel
 Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
@@ -226,6 +358,9 @@ Artiste émergente, le travail de Marengère s’articule autour de la prise d
 
 #### Sam Shalabi
 Compositeur et improvisateur canado-égyptien, installé à Montréal. Ayant débuté dans le punk rock à la fin des années 70, son travail a évolué pour devenir une fusion de musique expérimentale et moderne qui incorpore la musique arabe traditionnelle; le shaabi, le noise, la musique classique, le texte, l'improvisation et le jazz. Il a publié 5 albums solo, 5 albums avec Shalabi Effect, un quatuor d'improvisation libre qui relie la musique psychédélique occidentale et le Maquam arabe (gammes) et 4 albums avec Land Of Kush (un orchestre expérimental de 30 membres, pour lequel il compose). Il est apparu sur plus de 60 albums et a fait des tournées en Europe, en Amérique du Nord et en Afrique du Nord.
+
+#### Roxanne Turcotte
+Compositrice et conceptrice sonore d’installations, de concerts et performances, Roxanne Turcotte est détentrice d'une maîtrise en composition électroacoustique de l'Université de Montréal. Récipiendaire de prix internationaux de composition, pour entre autre le Prix de la International New Music Composers Competition aux États-Unis (1987,1989) - Médaille d'argent en 1985 et Médaille d'or en 1989 pour Amore et Y---OW du prix Hugh LeCaine de la SOCAN. Elle participe à de nombreux festivals et événements électroacoustiques et multimédias. Ses œuvres sont diffusées dans plusieurs pays d'Europe et d'Amérique, sont éditées et publiées sous étiquette empreintes DIGITales depuis 1990.
 
 #### Jon Wild
 Jon Wild enseigne la composition et la théorie à l’Université McGill. Il est reconnu pour ses œuvres chorales et vocales, dont certaines ont été présentées à plusieurs reprises sur la scène internationale par le Hillier Ensemble, pour lequel il a été compositeur en résidence durant l’été 2002. Il est présentement « Assistant Professor » à l’École de musique Schulich de l’Université McGill.
