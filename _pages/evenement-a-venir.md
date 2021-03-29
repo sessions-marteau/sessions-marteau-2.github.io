@@ -34,7 +34,6 @@ Matías Reyes | dedosmuertos
 <center>
 <hr>
   
-  <!-- 
 
   <center>
     
@@ -42,7 +41,6 @@ Matías Reyes | dedosmuertos
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
- -->
   
   
 <DIV align="left">
@@ -88,7 +86,6 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 </DIV>
 <hr>
 
-<!-- 
 
   <center>
     
@@ -96,7 +93,6 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
- -->
 
 
 
