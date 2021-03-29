@@ -33,6 +33,18 @@ Matías Reyes | dedosmuertos
 29 mars 2020 19h - Durée 60 minutes
 <center>
 <hr>
+  
+  <!-- 
+
+  <center>
+    
+    <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
+<center> N’hésitez pas interagir et poser vos questions.
+
+<hr>
+ -->
+  
+  
 <DIV align="left">
   
 Les Sessions d'écoute Marteau et le <a href="https://www.cmcquebec.ca" > Centre de musique canadienne au Québec </a> présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
@@ -66,7 +78,7 @@ Les sessions d'écoute Marteau réhabilitent l'écoute de la musique dans un esp
 <br>
 <br>
 
-La session sera présentée sur Zoom. <a href="https://www.facebook.com/events/140024488034651/" > Page Facebook de l'événement </a>
+La session sera présentée sur Zoom (le lien sera disponible ici quelques minutes avant la session de 19h.) <a href="https://www.facebook.com/events/140024488034651/" > Page Facebook de l'événement </a>
 </DIV>
 
 <hr>
@@ -76,7 +88,15 @@ La session sera présentée sur Zoom. <a href="https://www.facebook.com/events/1
 </DIV>
 <hr>
 
+<!-- 
 
+  <center>
+    
+    <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
+<center> N’hésitez pas interagir et poser vos questions.
+
+<hr>
+ -->
 
 
 
