@@ -34,14 +34,14 @@ Matías Reyes | dedosmuertos
 <center>
 <hr>
   
-
+<!-- 
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
-  
+   -->
   
 <DIV align="left">
   
@@ -86,15 +86,14 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 </DIV>
 <hr>
 
-
+<!-- 
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
-
-
+ -->
 
 
 
