@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Événement a venir
+title: Événement en cours!
 image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
@@ -34,14 +34,13 @@ Matías Reyes | dedosmuertos
 <center>
 <hr>
   
-<!-- 
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
-<center> N’hésitez pas interagir et poser vos questions.
+<center> N’hésitez pas à interagir et poser vos questions dans le chat.
 
 <hr>
-   -->
+
   
 <DIV align="left">
   
@@ -86,14 +85,14 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 </DIV>
 <hr>
 
-<!-- 
+ 
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
- -->
+
 
 
 
