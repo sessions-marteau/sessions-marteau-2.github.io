@@ -72,7 +72,7 @@ La session sera présentée sur Zoom. <a href="https://www.facebook.com/events/1
 <hr>
 
 <DIV align="center">
-<a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-009-Programme.pdf" download>Programme à venir </a>
+<a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-009-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
 </DIV>
 <hr>
 
