@@ -85,9 +85,9 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 
 <br>
 <hr>
-</DIV>
 
-<DIV align="justify">
+
+
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> dernières sessions d'écoute.</a> We are currently preparing the next listening sessions for you. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> In the meantime, stay with us by catching up our
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> last listening sessions.
