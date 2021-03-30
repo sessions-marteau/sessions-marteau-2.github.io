@@ -66,14 +66,20 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
--->
+
 
 
 
 
 <DIV align="justify">
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
+-->
+  
+### Évènements à venir:
 
+23 avril - Estelle Schorpp (Montréal)
+14 mai - Juan Dumay (Paris)
+28 mai - Félix B. Desfossés (Rouyn-Noranda)
 
 
 
