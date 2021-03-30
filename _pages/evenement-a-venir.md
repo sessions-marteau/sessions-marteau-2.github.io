@@ -75,7 +75,7 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
 -->
   
-### Événements à venir:
+### Ce printemps sur zoom
 
 23 avril - Estelle Schorpp (Montréal)
 <br>
@@ -88,6 +88,7 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 
 
 
+<DIV align="justify">
 Nous vous préparons d'autres sessions d'écoute. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> Entre-temps restez dès nôtres et consultez nos
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> dernières sessions d'écoute.</a> We are currently preparing the next listening sessions for you. <a href="https://gmail.us20.list-manage.com/subscribe/post?u=698e7b941cdf206ea63f5a5b7&id=0677e98a6a"> ⬇</a> In the meantime, stay with us by catching up our
 <a href="https://sessionsmarteau.com/sessions-passes/" target="_blank"> last listening sessions.
@@ -102,5 +103,4 @@ Les Sessions d'écoute Marteau est un organisme OBNL non subventionné qui accep
 <img alt="" border="0" src="https://www.paypal.com/fr_CA/i/scr/pixel.gif" width="1" height="1" />
 </form>
 </DIV>
-
 
