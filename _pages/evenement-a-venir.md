@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Évènements à venir
+title: Événements à venir
 image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
@@ -75,7 +75,7 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
 -->
   
-### Évènements à venir:
+### Événements à venir:
 
 23 avril - Estelle Schorpp (Montréal)
 <br>
