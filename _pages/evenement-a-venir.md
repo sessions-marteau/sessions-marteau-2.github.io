@@ -33,14 +33,14 @@ Matías Reyes | dedosmuertos
 29 mars 2020 19h - Durée 60 minutes
 <center>
 <hr>
-  
+<!--   
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas à interagir et poser vos questions dans le chat.
 
 <hr>
-
+-->
   
 <DIV align="left">
   
@@ -85,14 +85,14 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 </DIV>
 <hr>
 
- 
+<!--   
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
-
+-->
 
 
 
