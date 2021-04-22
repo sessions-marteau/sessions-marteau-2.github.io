@@ -19,6 +19,10 @@ dropdown: true
   
 <DIV align="left">
   
+23 avril - Estelle Schorpp (Montréal)  
+
+<hr>
+  
 Les Sessions d'écoute Marteau présentent la commissaire : Estelle Schorpp, variations autour d’une sauterelle
 
 <br>
@@ -71,9 +75,8 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <br>
 <br>
 
-### Ce printemps sur zoom
+### À venir ce printemps sur zoom
 
-23 avril - Estelle Schorpp (Montréal)
 <br>
 14 mai - Juan Dumay (Paris)
 <br>
