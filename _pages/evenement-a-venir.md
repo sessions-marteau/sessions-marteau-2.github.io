@@ -81,7 +81,6 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <br>
 28 mai - Félix B. Desfossés (Rouyn-Noranda)
 
-<br>
 <hr>
 
 
