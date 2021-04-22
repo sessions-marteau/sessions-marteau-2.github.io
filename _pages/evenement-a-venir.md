@@ -19,7 +19,7 @@ dropdown: true
   
 <DIV align="left">
   
-Les Sessions d'écoute Marteau présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
+Les Sessions d'écoute Marteau présentent la commissaire : Estelle Schorpp, variations autour d’une sauterelle
 
 <br>
 <br>
@@ -58,15 +58,18 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
--->  
 
 
 
 
 <DIV align="justify">
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
--->
-  
+
+-->  
+
+<br>
+<br>
+
 ### Ce printemps sur zoom
 
 23 avril - Estelle Schorpp (Montréal)
