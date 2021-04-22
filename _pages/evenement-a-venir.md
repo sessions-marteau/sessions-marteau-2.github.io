@@ -12,61 +12,53 @@ dropdown: true
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas à interagir et poser vos questions dans le chat.
+-->  
 
 <hr>
 
   
 <DIV align="left">
   
-Les Sessions d'écoute Marteau et le <a href="https://www.cmcquebec.ca" > Centre de musique canadienne au Québec </a> présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
+Les Sessions d'écoute Marteau présentent : Marcelle Deschênes, pionnière de la musique électroacoustique.
 
 <br>
 <br>
 
-Née en 1939 à Price, <a href="http://1443.sydneyplus.com/final/Portal/Composer-Showcase.aspx?component=AAIL&record=007afb47-8c9b-4f20-9d4c-4641ff9471d0&lang=fr-CA" > Marcelle Deschênes </a> a fondé en 1980, le tout premier programme de composition électroacoustique de la faculté de musique de l’Université de Montréal. Par son implication dans le milieu et l’originalité de sa démarche, elle a aussi su se démarquer, notamment par ses méga-spectacles multimédia…tous créés à une époque où le terme n’était même pas encore utilisé !
-
-
-<br>
-<br>
-
-Elle a fortement marqué toute une génération de compositeurs et compositrices de musique acousmatique.
+Par cette session virtuelle en mode confinement, nous recevons la compositrice et l'artiste sonore Estelle Schorpp qui discutera de la musique des sauterelles qui ne connaît pas de catégories. Elle s'intéresse au vivant, à ses multiples organisations, évolutions et inventions et tente de créer des ponts conceptuels, techniques et esthétiques entre l'écologie et la création sonore. 
 
 <br>
 <br>
 
-<a href="http://1443.sydneyplus.com/final/Portal/Composer-Showcase.aspx?component=AAIL&record=5f6ed516-0771-4e67-9d4f-69d25c790340&lang=fr-CA" > Roxanne Turcotte</a>, Gilles Gobeil, Robert Normandeau, Michel Smith, Stéphane Roy, Michel Tétreault et Mario Rodrigue (décédé) ont fait partie de ses étudiant.e.s.  Ses connaissances, sa sagesse et sa perspicacité à repérer les élèves doués en ont fait un professeur remarquable et recherché.  Sa pratique artistique, très aboutie, lui a valu de nombreux prix et une reconnaissance mondiale.
+Au cours de l’évolution, les sauterelles ont inventé un système auditif ultra-sensible, situé sur les pattes avant qui leur permet de percevoir des fréquences de 120kHz sur de très longues distances. Ça donne quand même bien envie de se poser la question : comment la sauterelle perçoit son milieu ? N’étant pas éthologue, elle répondra en artiste sonore, avec sensibilité et imagination. Krautrock, pop, musique concrète, techno, musique électronique, musique instrumentale, la musique des sauterelles ne connaît pas de catégories. Tout au long de ce périple improvisé, il sera question d’insectes, bien sûr, sous toutes leurs formes, de célébration dansée, et de sensibilité écologique.
+
 
 <br>
 <br>
-
-Par cette session virtuelle en mode confinement, nous recevons la compositrice Roxanne Turcotte et le chercheur indépendant <a href="https://soundcloud.com/mario-gauthier-295" > Mario Gauthier</a>, qui discuteront de l'œuvre de Marcelle Deschênes. Une discussion ouverte au grand public suivra l’heure d’écoute.
-
-<br>
-<br>
+<a href="https://estelleschorpp.com/" > Estelle Schorpp </a> est une artiste sonore et compositrice française basée à Montréal. Son travail hétéroclite comprend l'installation sonore, la composition électroacoustique, l'écriture et la performance. Elle s'intéresse au vivant, à ses multiples organisations, évolutions et inventions et tente de créer des ponts conceptuels, techniques et esthétiques entre l'écologie et la création sonore. Récemment, elle s'inspire des écosystèmes naturels et explore le potentiel des systèmes algorithmiques à travers des installations sonores génératives et interactives. Elle est membre du collectif artistique 10μm, avec la chorégraphe Sophie Levasseur et la poète Virginie Savard.
 
 Les sessions d'écoute Marteau réhabilitent l'écoute de la musique dans un espace où le public peut se détendre et s’immerger dans pièces musicales sélectionnées avec soin par des commissaires invités. Bienvenue à toutes et à tous !
 
 <br>
 <br>
 
-La session sera présentée sur Zoom (le lien sera disponible ici quelques minutes avant la session de 19h.) <a href="https://www.facebook.com/events/140024488034651/" > Page Facebook de l'événement </a>
+La session sera présentée sur Zoom (le lien sera disponible ici quelques minutes avant la session de 19h.) <a href="https://fb.me/e/44xQLFTlv" > Page Facebook de l'événement </a>
 </DIV>
 
 <hr>
 
 <DIV align="center">
-<a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-009-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
+<a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-010-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
 </DIV>
 <hr>
 
-
+<!-- 
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas interagir et poser vos questions.
 
 <hr>
-
+-->  
 
 
 
