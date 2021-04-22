@@ -19,7 +19,7 @@ dropdown: true
   
 <DIV align="left">
   
-23 avril - Estelle Schorpp (Montréal)  
+23 avril 19h - Estelle Schorpp (Montréal)  
 
 <hr>
   
@@ -77,7 +77,6 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 
 ### À venir ce printemps sur zoom
 
-<br>
 14 mai - Juan Dumay (Paris)
 <br>
 28 mai - Félix B. Desfossés (Rouyn-Noranda)
