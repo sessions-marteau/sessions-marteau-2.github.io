@@ -68,11 +68,12 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 
 <DIV align="justify">
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
+<br>
+<br>
 
 -->  
 
-<br>
-<br>
+
 
 ### À venir ce printemps sur zoom
 
