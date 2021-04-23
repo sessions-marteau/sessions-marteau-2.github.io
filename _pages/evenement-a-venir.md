@@ -7,13 +7,12 @@ dropdown: true
 ---
 
 
-<!--   
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center> N’hésitez pas à interagir et poser vos questions dans le chat.
   <hr>
--->  
+
 
   
 <DIV align="left">
@@ -55,7 +54,7 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <hr>
 
 
-<!-- 
+
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
@@ -70,7 +69,7 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
 <br>
 <br>
--->  
+
 
 
 
