@@ -213,6 +213,19 @@
 </item>
 
 
+<item>
+   <title>Estelle Schorpp sur les sauterelles</title>
+   <description>Krautrock, pop, musique concrète, techno, musique électronique, musique instrumentale, la musique des sauterelles ne connaît pas de catégories.</description>
+   <itunes:summary>Krautrock, pop, musique concrète, techno, musique électronique, musique instrumentale, la musique des sauterelles ne connaît pas de catégories.</itunes:summary>
+   <itunes:subtitle>Krautrock, pop, musique concrète, techno, musique électronique, musique instrumentale, la musique des sauterelles ne connaît pas de catégories.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/007-Estelle-Schorpp.mp3" type="audio/mpeg" length="1" />
+   <guid>https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/007-Estelle-Schorpp.mp3</guid>
+   <itunes:duration>0:49:34</itunes:duration>
+   <pubDate>Fri, 23 Apr 2021 23:00:00 GMT</pubDate>
+</item>
+
+
 <!--END REPEAT--> 
 
 </channel>
