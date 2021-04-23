@@ -18,7 +18,7 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Floeuvre-de-marcelle-desch%C3%AAnes-vue-par-roxanne-turcotte-et-mario-gauthier%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Floeuvre-de-marcelle-desch%C3%AAnes-vue-par-roxanne-turcotte-et-mario-gauthier%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fmat%C3%ACas-reyes-aka-dedosmuertos-prescription-musicale%2F" frameborder="0" ></iframe>
 
@@ -358,6 +358,9 @@ Artiste émergente, le travail de Marengère s’articule autour de la prise d
 #### Matías Reyes | dedosmuertos
 À la fois DJ, designer sonore et musicien, Matías Reyes poursuit une inlassable de quête pour comprendre les interactions et le sens entre les chansons et les rythmes. Croyant que « tout se danse », il explore le futur en remontant les racines du passé, cherchant dans les traces du groove mondial une façon d’abattre les frontières des genres et des styles. Chilien d’origine et maintenant établi à Paris, Matías Reyes profite de la pandémie pour repenser les façons de socialiser, de célébrer et de partager des énergies.
 
+#### Estelle Schorpp
+Artiste sonore et compositrice française basée à Montréal. Son travail hétéroclite comprend l'installation sonore, la composition électroacoustique, l'écriture et la performance. Elle s'intéresse au vivant, à ses multiples organisations, évolutions et inventions et tente de créer des ponts conceptuels, techniques et esthétiques entre l'écologie et la création sonore. Récemment, elle s'inspire des écosystèmes naturels et explore le potentiel des systèmes algorithmiques à travers des installations sonores génératives et interactives. Elle est membre du collectif artistique 10μm, avec la chorégraphe Sophie Levasseur et la poète Virginie Savard. 
+
 #### Sam Shalabi
 Compositeur et improvisateur canado-égyptien, installé à Montréal. Ayant débuté dans le punk rock à la fin des années 70, son travail a évolué pour devenir une fusion de musique expérimentale et moderne qui incorpore la musique arabe traditionnelle; le shaabi, le noise, la musique classique, le texte, l'improvisation et le jazz. Il a publié 5 albums solo, 5 albums avec Shalabi Effect, un quatuor d'improvisation libre qui relie la musique psychédélique occidentale et le Maquam arabe (gammes) et 4 albums avec Land Of Kush (un orchestre expérimental de 30 membres, pour lequel il compose). Il est apparu sur plus de 60 albums et a fait des tournées en Europe, en Amérique du Nord et en Afrique du Nord.
 
@@ -368,4 +371,4 @@ Compositrice et conceptrice sonore d’installations, de concerts et performance
 Jon Wild enseigne la composition et la théorie à l’Université McGill. Il est reconnu pour ses œuvres chorales et vocales, dont certaines ont été présentées à plusieurs reprises sur la scène internationale par le Hillier Ensemble, pour lequel il a été compositeur en résidence durant l’été 2002. Il est présentement « Assistant Professor » à l’École de musique Schulich de l’Université McGill.
 
 #### Annete Zenith
-Aux tables tournantes cette fois-ci, le public pourra compter sur le travail de sélection de la commissaire invitée, musicienne et designer graphique, Anette Zénith. Éloge des étoiles, elle fait briller les astres par ses sons sensuels et envoûtants. Peur de rien, elle mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée. Flotter au-dessus des nuages et crier haut et fort la liberté pour éclairer le visage des âmes sensibles.
+Musicienne et designer graphique, Anette Zénith. Éloge des étoiles, elle fait briller les astres par ses sons sensuels et envoûtants. Peur de rien, elle mixe autant de l'africana du futur en passant par le jazz du désert pour finir avec de l'électronique décapitée. Flotter au-dessus des nuages et crier haut et fort la liberté pour éclairer le visage des âmes sensibles.
