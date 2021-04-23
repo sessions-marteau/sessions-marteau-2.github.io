@@ -49,13 +49,13 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 
 <hr>
 
-<!-- 
 <DIV align="center">
 <a href="https://sessionsmarteau.com/uploads/session-009/program/Sessions-Marteau-010-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
 </DIV>
 <hr>
 
 
+<!-- 
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
@@ -64,14 +64,14 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <hr>
 
 
-
+-->  
 
 <DIV align="justify">
 À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
 <br>
 <br>
 
--->  
+
 
 
 
