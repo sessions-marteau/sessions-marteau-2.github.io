@@ -18,7 +18,7 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?hide_artwork=1&feed=%2Fsessionsmarteau%2Festelle-schorpp-sur-les-sauterelles%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Festelle-schorpp-sur-les-sauterelles%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Floeuvre-de-marcelle-desch%C3%AAnes-vue-par-roxanne-turcotte-et-mario-gauthier%2F" frameborder="0" ></iframe>
 
