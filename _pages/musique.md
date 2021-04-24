@@ -332,6 +332,29 @@ Ihsan Al Munzer
 <br>
 Marcelle Deschênes
 <br>
+Chris Clark
+<br>
+Clément Janequin
+<br>
+Pierre Schaeffer et Pierre Henry
+<br>
+Plastikman
+<br>
+Gérard Grisey
+<br>
+Andrea Polli
+<br>
+Kaitlyn Aurelia Smith
+<br>
+Brian Eno & Jon Hassel
+<br>
+Jenny Hval
+<br>
+Mort Garson
+<br>
+Minnie Rippertone
+<br>
+
 
 <hr>
 ### [Commissaires](#commissaires)
