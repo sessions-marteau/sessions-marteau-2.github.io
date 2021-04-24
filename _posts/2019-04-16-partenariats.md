@@ -11,7 +11,7 @@ En parallèle de ses événements d'écoute en groupe, l'organisation des Sessio
 <br>
 À l'été 2019, une première collaboration voit le jour avec Funambule Médias, responsable du festival<a href="http://cinemasouslesetoiles.org/"> Cinéma sous les étoiles </a>consacré aux films documentaires sociaux et engagés. Tout au long de l'été, l'équipe des Sessions Marteau a conçu des listes musicales pour créer une ambiance unique avant le début de la projection et ainsi rendre l'expérience du public encore plus agréable.
 <br>
-En collaboration avec le Centre de musique canadienne au Québec, nous avons organisé en mars 2021 une session sur la pionnière de la musique électroacoustique<a href="https://sessionsmarteau.com/session-9/"> Marcelle Deschênes </a> .
+En collaboration avec<a href="https://www.cmcquebec.ca" > Centre de musique canadienne au Québec </a>, nous avons organisé en mars 2021 une session sur la pionnière de la musique électroacoustique<a href="https://sessionsmarteau.com/session-9/"> Marcelle Deschênes </a> .
 
 <br>
 D'autres partenariats avec des partenaires sont à prévoir au cours des prochains mois afin de marier notre passion pour les musiques éclectiques à celles de créateurs et de diffuseurs qui partagent une philosophie de découvertes et d'engagement.
