@@ -14,6 +14,8 @@ dropdown: true
   <hr>
 
 -->
+
+<!--
   
 <DIV align="left">
   
@@ -71,7 +73,7 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 <br>
 
 
-
+-->
 
 
 ### À venir ce printemps sur zoom
