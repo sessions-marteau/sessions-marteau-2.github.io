@@ -18,7 +18,9 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork==1&feed=%2Fsessionsmarteau%2Floeuvre-de-marcelle-desch%C3%AAnes-vue-par-roxanne-turcotte-et-mario-gauthier%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Festelle-schorpp-sur-les-sauterelles%2F" frameborder="0" ></iframe>
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Floeuvre-de-marcelle-desch%C3%AAnes-vue-par-roxanne-turcotte-et-mario-gauthier%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fmat%C3%ACas-reyes-aka-dedosmuertos-prescription-musicale%2F" frameborder="0" ></iframe>
 
@@ -330,6 +332,29 @@ Ihsan Al Munzer
 <br>
 Marcelle Deschênes
 <br>
+Chris Clark
+<br>
+Clément Janequin
+<br>
+Pierre Schaeffer et Pierre Henry
+<br>
+Plastikman
+<br>
+Gérard Grisey
+<br>
+Andrea Polli
+<br>
+Kaitlyn Aurelia Smith
+<br>
+Brian Eno & Jon Hassel
+<br>
+Jenny Hval
+<br>
+Mort Garson
+<br>
+Minnie Rippertone
+<br>
+
 
 <hr>
 ### [Commissaires](#commissaires)
