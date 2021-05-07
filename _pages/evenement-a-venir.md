@@ -76,9 +76,12 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 
 ### À venir ce printemps sur zoom
 
-14 mai - Juan Dumay (Paris)
+14 mai - Juan Dumay (Paris) <a href="https://fb.me/e/1oQAAT7Zh" target="_blank"> détails sur l'évènement Facebook
+</a>
 <br>
 28 mai - Félix B. Desfossés (Rouyn-Noranda)
+Sur la redécouverte des premiers enregistrements rap au Québec, des tentatives douteuses, humoristiques, voire irrespectueuses pour la culture, jusqu'aux véritables premiers enregistrements réalisés par des artistes issus de la première cohorte de la culture hip-hop au Québec.
+
 
 <hr>
 
