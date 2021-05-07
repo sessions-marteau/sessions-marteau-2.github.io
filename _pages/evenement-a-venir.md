@@ -80,6 +80,8 @@ La session sera présentée sur Zoom (le lien sera disponible ici quelques minut
 </a>
 <br>
 28 mai - Félix B. Desfossés (Rouyn-Noranda)
+<br>
+<br>
 Sur la redécouverte des premiers enregistrements rap au Québec, des tentatives douteuses, humoristiques, voire irrespectueuses pour la culture, jusqu'aux véritables premiers enregistrements réalisés par des artistes issus de la première cohorte de la culture hip-hop au Québec.
 
 
