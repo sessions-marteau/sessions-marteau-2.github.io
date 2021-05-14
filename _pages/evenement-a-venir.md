@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Événements à venir
+title: Ce soir!
 image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-Les Sessions d'écoute Marteau présentent le commissaire : Juan Guillermo “Memo” Dumay
+Ce soir 14 mai 2021 les Sessions d'écoute Marteau présentent le commissaire : Juan Guillermo “Memo” Dumay
 
 
 Par cette session virtuelle en mode confinement, nous recevons le musicien et l'artiste sonore Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra]. Compositeur des musiques pour le cinéma, les arts vivants comme aussi des pièces électroacoustiques et des installations. Son écriture est sensible aux modèles sonores propres de la nature, des signaux sonores des animaux et le son comme témoin des espaces et des lieux.
