@@ -16,3 +16,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "kramdown", ">= 2.3.0"
 
+
+gem "webrick", "~> 1.7"
+group :jekyll_plugins do
+    gem 'jekyll-commonmark-ghpages'
+  end

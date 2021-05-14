@@ -43,13 +43,13 @@ mailchimp: eepurl.com/goytwb # Add your MailChimp form identifier. For example -
 
 #-------------------------------
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 permalink: ':title/'
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-# markdown: CommonMarkGhPages  
+markdown: CommonMarkGhPages  
 
 paginate: 10
 paginate_path: "/page/:num"
