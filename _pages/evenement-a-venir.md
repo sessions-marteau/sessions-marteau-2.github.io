@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ce soir!
+title: Événement en cours !
 image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
