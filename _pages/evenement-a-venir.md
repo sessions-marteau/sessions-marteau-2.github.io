@@ -6,13 +6,13 @@ permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-<!---
+
 <hr>
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center>
---->
+
 
 Ce soir 14 mai 2021, dès 19h, les Sessions d'écoute Marteau présentent le commissaire : Juan Guillermo “Memo” Dumay
 
