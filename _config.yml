@@ -49,7 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-markdown: CommonMarkGhPages  
+# markdown: CommonMarkGhPages  
 
 paginate: 10
 paginate_path: "/page/:num"
