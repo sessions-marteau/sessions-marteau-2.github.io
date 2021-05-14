@@ -7,10 +7,10 @@ dropdown: true
 ---
 
 
-
+<center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
-
+<center>
 
 
 
@@ -107,8 +107,10 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 
 
     
+<center>
+    
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
-
+<center>
 <hr>
 
 
