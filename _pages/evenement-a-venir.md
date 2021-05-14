@@ -7,13 +7,13 @@ dropdown: true
 ---
 
 
-<!---
+
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center>
 <hr>
---->  
+
 
 Ce soir 14 mai 2021, dès 19h, les Sessions d'écoute Marteau présentent le commissaire : Juan Guillermo “Memo” Dumay
 
@@ -105,13 +105,13 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 <hr>
 
 
-<!---
+
   <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center>
 <hr>
---->
+
 
 
 
