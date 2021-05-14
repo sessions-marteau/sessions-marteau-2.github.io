@@ -6,72 +6,96 @@ permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-<!--
-  <center>
-    
-    <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
-<center> N’hésitez pas à interagir et poser vos questions dans le chat.
-  <hr>
+Les Sessions d'écoute Marteau présentent le commissaire : Juan Guillermo “Memo” Dumay
 
--->
 
-<!--
-  
-<DIV align="left">
-  
-23 avril 19h - Estelle Schorpp (Montréal)  
+Par cette session virtuelle en mode confinement, nous recevons le musicien et l'artiste sonore Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra]. Compositeur des musiques pour le cinéma, les arts vivants comme aussi des pièces électroacoustiques et des installations. Son écriture est sensible aux modèles sonores propres de la nature, des signaux sonores des animaux et le son comme témoin des espaces et des lieux.
 
-<hr>
-  
-Les Sessions d'écoute Marteau présentent la commissaire : Estelle Schorpp, variations autour d’une sauterelle
 
-<br>
-<br>
+![Memo Dumay](https://sessionsmarteau.com/img/dumay.jpg)
+<p>© Benjamin Echazarreta</p>
 
-Par cette session virtuelle en mode confinement, nous recevons la compositrice et l'artiste sonore Estelle Schorpp qui discutera de la musique des sauterelles qui ne connaît pas de catégories. Elle s'intéresse au vivant, à ses multiples organisations, évolutions et inventions et tente de créer des ponts conceptuels, techniques et esthétiques entre l'écologie et la création sonore. 
 
-<br>
-<br>
 
-Au cours de l’évolution, les sauterelles ont inventé un système auditif ultra-sensible, situé sur les pattes avant qui leur permet de percevoir des fréquences de 120kHz sur de très longues distances. Ça donne quand même bien envie de se poser la question : comment la sauterelle perçoit son milieu ? N’étant pas éthologue, elle répondra en artiste sonore, avec sensibilité et imagination. Krautrock, pop, musique concrète, techno, musique électronique, musique instrumentale, la musique des sauterelles ne connaît pas de catégories. Tout au long de ce périple improvisé, il sera question d’insectes, bien sûr, sous toutes leurs formes, de célébration dansée, et de sensibilité écologique.
+Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sonore né en 1975 à Santiago, au Chili. Élève de Horacio Vaggione entre 2004 et 2006 à l’université Paris 8, il étudie ensuite la Musique Acousmatique et les Arts Sonores à l’Université de Paris-Est et à l’Ina/GRM. Compositeur des musiques pour le cinéma, les arts vivants comme aussi des pièces électroacoustiques et des installations. Son écriture est sensible aux modèles sonores propres de la nature, des signaux sonores des animaux et le son comme témoin des espaces et des lieux. Il considère par ailleurs l’improvisation musicale comme étant une source primaire et créatrice, il aborde cette discipline aussi dans ses performances, comme dans ses compositions. Memo Dumay a été récompensée par le prix Paris-Jeunes-Talents (2003), la bourse Hachette-Lagardère (2009), et l'aide à l'écriture SACEM (2020) pour la musique originale du film Soy Niño.
+
+
 
 
 <br>
 <br>
-<a href="https://estelleschorpp.com/" > Estelle Schorpp </a> est une artiste sonore et compositrice française basée à Montréal. Son travail hétéroclite comprend l'installation sonore, la composition électroacoustique, l'écriture et la performance. Elle s'intéresse au vivant, à ses multiples organisations, évolutions et inventions et tente de créer des ponts conceptuels, techniques et esthétiques entre l'écologie et la création sonore. Récemment, elle s'inspire des écosystèmes naturels et explore le potentiel des systèmes algorithmiques à travers des installations sonores génératives et interactives. Elle est membre du collectif artistique 10μm, avec la chorégraphe Sophie Levasseur et la poète Virginie Savard.
 
-Les sessions d'écoute Marteau réhabilitent l'écoute de la musique dans un espace où le public peut se détendre et s’immerger dans pièces musicales sélectionnées avec soin par des commissaires invités. Bienvenue à toutes et à tous !
+
+### Programme [90 min]  <a href="https://sessionsmarteau.com/musique/#podcasts">- à écouter la liste de lecture en podcast ici </a>
 
 <br>
-<br>
-
-La session sera présentée sur Zoom (le lien sera disponible ici quelques minutes avant la session de 19h.) <a href="https://fb.me/e/44xQLFTlv" > Page Facebook de l'événement </a>
-</DIV>
-
-<hr>
-
 <DIV align="center">
-<a href="https://sessionsmarteau.com/uploads/session-010/program/Sessions-Marteau-010-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
+<a href="https://sessionsmarteau.com/uploads/session-011/program/Sessions-Marteau-011-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
 </DIV>
+
+
+
+#### Bloc 1
+
+1. Luzmila Carpio, _Warmip Kawysanin_, track 3 on Yuyay Jap'ina Tapes, Almost Musique (ALMST 09), 2014. 4m07s. 
+
+2. Lola Kiepja, _Yoyoyoyo (hombres): para Kulan_, track 12 on Hain. 34 Cantos Selk'nam, recorded by Anne Chapman, Not on Label, 1967. 2m53s. 
+
+3. Pram, _The Silk Road_, track 14 on The Moving Frontier, Domino Records (WIGCD203), 2007. 3m22ss. 
+
+#### Bloc 2
+
+4. Horacio Vaggione, _Schall_, track 5 on Musique Pour Piano Et Électroacoustique, Mnémosyne Musique Média (LDC 278 1102), 1994. 7m29s.
+
+5. Embassador Dulgoon, _The Shapeshifting Masks_, track A3 on Eden’s Fuselage, NonLocal Research (NLR030), 2021. 3m39s.
+
+6. Les Bushmen du Kalahari, _Two Voices and Xylophone_, track B2 on San People of Kalahari, Botswana / Namibie, Unknown label, NA. 6m55s.
+
+#### Bloc 3
+
+7. Amon Düül, _Singvögel Rückwärts (Singvögel Vorwärts)_, track A4 on Collapsing Singvögel Rückwärts & Co., Metronome (SMLP 012), 1969. 4m11s.
+
+8. Pacific 231 &  Vox Populi!, _Dumai_, track 2 on Aramesh, Rotorelief (ROTORCD0016), 2009. 3m34s.
+
+9. Don Cherry, _Moving Pictures for the Ear_, track B1 on Eternal Now, Sonet (SNTF 653), 1974. 9m40s.
+
+10. Ethnic Minority Music Of Southern Laos, _Khen_, track 3 on Ethnic Minority Music Of Southern Laos, Harvest, Sublime Frequencies (SF036), 2007. 2m54s.
+
+#### Bloc 4
+
+
+11. Tomoko Sauvage, Clepsydra, track 1 on Musique Hydromantique, Shelter Press (SP087), 2017. 10m49s.
+
+12. Art Ensemble of Chicago, From Bengali, track A2 on Go Home, Galloway Records (600 502), 1970. 3m51s.
+
+#### Bloc 5
+
+
+13. Hildegard Westerkampf, _Cricket Voice_, track 4 on Transformations, Empreintes DIGITALes (IMED 9631), 1987. 10m55s.
+
+14. Unknown, _Lluvia Lluviecita_, track 10 on Aya Ícaros, Unknown label, NA. 2m42s.
+
+#### Bloc 6
+
+
+15. Violeta Parra, _Qué He Sacado con Quererte_, track A· on Recordando A Chile: Canciones De Violeta Parra, Odeón (LDC-36533), 1965. 3m46s.
+
+16. Armando Marileo, _Paupawen_, track 46 on CD companion to Música Mapuche, Revista Musical Chilena (ISBN 9789563355529), 2007. 1m24s.
+
+#### Bloc 7
+
+
+17. Erik Satie, _Ogives N°4_, track A1 on Early Piano Works, Volume Two by Reinbert de Leeuw, Philips (9500 870), 1977. 3m22s.
+
+18. The Cure, _Siamese Twins_, track A4 on Pornography, Fiction Records (FIXD 7), 1982. 5m35s.
+
+
+
 <hr>
 
 
-<!--
-  <center>
-    
-    <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
-<center> N’hésitez pas interagir et poser vos questions.
 
-<hr>
 
--->
-
-<!--
-<DIV align="justify">
-À noter que la liste de lecture sera disponible dès le lendemain sur nos plateformes de <a href="https://sessionsmarteau.com/musique/#podcasts"> podcasts.</a> 
-<br>
-<br>
--->
 
 
 ### À venir ce printemps sur zoom
