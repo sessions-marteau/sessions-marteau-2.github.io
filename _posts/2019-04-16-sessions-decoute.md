@@ -13,12 +13,12 @@ Meikyoku kissaten*, que l'on pourrait traduire par « cafés muets où l'on éco
 
 En partenariat avec les commissaires invités.
 
-<a href="https://sessionsmarteau.com/evenement-a-venir/" target="_blank">- Sessions d'écoute à venir
+<a href="../evenement-a-venir/">- Sessions d'écoute à venir
 </a>
 <br>
-<a href="https://sessionsmarteau.com/sessions-passes/" target="_blank">- Sessions d'écoute passées
+<a href="../sessions-passes/">- Sessions d'écoute passées
 </a>
 <br>
-<a href="https://sessionsmarteau.com/partenariats/" target="_blank">- Sessions en partenariat
+<a href="../partenariats/">- Sessions en partenariat
 </a>
 <br>
