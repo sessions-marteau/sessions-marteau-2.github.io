@@ -18,7 +18,9 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Festelle-schorpp-sur-les-sauterelles%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Fmemo-dumay-parcours-sonore-intemporel%2F" frameborder="0" ></iframe>
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Festelle-schorpp-sur-les-sauterelles%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Floeuvre-de-marcelle-desch%C3%AAnes-vue-par-roxanne-turcotte-et-mario-gauthier%2F" frameborder="0" ></iframe>
 
@@ -358,6 +360,9 @@ Minnie Rippertone
 
 <hr>
 ### [Commissaires](#commissaires)
+
+#### Juan Guillermo DUMAY
+Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sonore né en 1975 à Santiago, au Chili. Élève de Horacio Vaggione entre 2004 et 2006 à l’université Paris 8, il étudie ensuite la Musique Acousmatique et les Arts Sonores à l’Université de Paris-Est et à l’Ina/GRM. Compositeur des musiques pour le cinéma, les arts vivants comme aussi des pièces électroacoustiques et des installations. Son écriture est sensible aux modèles sonores propres de la nature, des signaux sonores des animaux et le son comme témoin des espaces et des lieux. Il considère par ailleurs l’improvisation musicale comme étant une source primaire et créatrice, il aborde cette discipline aussi dans ses performances, comme dans ses compositions. Memo Dumay a été récompensée par le prix Paris-Jeunes-Talents (2003), la bourse Hachette-Lagardère (2009), et l'aide à l'écriture SACEM (2020) pour la musique originale du film Soy Niño.
 
 #### Ralph Elawani
 Ralph Elawani est journaliste, écrivain et directeur littéraire. Il est l’auteur d’une biographie du romancier et cinéaste Emmanuel Cocke (C’est complet au royaume des morts) et d’un essai sur la contre-culture au Québec (Les marges détachables). Autrefois membre des groupes Shortpants Romance et Les Marinellis, il anime depuis quelques années les soirées DJ « Chemises à poils et cravaches à fleurs ».
