@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Événement en cours !
+title: Événement à venir
 image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
 
-
+<!---
 <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
@@ -113,7 +113,7 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
 <center>
 <hr>
-
+--->
 
 
 
