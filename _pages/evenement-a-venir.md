@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Événement à venir
+title: Événements à venir
 image: 2nd-SM_850204525888274432_o.jpg
 permalink: /evenement-a-venir/
 dropdown: true
@@ -120,9 +120,6 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 
 ### À venir ce printemps sur zoom
 
-14 mai - Juan Dumay (Paris) <a href="https://fb.me/e/1oQAAT7Zh" target="_blank"> détails sur l'évènement Facebook
-</a>
-<br>
 28 mai - Félix B. Desfossés (Rouyn-Noranda) <a href="https://fb.me/e/UCGxTAcr" target="_blank"> détails sur l'évènement Facebook</a>
 <br>
 Sur la redécouverte des premiers enregistrements rap au Québec, des tentatives douteuses, humoristiques, voire irrespectueuses pour la culture, jusqu'aux véritables premiers enregistrements réalisés par des artistes issus de la première cohorte de la culture hip-hop au Québec.
