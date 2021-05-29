@@ -18,7 +18,9 @@ permalink: /musique/
 
 <hr>
 
-<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Fmemo-dumay-parcours-sonore-intemporel%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Ff%C3%A9lix-b-desfoss%C3%A9s-sur-les-racines-du-rap-qu%C3%A9b%C3%A9cois%2F" frameborder="0" ></iframe>
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fmemo-dumay-parcours-sonore-intemporel%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Festelle-schorpp-sur-les-sauterelles%2F" frameborder="0" ></iframe>
 
@@ -361,8 +363,9 @@ Minnie Rippertone
 <hr>
 ### [Commissaires](#commissaires)
 
-#### Juan Guillermo DUMAY
-Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sonore né en 1975 à Santiago, au Chili. Élève de Horacio Vaggione entre 2004 et 2006 à l’université Paris 8, il étudie ensuite la Musique Acousmatique et les Arts Sonores à l’Université de Paris-Est et à l’Ina/GRM. Compositeur des musiques pour le cinéma, les arts vivants comme aussi des pièces électroacoustiques et des installations. Son écriture est sensible aux modèles sonores propres de la nature, des signaux sonores des animaux et le son comme témoin des espaces et des lieux. Il considère par ailleurs l’improvisation musicale comme étant une source primaire et créatrice, il aborde cette discipline aussi dans ses performances, comme dans ses compositions. Memo Dumay a été récompensée par le prix Paris-Jeunes-Talents (2003), la bourse Hachette-Lagardère (2009), et l'aide à l'écriture SACEM (2020) pour la musique originale du film Soy Niño.
+
+#### Félix B. Desfossés
+L’animateur, journaliste, auteur et crate digger Félix B. Desfossés propose une redécouverte des premiers enregistrements rap au Québec, des tentatives douteuses, humoristiques, voire irrespectueuses pour la culture, jusqu'aux véritables premiers enregistrements réalisés par des artistes issus de la première cohorte de la culture hip-hop au Québec.
 
 #### Ralph Elawani
 Ralph Elawani est journaliste, écrivain et directeur littéraire. Il est l’auteur d’une biographie du romancier et cinéaste Emmanuel Cocke (C’est complet au royaume des morts) et d’un essai sur la contre-culture au Québec (Les marges détachables). Autrefois membre des groupes Shortpants Romance et Les Marinellis, il anime depuis quelques années les soirées DJ « Chemises à poils et cravaches à fleurs ».
@@ -374,7 +377,10 @@ Émilie Fortin est une musicienne interdisciplinaire et enseignante passionné
 Sébastien Fournier est ex-membre du groupe d'avant-rock Panoticon Eyelids et du quatuor kraut-funk Avec le Soleil Sortant de sa Bouche (regroupant des membres de Pas Chic Chic, Set Fire to Flames et Fly Pam Am), se produit en Europe ainsi qu'au festival légendaire All Tomorrow's Party. Depuis 2019 Fournier se concentre principalement sur l'enregistrement et le mixage de groupes de la scène rock expérimentale montréalaise.
 
 #### Mario Gauthier
-Chercheur indépendant et artiste audio, Mario Gauthier été réalisateur à l’ex-chaîne culturelle de Radio-Canada de 1986 à 2003 (Prix Opus/Événement médiatique de l’année : Conseil québécois de la musique / émission L’espace du son). Il a aussi été membre du quatuor d’improvisation électroacoustique Theresa Transistor (2005-2016), chargé de projet à la Phonothèque québécoise (2004-2012) et professeur à l’école Vincent D’Indy (2012- 2019). Depuis 2012, en sus de faire de l’optimisation numérique, il collabore régulièrement avec le département d’art cinématographique de l’U. de M. Il enseigne présentement la baladodiffusion à L’UQAM .
+Chercheur indépendant et artiste audio, Mario Gauthier été réalisateur à l’ex-chaîne culturelle de Radio-Canada de 1986 à 2003 (Prix Opus/Événement médiatique de l’année : Conseil québécois de la musique / émission L’espace du son). Il a aussi été membre du quatuor d’improvisation électroacoustique Theresa Transistor (2005-2016), chargé de projet à la Phonothèque québécoise (2004-2012) et professeur à l’école Vincent D’Indy (2012- 2019). Depuis 2012, en sus de faire de l’optimisation numérique, il collabore régulièrement avec le département d’art cinématographique de l’U. de M. Il enseigne présentement la baladodiffusion à L’UQAM.
+
+#### Juan Guillermo Dumay
+Juan Guillermo Dumay [aka Mémo Dumay / Mantaspectra] est musicien, artiste sonore né en 1975 à Santiago, au Chili. Élève de Horacio Vaggione entre 2004 et 2006 à l’université Paris 8, il étudie ensuite la Musique Acousmatique et les Arts Sonores à l’Université de Paris-Est et à l’Ina/GRM. Compositeur des musiques pour le cinéma, les arts vivants comme aussi des pièces électroacoustiques et des installations. Son écriture est sensible aux modèles sonores propres de la nature, des signaux sonores des animaux et le son comme témoin des espaces et des lieux. Il considère par ailleurs l’improvisation musicale comme étant une source primaire et créatrice, il aborde cette discipline aussi dans ses performances, comme dans ses compositions. Memo Dumay a été récompensée par le prix Paris-Jeunes-Talents (2003), la bourse Hachette-Lagardère (2009), et l'aide à l'écriture SACEM (2020) pour la musique originale du film Soy Niño.
 
 #### Felix-Antoine Hamel
 Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
