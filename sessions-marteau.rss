@@ -250,6 +250,19 @@
 </item>
 
 
+<item>
+   <title>Félix B. Desfossés sur les racines du rap québécois</title>
+   <description>Redécouverte des premiers enregistrements rap au Québec, des tentatives douteuses, humoristiques, voire irrespectueuses pour la culture, jusqu'aux véritables premiers enregistrements réalisés par des artistes issus de la première cohorte de la culture hip-hop au Québec.</description>
+   <itunes:summary>Redécouverte des premiers enregistrements rap au Québec, des tentatives douteuses, humoristiques, voire irrespectueuses pour la culture, jusqu'aux véritables premiers enregistrements réalisés par des artistes issus de la première cohorte de la culture hip-hop au Québec.</itunes:summary>
+   <itunes:subtitle>Redécouverte des premiers enregistrements rap au Québec, des tentatives douteuses, humoristiques, voire irrespectueuses pour la culture, jusqu'aux véritables premiers enregistrements réalisés par des artistes issus de la première cohorte de la culture hip-hop au Québec.</itunes:subtitle>
+   <itunesu:category itunesu:code="102107" />
+   <enclosure url="https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/012-Felix-Desfosses.mp3" type="audio/mpeg" length="1" />
+   <guid>https://vigliensoni.com/sessions-marteau/session-virtuelle/podcast/012-Felix-Desfosses.mp3</guid>
+   <itunes:duration>0:46:04</itunes:duration>
+   <pubDate>Fri, 28 May 2021 19:00:00 GMT</pubDate>
+</item>
+
+
 <!--END REPEAT--> 
 
 </channel>
