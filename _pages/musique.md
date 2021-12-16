@@ -385,6 +385,9 @@ Juan Guillermo Dumay [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 #### Felix-Antoine Hamel
 Il a collaboré comme chroniqueur au magazine La Scena Musicale, couvrant occasionnellement des festivals dont le Suoni Per Il Popolo et le Festival International de Musique Actuelle de Victoriaville. Il a joué comme musicien au sein du Trio d’Improvisation Totale (TIT), puis de Ninja Simone et aujourd’hui dans HeArt Ensemble, avec le légendaire batteur et tablaïste Guy Thouin (Quatuor de Jazz Libre du Québec). On peut le lire sur le blogue Jazz Viking ainsi que dans Zinyle. Passionné du jazz sous toutes ses formes, il a amassé depuis les années 1990 une respectable collection d’essentiels et de raretés, dont il aime faire profiter ceux qui partagent sa passion.
 
+#### Martin Marier
+Il s’intéresse principalement au rapport entre le geste et le son en musique électronique, ce qui l'a amené à concevoir l'Éponge, un instrument de musique numérique avec lequel il performe. Il travaille à l'Université de Montréal où il donne des cours d'enregistrement sonore, de programmation musicale et de lutherie numérique. Avec Véro Marengère, il est membre du duo d'épongistes 22marbles.
+
 #### Hazy Montagne Mystique
 Cet artiste et musicien propose une sélection musicale qui se consacre aux trésors perdus, retrouvés et futurs. Dans le cocon céleste, un tourbillonnement de sons astraux se fait lancer dans les étoiles; beats bad a$$ U.K., old r'n'b, pitch down, pastoral psychedelia, sons ethnologiques, lo-fi, hi-fi, freak organique, smooth/bong jazz et poking musique.
 
