@@ -120,7 +120,7 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 
 ### À venir
 
-20 décembre - Session Martin Marier: l'invention récente d'instruments de musiques électroniques <a href="https://fb.me/e/2T1EoGHU3" target="_blank"> détails sur l'évènement Facebook</a>
+20 décembre -  <a href="https://fb.me/e/2T1EoGHU3" target="_blank"> Session Martin Marier: l'invention récente d'instruments de musiques électroniques -> voir les détails sur l'évènement Facebook</a>
 <br>
 Par cette dernière session virtuelle de l'année 2021, nous recevons l'épongiste, Martin Marier. Il nous propose une sélection d'œuvres qui intègrent des instruments de musiques électroniques dont l’invention est relativement récente. 
 
