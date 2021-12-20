@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Test"
-image: 
+title: "Session d'écoute #13"
+image: martin-marier.jpg
 tags: 
     - martin-marier
     - session
