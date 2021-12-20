@@ -20,7 +20,7 @@ permalink: /musique/
 
 <iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fsessionsmarteau%2Fmm-instruments-de-musiques-%C3%A9lectroniques%2F" frameborder="0" ></iframe>
 
-<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&feed=%2Fsessionsmarteau%2Ff%C3%A9lix-b-desfoss%C3%A9s-sur-les-racines-du-rap-qu%C3%A9b%C3%A9cois%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Ff%C3%A9lix-b-desfoss%C3%A9s-sur-les-racines-du-rap-qu%C3%A9b%C3%A9cois%2F" frameborder="0" ></iframe>
 
 <iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&hide_artwork=1&feed=%2Fsessionsmarteau%2Fmemo-dumay-parcours-sonore-intemporel%2F" frameborder="0" ></iframe>
 
