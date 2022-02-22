@@ -14,7 +14,9 @@ permalink: /musique/
 <a href="https://www.mixcloud.com/sessionsmarteau/">
    <img src="{{site.baseurl}}/img/mixcloud-og-image-162.png">
 </a>
-           
+<a href="https://podcasts.google.com/feed/aHR0cHM6Ly9zZXNzaW9uc21hcnRlYXUuY29tL3Nlc3Npb25zLW1hcnRlYXUucnNz?sa=X&ved=0CAIQ9sEGahcKEwiors3d0JP2AhUAAAAAHQAAAAAQIg&hl=fr-CA">
+   <img src="{{site.baseurl}}/img/Google_podcast.png">
+</a>           
 
 <hr>
 
