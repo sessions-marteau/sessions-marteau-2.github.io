@@ -120,9 +120,9 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 
 ### À venir
 
-20 décembre -  <a href="https://fb.me/e/2T1EoGHU3" target="_blank"> Session Martin Marier: l'invention récente d'instruments de musiques électroniques -> voir les détails sur l'évènement Facebook</a>
+19 mars 2022 -  <a href="https://fb.me/e/3czTYWMF9" target="_blank"> Session Bianca Néron raconte avec des textures sonores -> voir les détails sur l'évènement Facebook</a>
 <br>
-Par cette dernière session virtuelle de l'année 2021, nous recevons l'épongiste, Martin Marier. Il nous propose une sélection d'œuvres qui intègrent des instruments de musiques électroniques dont l’invention est relativement récente. 
+Par cette première session en présence depuis 2019, nous recevons la commissaire Bianca Néron, alias Technique Nado. Elle ouvre le bal le samedi 19 mars à 20h40 avec un mix qui explore l’expression des mondes imaginaires entre l’intuition et l’esthétique afin de répondre à cette question : comment raconter une histoire avec des textures sonores ?
 
 
 <hr>
