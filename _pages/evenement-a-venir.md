@@ -120,7 +120,7 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 
 ### À venir
 
-19 mars 2022 -  <a href="https://fb.me/e/3czTYWMF9" target="_blank"> Session Bianca Néron raconte avec des textures sonores -> voir les détails sur l'évènement Facebook</a>
+19 mars 2022 -  <a href="https://mailchi.mp/aac1f2435bd3/marteau-podcast-15927974?fbclid=IwAR0jjfD49BmJzhBZDySV609u7Fa0LKv2F1iHu7m3UgVxRIpyzAYFpxAJ_I0" target="_blank"> Session Bianca Néron raconte avec des textures sonores -> voir les détails sur la page de l'évènement</a>
 <br>
 Par cette première session en présence depuis 2019, nous recevons la commissaire Bianca Néron, alias Technique Nado. Elle ouvre le bal le samedi 19 mars à 20h40 avec un mix qui explore l’expression des mondes imaginaires entre l’intuition et l’esthétique afin de répondre à cette question : comment raconter une histoire avec des textures sonores ?
 
