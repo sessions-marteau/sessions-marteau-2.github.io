@@ -125,9 +125,15 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 Par cette première session en présence depuis 2019, nous recevons la commissaire Bianca Néron, alias Technique Nado. Elle ouvre le bal le samedi 19 mars à 20h40 avec un mix qui explore l’expression des mondes imaginaires entre l’intuition et l’esthétique afin de répondre à cette question : comment raconter une histoire avec des textures sonores ?
 
 <br>
-### Programme [120 min]  <a href="https://sessionsmarteau.com/musique/#podcasts">- à écouter la liste de lecture en podcast ici </a>
+### Programme [120 min]  
+<a href="https://sessionsmarteau.com/uploads/session-014/program/Sessions-Marteau-014-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
+
 
 <hr>
+
+<hr>
+
+
 
 
 
