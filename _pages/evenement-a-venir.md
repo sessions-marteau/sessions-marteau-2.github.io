@@ -117,6 +117,7 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 --->
 
 
+<!---
 
 ### À venir
 
@@ -132,7 +133,7 @@ Par cette première session en présence depuis 2019, nous recevons la commissai
 <hr>
 
 <hr>
-
+--->
 
 
 
