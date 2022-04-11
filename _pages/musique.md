@@ -398,6 +398,9 @@ Cet artiste et musicien propose une sélection musicale qui se consacre aux tre
 #### Véro Marengère 
 Artiste émergente, le travail de Marengère s’articule autour de la prise de risque, poussant toujours l’improvisation vers l’avant-garde. Elle est présentement membre du duo ​Die Päonie et ​22marbles ​ et elle est commissaire sonore à l’émission ​Radio Atelier CIBL 101,5. Son travail est aujourd’hui orienté vers le noise, le feedback, le no-input, l’acousmatique et le circuit-bending.
 
+#### Bianca Néron | Technique Nado
+Mieux connue sous l’alias Technique Nado, Bianca Néron, expérimente avec la musique électronique depuis dix ans. Elle est compositrice originale ainsi que DJ. Sa plus récente parution est sous l'étiquette Montréalaise Unfullfilment où elle signe un remix. À titre de DJ, elle est à la tête depuis un an de deux émissions de radio mensuelle. Arythmie, sur les ondes de Still.Fm, où elle explore l’écoute active et la création de mixes n’étant pas (ou peu) axés sur la technique du beat matching, mais plus tôt sur des transitions utilisant les textures sonores. Sa seconde émission est Vitamines Rythmiques, sur les ondes de la Laface.b, le jumeau maléfique d’Arythmie axé à 100% sur le “beatmatching” et la musique électronique rythmée.
+
 #### Matías Reyes | dedosmuertos
 À la fois DJ, designer sonore et musicien, Matías Reyes poursuit une inlassable de quête pour comprendre les interactions et le sens entre les chansons et les rythmes. Croyant que « tout se danse », il explore le futur en remontant les racines du passé, cherchant dans les traces du groove mondial une façon d’abattre les frontières des genres et des styles. Chilien d’origine et maintenant établi à Paris, Matías Reyes profite de la pandémie pour repenser les façons de socialiser, de célébrer et de partager des énergies.
 
