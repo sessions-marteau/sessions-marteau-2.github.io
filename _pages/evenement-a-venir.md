@@ -117,23 +117,34 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 --->
 
 
-<!---
+
 
 ### À venir
 
-19 mars 2022 -  <a href="https://mailchi.mp/aac1f2435bd3/marteau-podcast-15927974?fbclid=IwAR0jjfD49BmJzhBZDySV609u7Fa0LKv2F1iHu7m3UgVxRIpyzAYFpxAJ_I0" target="_blank"> Session Bianca Néron raconte avec des textures sonores -> voir les détails sur la page de l'évènement</a>
+30 juin 2022 19h -  <a href="https://mailchi.mp/19e2c854da4b/marteau-podcast-16430259" target="_blank"> Session Hana:Fleur avec An-Laurence -> voir les détails sur la page de l'évènement</a>
 <br>
-Par cette première session en présence depuis 2019, nous recevons la commissaire Bianca Néron, alias Technique Nado. Elle ouvre le bal le samedi 19 mars à 20h40 avec un mix qui explore l’expression des mondes imaginaires entre l’intuition et l’esthétique afin de répondre à cette question : comment raconter une histoire avec des textures sonores ?
+An Laurence propose une collection de pièces introspectives, délicates ou amères, pour nourrir notre nostalgie et ouvrir nos coeurs.
+
+An Laurence est une musicienne (guitare/voix) basée à Tiohtià:ke/Mooniyang/Montréal et active sur la scène de musique contemporaine/expérimentale, et une artiste de performance et multimédia dont le travail s'attarde sur la mémoire et l'identité transnationale. Une interprète audacieuse, elle collabore avec des artistes de disciplines variées et s'épanouit dans des contextes qui réimaginent la performance musicale traditionnelle. Un rendez-vous qui prendra place autour d'œuvres de Tomoko Sauvage et Tanya Tagaq.
+ 
+Les sessions d'écoute Marteau en collaboration avec le Cinéma Public et Le Livart présentent cette session à 𝗕𝗹𝗲𝘂 𝘀𝗼𝗶𝗿, une programmation estivale à Montréal. En plus d’une série de projections et de soirées d'écoute variées dans sa cour intérieure, 𝗕𝗹𝗲𝘂 𝘀𝗼𝗶𝗿 accueillera des rencontres avec des invité.e.s, un accès à l’exposition en cours, et sans oublier, un espace bar pour profiter des douces soirées d’été.
+
+Le Livart est situé au
+3980 St-Denis
+Montréal
+
+
+<!---
 
 <br>
 ###  Session Bianca Néron [120 min]  
 <a href="https://sessionsmarteau.com/uploads/session-014/program/Sessions-Marteau-014-Programme.pdf" download>[Télécharger le programme ici / Download the program here] </a>
-
-
-<hr>
-
-<hr>
 --->
+
+<hr>
+
+<hr>
+
 
 
 
