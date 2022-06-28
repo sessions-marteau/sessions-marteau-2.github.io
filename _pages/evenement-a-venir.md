@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Événements à venir
-image: An-Laurence_Livart.jpg
+image: Cinema_Public-Livart.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
