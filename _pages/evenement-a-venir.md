@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Événements à venir
-image: An-Laurence évènement.jpg
+image: An-Laurence_Livart.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
@@ -136,6 +136,10 @@ Les sessions d'écoute Marteau en collaboration avec le Cinéma Public et Le Liv
 Le Livart est situé au
 3980 St-Denis
 Montréal
+
+Billets en vente ici <a href="https://cinemapublic.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=90488&SectionsID=1" target="_blank"> Session Hana:Fleur avec An-Laurence</a>
+
+
 
 
 <!---
