@@ -125,7 +125,7 @@ Juan Guillermo DUMAY [aka Mémo Dumay / Mantaspectra] est musicien, artiste sono
 
 ### À venir
 
-30 juin 2022 19h -  <a href="https://mailchi.mp/19e2c854da4b/marteau-podcast-16430259" target="_blank"> Session Hana:Fleur avec An-Laurence -> voir les détails sur la page de l'évènement</a>
+30 juin 2022 19h -  <a href="https://cinemapublic.ca/films/session-marteau-an-laurence/" target="_blank"> Session Hana:Fleur avec An-Laurence -> voir les détails sur la page de l'évènement</a>
 <br>
 An Laurence propose une collection de pièces introspectives, délicates ou amères, pour nourrir notre nostalgie et ouvrir nos coeurs.
 
