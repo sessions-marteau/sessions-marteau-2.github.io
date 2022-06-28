@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Événements à venir
-image: 2nd-SM_850204525888274432_o.jpg
+image: An-Laurence évènement.jpg
 permalink: /evenement-a-venir/
 dropdown: true
 ---
 
+
 <!---
+
+image: 2nd-SM_850204525888274432_o.jpg
+
 <center>
     
     <h6> <a href="https://sessionsmarteau.com/session-virtuelle"> Joignez-nous sur ZOOM (en STEREO) / Join us on ZOOM (in STEREO)</a></h6>
