@@ -137,7 +137,7 @@ Le Livart est situé au
 3980 St-Denis
 Montréal
 
-Billets en vente ici <a href="https://cinemapublic.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=90488&SectionsID=1" target="_blank"> Session Hana:Fleur avec An-Laurence</a> utiliser le code: MARTEAU pour obtenir 5$ de rabais.
+Billets en vente ici <a href="https://cinemapublic.ticketacces.net/fr/organisation/achat/recherche-manuelle.cfm?RepresentationID=90488&SectionsID=1" target="_blank"> Session Hana:Fleur avec An-Laurence</a> utiliser le code: MARTEAU pour obtenir 50% de rabais.
 
 
 
